@@ -23,19 +23,15 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Trg+Kralja+Tomislava+Zagreb+Croatia&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4946.832390391059!2d15.9786702!3d45.8065479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f850400275%3A0x7300798311973397!2sTrg%20Kralja%20Tomislava!5e1!3m2!1szh-CN!2s!4v1788313187886!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Trg Kralja Tomislava"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Trg Kralja Tomislava, Zagreb"
           />
         </div>
 

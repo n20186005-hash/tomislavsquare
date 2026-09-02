@@ -6,10 +6,34 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumb: string[] = messages?.intro?.breadcrumb || [];
+  const nearbyText: string = messages?.intro?.nearby || '';
+  const nearbyTitle: string = messages?.intro?.nearbyTitle || '';
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        {/* Breadcrumb: entity hierarchy */}
+        {breadcrumb.length > 0 && (
+          <nav aria-label="Breadcrumb" className="mb-6">
+            <ol className="flex flex-wrap items-center gap-1.5 text-sm">
+              {breadcrumb.map((item, i) => (
+                <li key={i} className="flex items-center gap-1.5">
+                  {i > 0 && <span aria-hidden="true" style={{ color: 'var(--text-muted)' }}>›</span>}
+                  <span
+                    style={{
+                      color: i === breadcrumb.length - 1 ? 'var(--text-primary)' : 'var(--text-muted)',
+                      fontWeight: i === breadcrumb.length - 1 ? 500 : 400,
+                    }}
+                  >
+                    {item}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -66,6 +90,17 @@ export default function Intro() {
             </ul>
           </div>
         </div>
+
+        {nearbyText && (
+          <div className="mt-10 p-6 sm:p-8 rounded-xl" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+            <h3 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+              {nearbyTitle}
+            </h3>
+            <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              {nearbyText}
+            </p>
+          </div>
+        )}
 
         <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>

@@ -23,7 +23,7 @@ export async function generateMetadata({
         'en': enUrl,
         'hr': hrUrl,
         'de': deUrl,
-        'x-default': enUrl,
+        'x-default': hrUrl,
       },
     },
   };

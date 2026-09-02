@@ -4,19 +4,19 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/trg-kralja-tomislava (1).jpg', alt: 'Trg Kralja Tomislava Photo 1' },
-  { src: '/gallery/trg-kralja-tomislava (2).jpg', alt: 'Trg Kralja Tomislava Photo 2' },
-  { src: '/gallery/trg-kralja-tomislava (3).jpg', alt: 'Trg Kralja Tomislava Photo 3' },
-  { src: '/gallery/trg-kralja-tomislava (4).jpg', alt: 'Trg Kralja Tomislava Photo 4' },
-  { src: '/gallery/trg-kralja-tomislava (5).jpg', alt: 'Trg Kralja Tomislava Photo 5' },
-  { src: '/gallery/trg-kralja-tomislava (6).jpg', alt: 'Trg Kralja Tomislava Photo 6' },
-  { src: '/gallery/trg-kralja-tomislava (7).jpg', alt: 'Trg Kralja Tomislava Photo 7' },
-  { src: '/gallery/trg-kralja-tomislava (8).jpg', alt: 'Trg Kralja Tomislava Photo 8' },
-  { src: '/gallery/trg-kralja-tomislava (9).jpg', alt: 'Trg Kralja Tomislava Photo 9' },
-  { src: '/gallery/trg-kralja-tomislava (10).jpg', alt: 'Trg Kralja Tomislava Photo 10' },
-  { src: '/gallery/trg-kralja-tomislava (11).jpg', alt: 'Trg Kralja Tomislava Photo 11' },
-  { src: '/gallery/trg-kralja-tomislava (12).jpg', alt: 'Trg Kralja Tomislava Photo 12' },
-  { src: '/gallery/trg-kralja-tomislava (13).jpg', alt: 'Trg Kralja Tomislava Photo 13' },
+  { src: '/gallery/trg-kralja-tomislava-1.jpg', alt: 'Trg Kralja Tomislava Photo 1' },
+  { src: '/gallery/trg-kralja-tomislava-2.jpg', alt: 'Trg Kralja Tomislava Photo 2' },
+  { src: '/gallery/trg-kralja-tomislava-3.jpg', alt: 'Trg Kralja Tomislava Photo 3' },
+  { src: '/gallery/trg-kralja-tomislava-4.jpg', alt: 'Trg Kralja Tomislava Photo 4' },
+  { src: '/gallery/trg-kralja-tomislava-5.jpg', alt: 'Trg Kralja Tomislava Photo 5' },
+  { src: '/gallery/trg-kralja-tomislava-6.jpg', alt: 'Trg Kralja Tomislava Photo 6' },
+  { src: '/gallery/trg-kralja-tomislava-7.jpg', alt: 'Trg Kralja Tomislava Photo 7' },
+  { src: '/gallery/trg-kralja-tomislava-8.jpg', alt: 'Trg Kralja Tomislava Photo 8' },
+  { src: '/gallery/trg-kralja-tomislava-9.jpg', alt: 'Trg Kralja Tomislava Photo 9' },
+  { src: '/gallery/trg-kralja-tomislava-10.jpg', alt: 'Trg Kralja Tomislava Photo 10' },
+  { src: '/gallery/trg-kralja-tomislava-11.jpg', alt: 'Trg Kralja Tomislava Photo 11' },
+  { src: '/gallery/trg-kralja-tomislava-12.jpg', alt: 'Trg Kralja Tomislava Photo 12' },
+  { src: '/gallery/trg-kralja-tomislava-13.jpg', alt: 'Trg Kralja Tomislava Photo 13' },
 ];
 
 export default function Gallery() {

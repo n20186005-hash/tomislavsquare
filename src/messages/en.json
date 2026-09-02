@@ -1,43 +1,62 @@
 {
   "meta": {
-    "title": "Trg Kralja Tomislava – Zagreb, Croatia",
-    "description": "Complete travel guide to Trg Kralja Tomislava in Zagreb. Learn about this city park, including location, views, access, and visitor information."
+    "title": "King Tomislav Square (Trg Kralja Tomislava), Zagreb – Park & Monument Guide",
+    "description": "Complete visitor guide to Trg Kralja Tomislava (King Tomislav Square) in Zagreb: the King Tomislav equestrian monument, the Art Pavilion, Lenuci's Green Horseshoe, how to get there from the Main Railway Station, opening hours and visit tips."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "history": "History",
+    "facilities": "Facilities",
+    "accessibility": "Accessibility",
     "backToHome": "Back to Home"
   },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved. Head back to the homepage and keep exploring Trg Kralja Tomislava.",
+    "backHome": "Back to Home"
+  },
+  "cookieBanner": {
+    "title": "Cookie notice",
+    "text": "This website uses essential cookies and only loads optional analytics cookies with your consent. You can change your preferences at any time.",
+    "acceptAll": "Accept All",
+    "acceptEssential": "Essential Only",
+    "settings": "Cookie Settings"
+  },
   "hero": {
-    "title": "Trg Kralja Tomislava",
-    "subtitle": "City Park · Zagreb, Croatia",
+    "title": "King Tomislav Square (Trg Kralja Tomislava), Zagreb",
+    "subtitle": "City Park & Monument · Zagreb, Croatia",
     "rating": "4.8",
-    "reviewCount": "7,500 reviews",
+    "reviewCount": "7,543 reviews",
     "type": "City Park",
     "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7"
+    "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
+    "imgAlt": "Trg Kralja Tomislava (King Tomislav Square) city park in Zagreb with the King Tomislav monument"
   },
   "intro": {
     "title": "Discover Trg Kralja Tomislava",
-    "description": "Trg Kralja Tomislava (King Tomislav Square) is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the main railway station, it welcomes visitors with the magnificent Art Pavilion and a majestic monument to King Tomislav. It is a popular gathering place and a masterpiece of landscape architecture.",
+    "breadcrumb": ["Trg Kralja Tomislava", "Zagreb", "Croatia"],
+    "nearbyTitle": "Landmarks Around the Square",
+    "nearby": "When visiting Trg Kralja Tomislava, you can easily explore the surrounding landmarks of Zagreb's Green Horseshoe, including Zrinjevac Park and Ban Jelačić Square (Trg bana Jelačića), as well as the Croatian National Theatre and the Botanical Garden.",
+    "description": "Trg Kralja Tomislava (King Tomislav Square), also known simply as Tomislavac or Tomislavov trg, is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the Main Railway Station (Glavni kolodvor), it welcomes visitors with the elegant yellow Art Pavilion and a majestic equestrian monument to King Tomislav, the first King of Croatia. It is the southern gateway of Lenuci's Green Horseshoe, a popular meeting place and a masterpiece of 19th-century landscape architecture.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "A great place to relax after arriving at the Main Railway Station.",
-        "Perfect for photography, especially with the Art Pavilion in the background.",
-        "In winter, the square often transforms into a magical ice skating rink.",
-        "Easily accessible and surrounded by beautiful historic architecture."
+        "A great place to relax right after arriving at the Main Railway Station.",
+        "Perfect for photography, especially with the Art Pavilion and the monument in the background.",
+        "In winter, the square often hosts the magical ice rink of Advent in Zagreb.",
+        "Easily accessible by tram, and surrounded by beautiful historic architecture."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "King Tomislav Monument",
-        "Art Pavilion backdrop",
-        "Beautiful floral displays",
-        "Part of Zagreb's Green Horseshoe"
+        "King Tomislav Equestrian Monument (1938–1947)",
+        "Art Pavilion backdrop (Umjetnički paviljon, 1898)",
+        "Beautiful floral displays and shaded lawns",
+        "Southern gateway of Zagreb's Green Horseshoe"
       ]
     }
   },
@@ -47,22 +66,234 @@
       {
         "id": "history",
         "title": "History & Heritage",
-        "content": "Named after the first Croatian King, Tomislav, the square was designed in the late 19th and early 20th centuries. The iconic monument of King Tomislav on horseback, created by sculptor Robert Frangeš-Mihanović, was erected in 1947, commemorating the 1000th anniversary of the Croatian Kingdom."
+        "content": "The square is named after Tomislav, crowned the first King of Croatia in 925. Its urban design dates to the late 19th and early 20th centuries, when the city was expanding southwards towards the new railway station. The iconic equestrian statue of King Tomislav, created by sculptor Robert Frangeš-Mihanović, was completed in 1938 and finally unveiled in October 1947, honouring the millennium of the Croatian Kingdom."
+      },
+      {
+        "id": "monument",
+        "title": "The King Tomislav Monument",
+        "content": "The bronze equestrian statue faces the railway station, so every arriving traveller meets the king first. Tomislav (d. c. 928) united the Croatian duchies, repelled the Magyar invasions and was crowned the first king of the Croatian Kingdom in 925. The statue was modelled by Frangeš-Mihanović in 1938, but its unveiling was delayed by disputes and the Second World War until 1947."
       },
       {
         "id": "geography",
         "title": "Location & Landscape",
-        "content": "Situated in the Lower Town of Zagreb, it is the first part of the 'Lenuci Horseshoe' (a U-shaped system of city squares and parks) that visitors see when exiting the main train station. The square features meticulously maintained lawns, colorful flower beds, and shaded pathways."
+        "content": "Situated in the Lower Town of Zagreb, the square forms the southern end of Lenuci's Green Horseshoe – a U-shaped chain of squares and parks designed by city planner Milan Lenuci. The square features meticulously maintained lawns, colourful flower beds and shaded pathways, with the historicist Glavni kolodvor railway station (1892) closing the vista to the south."
       },
       {
         "id": "architecture",
         "title": "Architecture & Surroundings",
-        "content": "The northern end of the square is dominated by the Art Pavilion (Umjetnički paviljon), an elegant yellow exhibition building dating back to 1898. The surrounding streets feature beautiful classicist and secessionist buildings that define Zagreb's Lower Town."
+        "content": "The northern end of the square is dominated by the Art Pavilion (Umjetnički paviljon), an elegant yellow exhibition hall originally built for the 1896 Budapest Millennium Exhibition and re-erected in Zagreb in 1898. Around the square stand classicist and secessionist buildings that define Zagreb's Lower Town, including the Croatian State Archives and the Hotel Esplanade (1925)."
       },
       {
         "id": "protection",
         "title": "Urban Significance",
-        "content": "As a protected urban and cultural space, Trg Kralja Tomislava plays a central role in Zagreb's social and cultural life. It frequently hosts open-air concerts, cultural events, and the popular 'Advent in Zagreb' winter festival."
+        "content": "As part of the protected historical urban ensemble of Zagreb, Trg Kralja Tomislava plays a central role in the city's social and cultural life. It frequently hosts open-air concerts, exhibitions and cultural events, and it is the classic first sight of Zagreb for travellers arriving by train."
+      },
+      {
+        "id": "events",
+        "title": "Events & Advent",
+        "content": "During Advent in Zagreb – repeatedly voted one of Europe's best Christmas markets – the square has hosted the Zagreb Ice Park, a large outdoor skating rink surrounded by lights and stalls. In summer it turns into a green oasis for concerts, picnics and relaxation."
+      }
+    ]
+  },
+  "history": {
+    "title": "History in a Timeline",
+    "subtitle": "From a Croatian king to a beloved city park",
+    "timeline": [
+      {
+        "year": "925",
+        "title": "A kingdom is born",
+        "text": "Tomislav is crowned the first King of Croatia with papal blessing. Around 928 he dies, and the cause of his death remains a mystery to this day."
+      },
+      {
+        "year": "1862",
+        "title": "The railway arrives",
+        "text": "The first train enters Zagreb (then about 40,000 inhabitants), connecting the city with Vienna and Budapest and shaping the future railway quarter."
+      },
+      {
+        "year": "1892",
+        "title": "Glavni kolodvor opens",
+        "text": "The historicist Main Railway Station, designed by Hungarian railway engineer Ferenc Pfaff, is completed and closes the southern side of the future square."
+      },
+      {
+        "year": "1896–1898",
+        "title": "The Art Pavilion arrives",
+        "text": "Built for the Budapest Millennium Exhibition, the metal-frame Art Pavilion is dismantled, shipped by train to Zagreb and re-opened in 1898 as Croatia's first purpose-built exhibition hall."
+      },
+      {
+        "year": "1938–1947",
+        "title": "Monument to King Tomislav",
+        "text": "Sculptor Robert Frangeš-Mihanović completes the equestrian statue in 1938. After years of disputes and the Second World War, the monument is finally unveiled in October 1947."
+      },
+      {
+        "year": "Today",
+        "title": "Zagreb's green living room",
+        "text": "The square hosts concerts, markets and the Advent ice park. For generations of travellers, the view of the statue, the Art Pavilion, the cathedral towers and Medvednica hill is the first postcard of Zagreb."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Facilities Nearby",
+    "subtitle": "What you will find around Trg Kralja Tomislava",
+    "note": "This list only mentions types of services available in the area and does not recommend any specific businesses.",
+    "items": [
+      { "type": "Restrooms", "hint": "Public toilets are available in the station area" },
+      { "type": "Parking", "hint": "Paid street and garage parking nearby" },
+      { "type": "Cafés & Restaurants", "hint": "Cafés, bakeries and restaurants on the square and in the Lower Town" },
+      { "type": "Hotels", "hint": "Hotels along the square and the surrounding streets" },
+      { "type": "Shops", "hint": "Shops and supermarkets in the nearby streets" },
+      { "type": "Fuel & EV Charging", "hint": "Fuel stations and electric vehicle chargers in the wider city centre" },
+      { "type": "Pharmacy & Medical", "hint": "Pharmacies and medical facilities within walking distance" },
+      { "type": "ATMs & Banks", "hint": "ATMs and bank branches throughout the Lower Town" },
+      { "type": "Public Wi-Fi", "hint": "Free public Wi-Fi hotspots are available across Zagreb's city centre" },
+      { "type": "Family Friendly", "hint": "Wide paved paths and lawns make the park comfortable for children and prams" }
+    ]
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "subtitle": "A park that welcomes everyone",
+    "note": "Trg Kralja Tomislava is an open public space with level, paved paths throughout.",
+    "items": [
+      { "type": "Wheelchair Access", "text": "Flat paved pathways across the whole park; the monument and Art Pavilion are reached at ground level." },
+      { "type": "Pushchair Friendly", "text": "Smooth, wide paths suit strollers; the route from the station tram stop is step-free." },
+      { "type": "Tram & Train", "text": "Tram stops and the station entrance sit right beside the square, with level boarding on most routes." },
+      { "type": "Rest & Shade", "text": "Benches, shaded lawns and accessible public toilets are available at the neighbouring station." }
+    ]
+  },
+  "etiquette": {
+    "title": "Visitor Etiquette",
+    "subtitle": "How to enjoy the park respectfully",
+    "note": "These are general guidelines for a protected urban green space.",
+    "doTitle": "Please Do",
+    "dontTitle": "Please Don't",
+    "dos": [
+      "Walk on the paved paths and sit only on the lawns marked for relaxing",
+      "Photograph freely – the monument and the Art Pavilion are the classic postcard views",
+      "Keep dogs on a lead and clean up after them",
+      "Use the bins provided and take your litter with you"
+    ],
+    "donts": [
+      "Do not climb on the monument or its pedestal",
+      "Do not pick flowers or walk on the flower beds",
+      "Do not ride bicycles or scooters through the lawns",
+      "Do not disturb concerts, events or other visitors"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photography Guide",
+    "subtitle": "The best angles and light",
+    "items": [
+      { "name": "The classic postcard", "tip": "Stand at the station side of the square at golden hour so the king, the Art Pavilion and the cathedral towers line up." },
+      { "name": "Across the lawns", "tip": "Low-angle shots over the flower beds frame the monument against the sky." },
+      { "name": "Art Pavilion front", "tip": "The yellow facade photographs best in soft morning or late-afternoon light, before the square falls into shadow." },
+      { "name": "Seasonal views", "tip": "During Advent the ice rink and lights create unique night shots; in autumn the tree colours line the pathways." }
+    ]
+  },
+  "stories": {
+    "title": "Stories & Legends",
+    "subtitle": "Tales behind the square",
+    "items": [
+      {
+        "kind": "verified",
+        "tag": "Documented History",
+        "title": "A thousand years for one statue",
+        "text": "The equestrian statue of King Tomislav was completed in 1938, but the unveiling was postponed again and again – first by long disputes over its design and placement, then by the Second World War. The monument finally reached its pedestal in October 1947."
+      },
+      {
+        "kind": "verified",
+        "tag": "Documented History",
+        "title": "The pavilion that came by train",
+        "text": "The Art Pavilion was originally built for the 1896 Budapest Millennium Exhibition. After the fair it was dismantled, loaded onto trains and re-erected on Trg Kralja Tomislava, opening in 1898 with a grand exhibition of contemporary artists."
+      },
+      {
+        "kind": "tradition",
+        "tag": "Local Tradition",
+        "title": "The first sight of Zagreb",
+        "text": "For generations, the first thing travellers see when leaving Glavni kolodvor is the king on horseback, the yellow Art Pavilion, the cathedral towers and the green slopes of Medvednica – the classic arrival postcard of Zagreb."
+      },
+      {
+        "kind": "local",
+        "tag": "Local Usage",
+        "title": "Tomislavac – the people's name",
+        "text": "Locals rarely say the full name: the square is simply 'Tomislavac' or 'Tomislavov trg'. It is the southern gate of Lenuci's Green Horseshoe, where the Lower Town's chain of parks begins – or ends."
+      },
+      {
+        "kind": "tradition",
+        "tag": "Local Tradition",
+        "title": "Winter magic: the Ice Park",
+        "text": "During Advent in Zagreb, the square often turns into a large open-air skating rink. Ice skaters glide beneath the king's statue while the Art Pavilion glows behind the festive lights – a picture that has made Zagreb famous across Europe."
+      },
+      {
+        "kind": "legend",
+        "tag": "Legend",
+        "title": "The mystery of the king's death",
+        "text": "King Tomislav, who united Croatia, died around 928 – barely three years after his coronation. Chronicles do not explain how or why he died, and to this day the mystery fuels legends about the man the square is named after."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Nearby Attractions",
+    "subtitle": "What to combine with your visit",
+    "items": [
+      {
+        "name": "Zrinjevac Park",
+        "distance": "450 m · 6 min walk",
+        "text": "The next green link of the Green Horseshoe, famous for its plane trees, fountains and the 19th-century meteorological column."
+      },
+      {
+        "name": "Ban Jelačić Square (Trg bana Jelačića)",
+        "distance": "850 m · 11 min walk",
+        "text": "Zagreb's main square and meeting point, with the statue of Ban Josip Jelačić and the start of the pedestrian shopping street Ilica."
+      },
+      {
+        "name": "Croatian National Theatre (HNK)",
+        "distance": "1.1 km · 14 min walk",
+        "text": "A magnificent neo-baroque theatre building further along the Green Horseshoe, with guided tours and a rich performance programme."
+      },
+      {
+        "name": "Zagreb Main Station (Glavni kolodvor)",
+        "distance": "Across the street",
+        "text": "The 1892 historicist station building is right opposite the square – convenient arrival and departure point for your visit."
+      },
+      {
+        "name": "Botanical Garden",
+        "distance": "700 m · 9 min walk",
+        "text": "A green oasis in the Lower Town with thousands of plant species, ponds and a small glasshouse (seasonal opening)."
+      },
+      {
+        "name": "Museum of Arts and Crafts",
+        "distance": "1 km · 13 min walk",
+        "text": "One of Zagreb's most beautiful secessionist buildings, displaying applied arts and design collections in a historicist interior."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources",
+    "subtitle": "Official and authoritative references",
+    "disclaimer": "Information compiled from official and public sources. Always check official pages for the latest opening times and events.",
+    "items": [
+      {
+        "name": "Zagreb Tourist Board – Trg kralja Tomislava",
+        "url": "https://www.infozagreb.hr/hr/istrazi-zagreb/atrakcije/trgovi/trg-kralja-tomislava"
+      },
+      {
+        "name": "City of Zagreb (Grad Zagreb)",
+        "url": "https://www.zagreb.hr/"
+      },
+      {
+        "name": "Croatian National Tourist Board (HTZ)",
+        "url": "https://croatia.hr/"
+      },
+      {
+        "name": "Art Pavilion Zagreb (Umjetnički paviljon)",
+        "url": "https://umjetnicki-paviljon.hr/"
+      },
+      {
+        "name": "HAZU – The Equestrian Statue of King Tomislav",
+        "url": "https://kraljtomislav.hazu.hr/en-naslovna/"
+      },
+      {
+        "name": "Register of Cultural Goods of the Republic of Croatia",
+        "url": "https://registar.kulturnadobra.hr/#/"
       }
     ]
   },
@@ -71,26 +302,94 @@
     "items": [
       {
         "question": "What are the opening hours of Trg Kralja Tomislava?",
-        "answer": "As a public city park, Trg Kralja Tomislava is open 24/7. However, the nearby Art Pavilion and other attractions have their own specific visiting hours."
+        "answer": "As a public city park, Trg Kralja Tomislava is open 24/7, free of charge. However, the nearby Art Pavilion and other attractions have their own specific visiting hours."
       },
       {
         "question": "Is there an entrance fee?",
-        "answer": "No, the park is completely free and open to the public."
+        "answer": "No. The park, the monument and the lawns are completely free and open to the public at all times."
       },
       {
         "question": "Are there guided tours available?",
-        "answer": "While the park itself doesn't offer official tours, many Zagreb city walking tours include Trg Kralja Tomislava in their itineraries."
+        "answer": "The park itself doesn't offer official tours, but many Zagreb city walking tours – especially those covering the Green Horseshoe – include Trg Kralja Tomislava in their itineraries."
       },
       {
         "question": "Is the site accessible for wheelchair users?",
-        "answer": "Yes, the park features flat, paved pathways that are fully accessible for wheelchair users and strollers."
+        "answer": "Yes. The square features flat, paved pathways that are fully accessible for wheelchair users and strollers. The nearest tram stops are right at the station."
+      },
+      {
+        "question": "How do I get from the Main Railway Station to the square?",
+        "answer": "Simply walk out of the station's main entrance – the square is directly opposite, just across the street. Tram lines 2, 4, 6, 9 and 13 stop at 'Glavni kolodvor'."
+      },
+      {
+        "question": "Is the Advent ice rink really on this square?",
+        "answer": "During Advent in Zagreb, the square has hosted the Zagreb Ice Park – a large open-air skating rink. Availability and dates change every season, so check the official Advent in Zagreb programme."
+      },
+      {
+        "question": "Can I visit the Art Pavilion on the square?",
+        "answer": "Yes. The Art Pavilion (Umjetnički paviljon) is an active exhibition hall at Trg Kralja Tomislava 22, with a changing programme of contemporary and classical exhibitions. Check its official website for current opening hours and tickets."
+      },
+      {
+        "question": "Are dogs allowed in the park?",
+        "answer": "Yes. As a public park, Trg Kralja Tomislava generally welcomes dogs on a lead. Please keep your dog on a leash and clean up after it, as in any Zagreb park."
+      },
+      {
+        "question": "Can I sit on the grass or have a picnic?",
+        "answer": "The lawns are open for sitting and relaxing during the day. Please keep off the flower beds, use the bins provided and leave the grass as you found it."
+      },
+      {
+        "question": "Is the square safe at night?",
+        "answer": "Trg Kralja Tomislava is a well-lit public space in the city centre and is generally considered safe at night. As anywhere in a large city, stay aware of your surroundings and keep to well-used routes."
       }
     ]
+  },
+  "weather": {
+    "title": "Weather & Forecast",
+    "subtitle": "Live conditions at the square and the 5-day outlook",
+    "note": "Live conditions and a 5-day forecast for the square, refreshed every 30 minutes. Data source:",
+    "labels": {
+      "current": "Current conditions",
+      "feelsLike": "Feels like",
+      "humidity": "Humidity",
+      "wind": "Wind",
+      "precipitation": "Precipitation"
+    },
+    "unavailableTitle": "Weather data unavailable",
+    "unavailableText": "The live forecast could not be loaded right now. Please check Open-Meteo for current conditions in Zagreb.",
+    "codes": {
+      "0": "Clear sky",
+      "1": "Mainly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Moderate drizzle",
+      "55": "Dense drizzle",
+      "56": "Light freezing drizzle",
+      "57": "Dense freezing drizzle",
+      "61": "Slight rain",
+      "63": "Moderate rain",
+      "65": "Heavy rain",
+      "66": "Light freezing rain",
+      "67": "Heavy freezing rain",
+      "71": "Slight snow",
+      "73": "Moderate snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Slight rain showers",
+      "81": "Moderate rain showers",
+      "82": "Violent rain showers",
+      "85": "Slight snow showers",
+      "86": "Heavy snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with slight hail",
+      "99": "Thunderstorm with heavy hail"
+    }
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Trg Kralja Tomislava",
+    "officialNameValue": "Trg Kralja Tomislava (King Tomislav Square)",
     "type": "Attraction Type",
     "typeValue": "City Park",
     "country": "Country",
@@ -98,7 +397,7 @@
     "city": "City",
     "cityValue": "Zagreb",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (7,500)",
+    "googleRatingValue": "4.8 (7,543)",
     "address": "Address",
     "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Croatia",
     "telephone": "Contact Phone",
@@ -106,7 +405,9 @@
     "accessibility": "Accessibility",
     "accessibilityValue": "Accessible",
     "plusCode": "Plus Code",
-    "plusCodeValue": "RX4H+JF Zagreb, Croatia"
+    "plusCodeValue": "RX4H+JF Zagreb, Croatia",
+    "coordinates": "Coordinates",
+    "coordinatesValue": "45.8065, 15.9787"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -115,9 +416,9 @@
     "bestTime": "Best Time to Visit",
     "bestTimeSpring": "Spring: Vibrant floral displays",
     "bestTimeSummer": "Summer: Relaxing on the lawns",
-    "bestTimeAutumn": "Autumn: Beautiful foliage colors",
+    "bestTimeAutumn": "Autumn: Beautiful foliage colours",
     "bestTimeWinter": "Winter: Ice skating park during Advent",
-    "tip": "Enjoy the park at sunset for the best lighting against the Art Pavilion."
+    "tip": "Enjoy the park at sunset for the best lighting against the Art Pavilion and the monument."
   },
   "tickets": {
     "title": "Admission Information",
@@ -131,34 +432,35 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Main Square (Ban Jelačić)",
-    "fromCenterDesc": "A short 10-15 minute walk south through the parks.",
+    "fromCenterDesc": "A short 10–15 minute walk south through the parks of the Green Horseshoe, or two tram stops on lines 6 or 13.",
     "fromStation": "From Main Train Station",
-    "fromStationDesc": "Located immediately opposite the main entrance.",
+    "fromStationDesc": "Located immediately opposite the main entrance – just cross the street and you are on the square.",
     "fromAirport": "From Zagreb Airport",
-    "fromAirportDesc": "Take the airport shuttle bus to the main bus station, then a short tram ride.",
+    "fromAirportDesc": "Take the airport shuttle bus to the main bus station (Autobusni kolodvor), then tram lines 2 or 6 a few stops to Glavni kolodvor.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Tram lines 2, 4, 6, 9, and 13 stop directly at 'Glavni kolodvor' (Main Station).",
+    "publicTransportDesc": "Tram lines 2, 4, 6, 9 and 13 stop directly at 'Glavni kolodvor' (Main Station), right next to the square.",
     "walking": "Walking",
-    "walkingDesc": "Easily walkable from all central Zagreb locations.",
+    "walkingDesc": "Easily walkable from all central Zagreb locations; the square lies on the main pedestrian axis of the Lower Town.",
     "driving": "Driving",
-    "drivingDesc": "Follow signs to Glavni kolodvor; street parking is limited."
+    "drivingDesc": "Follow signs to Glavni kolodvor. Street parking is limited; use the nearby public garages."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Explore the beautiful squares and parks forming the Green Horseshoe.",
+    "overview": "A classic walk along the eastern arm of the Green Horseshoe, from the station to the heart of the Lower Town.",
     "steps": [
-      "Arrive at Glavni kolodvor (Main Railway Station)",
-      "Admire the King Tomislav Monument",
-      "Stroll through the central lawns and flower beds",
-      "Take photos in front of the Art Pavilion",
-      "Continue north to Zrinjevac Park"
+      "Arrive at Glavni kolodvor (Main Railway Station) and cross the street",
+      "Admire the King Tomislav equestrian monument facing the station",
+      "Stroll through the central lawns and flower beds of the park",
+      "Take photos in front of the yellow Art Pavilion",
+      "Continue north along the Green Horseshoe to Zrinjevac Park",
+      "Finish at Ban Jelačić Square and the historic Upper Town"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "The Beauty of Trg Kralja Tomislava",
     "captions": [
-      "Park view",
+      "Park view with the Art Pavilion",
       "Monument and Pavilion",
       "Floral displays",
       "King Tomislav Monument",
@@ -221,26 +523,28 @@
   },
   "mapSection": {
     "title": "Map Location",
-    "subtitle": "RX4H+JF Zagreb, Croatia",
+    "subtitle": "Trg Kralja Tomislava 10, Zagreb · RX4H+JF Zagreb, Croatia",
     "openMaps": "View on Google Maps"
   },
   "footer": {
     "brandName": "Trg Kralja Tomislava",
-    "brandSubtitle": "City Park · Zagreb, Croatia",
+    "brandSubtitle": "City Park & Monument · Zagreb, Croatia",
     "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Official Resources & Information",
     "officialLinks": {
-      "mvep": "Ministry of Foreign and European Affairs (MVEP) - Visa Page",
+      "mvep": "Ministry of Foreign and European Affairs (MVEP) – Visa Page",
       "mup": "Ministry of the Interior (MUP)",
       "htz": "Croatian National Tourist Board (HTZ)",
       "gradZagreb": "City of Zagreb (Grad Zagreb)",
       "tzgz": "Zagreb Tourist Board (TZGZ)",
       "culturalHeritage": "Register of Cultural Goods of Croatia"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "photoCredit": "Photos are for illustrative purposes; some may not depict the exact site.",
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "lastUpdated": "Content last updated: September 2026"
   },
   "officialManagement": {
     "title": "About Trg Kralja Tomislava",
@@ -248,25 +552,25 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
       {
         "heading": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behaviour to provide a better user experience. This information does not contain your personal identity."
       },
       {
         "heading": "Use of Cookies",
-        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+        "content": "We use cookies to analyse website traffic and optimise page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
       },
       {
         "heading": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organisations."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: September 2, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
@@ -292,11 +596,11 @@
     },
     "analytics": {
       "title": "Analytics",
-      "description": "Help us understand visitor behavior and improve the website."
+      "description": "Help us understand visitor behaviour and improve the website."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Used for cross-site tracking and delivering personalized ads."
+      "description": "Used for cross-site tracking and delivering personalised ads."
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"

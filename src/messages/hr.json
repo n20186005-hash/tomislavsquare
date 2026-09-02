@@ -1,304 +1,608 @@
 {
   "meta": {
-    "title": "Trg Kralja Tomislava – Zagreb, Croatia",
-    "description": "Complete travel guide to Trg Kralja Tomislava in Zagreb. Learn about this city park, including location, views, access, and visitor information."
+    "title": "Trg Kralja Tomislava, Zagreb – Park, spomenik i Umjetnički paviljon",
+    "description": "Sve o Trgu kralja Tomislava u Zagrebu: konjanički spomenik kralju Tomislavu, Umjetnički paviljon, Lenucijeva potkova, kako doći s Glavnog kolodvora, radno vrijeme i savjeti za posjet."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Početna",
+    "gallery": "Galerija",
+    "reviews": "Recenzije",
+    "map": "Karta",
+    "history": "Povijest",
+    "facilities": "Sadržaji",
+    "accessibility": "Pristupačnost",
+    "backToHome": "Natrag na početnu"
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "description": "Žao nam je, tražena stranica ne postoji ili je premještena. Vratite se na početnu stranicu i nastavite istraživati Trg Kralja Tomislava.",
+    "backHome": "Natrag na početnu"
+  },
+  "cookieBanner": {
+    "title": "Obavijest o kolačićima",
+    "text": "Ova web stranica koristi nužne kolačiće, a neobvezne kolačiće za analitiku učitava samo uz vaš pristanak. Postavke možete promijeniti u svakom trenutku.",
+    "acceptAll": "Prihvati sve",
+    "acceptEssential": "Samo nužni",
+    "settings": "Postavke kolačića"
   },
   "hero": {
-    "title": "Trg Kralja Tomislava",
-    "subtitle": "City Park · Zagreb, Croatia",
+    "title": "Trg Kralja Tomislava, Zagreb",
+    "subtitle": "Gradski park i spomenik · Zagreb, Hrvatska",
     "rating": "4.8",
-    "reviewCount": "7,500 reviews",
-    "type": "City Park",
-    "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7"
+    "reviewCount": "7.543 recenzije",
+    "type": "Gradski park",
+    "openMaps": "Pogledaj na Google kartama",
+    "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
+    "imgAlt": "Trg Kralja Tomislava, gradski park u Zagrebu sa spomenikom kralju Tomislavu"
   },
   "intro": {
-    "title": "Discover Trg Kralja Tomislava",
-    "description": "Trg Kralja Tomislava (King Tomislav Square) is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the main railway station, it welcomes visitors with the magnificent Art Pavilion and a majestic monument to King Tomislav. It is a popular gathering place and a masterpiece of landscape architecture.",
+    "title": "Otkrijte Trg Kralja Tomislava",
+    "breadcrumb": ["Trg Kralja Tomislava", "Zagreb", "Hrvatska"],
+    "nearbyTitle": "Znamenitosti oko trga",
+    "nearby": "Tijekom posjeta Trgu Kralja Tomislava lako možete razgledati okolne znamenitosti Lenucijeve potkove, uključujući Park Zrinjevac i Trg bana Jelačića, kao i Hrvatsko narodno kazalište i Botanički vrt.",
+    "description": "Trg Kralja Tomislava, poznat i kao Tomislavac ili Tomislavov trg, jedan je od najljepših i najpoznatijih gradskih parkova u Zagrebu. Smješten točno nasuprot Glavnog kolodvora, posjetitelje dočekuje elegantnim žutim Umjetničkim paviljonom i veličanstvenim konjaničkim spomenikom kralju Tomislavu, prvom hrvatskom kralju. Trg je južna kapija Lenucijeve potkove, omiljeno okupljalište i remek-djelo krajobrazne arhitekture 19. stoljeća.",
     "visitGuide": {
-      "title": "Visit Tips",
+      "title": "Savjeti za posjet",
       "items": [
-        "A great place to relax after arriving at the Main Railway Station.",
-        "Perfect for photography, especially with the Art Pavilion in the background.",
-        "In winter, the square often transforms into a magical ice skating rink.",
-        "Easily accessible and surrounded by beautiful historic architecture."
+        "Izvrsno mjesto za odmor odmah po dolasku na Glavni kolodvor.",
+        "Savršeno za fotografiranje, posebno u pozadini Umjetničkog paviljona i spomenika.",
+        "Zimi se na trgu često nalazi klizalište zagrebačkog Adventa.",
+        "Lako dostupan tramvajem, okružen prekrasnom povijesnom arhitekturom."
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "Istaknuto",
       "items": [
-        "King Tomislav Monument",
-        "Art Pavilion backdrop",
-        "Beautiful floral displays",
-        "Part of Zagreb's Green Horseshoe"
+        "Konjanički spomenik kralju Tomislavu (1938.–1947.)",
+        "Umjetnički paviljon (1898.)",
+        "Prekrasne cvjetne gredice i hladovite livade",
+        "Južna kapija Lenucijeve potkove"
       ]
     }
   },
   "knowledge": {
-    "title": "About Trg Kralja Tomislava",
+    "title": "O Trgu Kralja Tomislava",
     "sections": [
       {
         "id": "history",
-        "title": "History & Heritage",
-        "content": "Named after the first Croatian King, Tomislav, the square was designed in the late 19th and early 20th centuries. The iconic monument of King Tomislav on horseback, created by sculptor Robert Frangeš-Mihanović, was erected in 1947, commemorating the 1000th anniversary of the Croatian Kingdom."
+        "title": "Povijest i baština",
+        "content": "Trg nosi ime po Tomislavu, okrunjenom 925. godine za prvog hrvatskog kralja. Urbanistički je oblikovan krajem 19. i početkom 20. stoljeća, kada se grad širio prema jugu i novom željezničkom kolodvoru. Kultni konjanički kip kralja Tomislava, djelo kipara Roberta Frangeša-Mihanovića, dovršen je 1938., a svečano otkriven tek u listopadu 1947., u čast tisućljeća Hrvatskog Kraljevstva."
+      },
+      {
+        "id": "monument",
+        "title": "Spomenik kralju Tomislavu",
+        "content": "Brončani konjanički kip okrenut je prema kolodvoru, pa svakog pristiglog putnika prvo dočeka kralj. Tomislav (umro oko 928.) ujedinio je hrvatske kneževine, odbio mađarske provale i 925. okrunjen za prvog kralja Hrvatskog Kraljevstva. Kip je Frangeš-Mihanović izradio 1938., no otkrivanje su odgodili sporovi i Drugi svjetski rat sve do 1947."
       },
       {
         "id": "geography",
-        "title": "Location & Landscape",
-        "content": "Situated in the Lower Town of Zagreb, it is the first part of the 'Lenuci Horseshoe' (a U-shaped system of city squares and parks) that visitors see when exiting the main train station. The square features meticulously maintained lawns, colorful flower beds, and shaded pathways."
+        "title": "Položaj i krajobraz",
+        "content": "Trg se nalazi u Donjem gradu i čini južni završetak Lenucijeve potkove – niza trgova i parkova u obliku slova U, kako ga je osmislio graditelj Milan Lenuci. Trg krasi njegovane livade, šarene cvjetne gredice i hladovite staze, a južni pogled zatvara historicistička zgrada Glavnog kolodvora (1892.)."
       },
       {
         "id": "architecture",
-        "title": "Architecture & Surroundings",
-        "content": "The northern end of the square is dominated by the Art Pavilion (Umjetnički paviljon), an elegant yellow exhibition building dating back to 1898. The surrounding streets feature beautiful classicist and secessionist buildings that define Zagreb's Lower Town."
+        "title": "Arhitektura i okolina",
+        "content": "Sjeverni dio trga dominira Umjetnički paviljon, elegantna žuta izložbena zgrada izvorno sagrađena za Milenijsku izložbu u Budimpešti 1896., a u Zagrebu ponovno otvorena 1898. Oko trga stoje klasicističke i secesijske zgrade koje obilježavaju zagrebački Donji grad, uključujući Hrvatski državni arhiv i Hotel Esplanade (1925.)."
       },
       {
         "id": "protection",
-        "title": "Urban Significance",
-        "content": "As a protected urban and cultural space, Trg Kralja Tomislava plays a central role in Zagreb's social and cultural life. It frequently hosts open-air concerts, cultural events, and the popular 'Advent in Zagreb' winter festival."
+        "title": "Urbanističko značenje",
+        "content": "Kao dio zaštićene povijesne urbane cjeline grada Zagreba, Trg Kralja Tomislava ima središnju ulogu u društvenom i kulturnom životu grada. Često je domaćin koncerata na otvorenom, izložaba i kulturnih događanja te je klasičan prvi dojam Zagreba za putnike koji stižu vlakom."
+      },
+      {
+        "id": "events",
+        "title": "Događanja i Advent",
+        "content": "Tijekom Adventa u Zagrebu – višekratno proglašavanog jednim od najboljih božićnih sajmova u Europi – na trgu se nalazio Zagrebački ledeni park, veliko klizalište na otvorenom okruženo svjetlima i kućicama. Ljeti se trg pretvara u zelenu oazu za koncerte, piknike i odmor."
+      }
+    ]
+  },
+  "history": {
+    "title": "Povijest kroz vrijeme",
+    "subtitle": "Od hrvatskog kralja do omiljenog gradskog parka",
+    "timeline": [
+      {
+        "year": "925.",
+        "title": "Rođenje kraljevstva",
+        "text": "Tomislav je uz papinski blagoslov okrunjen za prvog hrvatskog kralja. Oko 928. umire, a uzrok njegove smrti i danas je misterij."
+      },
+      {
+        "year": "1862.",
+        "title": "Dolazak željeznice",
+        "text": "Prvi vlak ulazi u Zagreb (tada oko 40.000 stanovnika), povezujući grad s Bečom i Budimpeštom i oblikujući buduću kolodvorsku četvrt."
+      },
+      {
+        "year": "1892.",
+        "title": "Otvaranje Glavnog kolodvora",
+        "text": "Historicistički Glavni kolodvor, djelo mađarskog željezničkog stručnjaka Ferenca Pfaffa, dovršen je i zatvara južnu stranu budućeg trga."
+      },
+      {
+        "year": "1896.–1898.",
+        "title": "Dolazak Umjetničkog paviljona",
+        "text": "Umjetnički paviljon, sagrađen za Milenijsku izložbu u Budimpešti, nakon izložbe je rastavljen, vlakom prevezen u Zagreb i 1898. otvoren kao prvi namjenski izložbeni prostor u Hrvatskoj."
+      },
+      {
+        "year": "1938.–1947.",
+        "title": "Spomenik kralju Tomislavu",
+        "text": "Kipar Robert Frangeš-Mihanović dovršava konjanički kip 1938. Nakon dugogodišnjih polemika i Drugog svjetskog rata, spomenik je konačno otkriven u listopadu 1947."
+      },
+      {
+        "year": "Danas",
+        "title": "Zeleni dnevni boravak Zagreba",
+        "text": "Trg je domaćin koncerata, sajmova i adventskog klizališta. Generacijama putnika pogled na kip, Umjetnički paviljon, zvonike katedrale i zelene obronke Medvednice prva je zagrebačka razglednica."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Sadržaji u blizini",
+    "subtitle": "Što možete pronaći oko Trga Kralja Tomislava",
+    "note": "Popis samo navodi vrste usluga dostupnih u tom području i ne preporučuje pojedine objekte.",
+    "items": [
+      { "type": "Sanitarni čvor", "hint": "Javni WC-i dostupni su u prostoru kolodvora" },
+      { "type": "Parkiranje", "hint": "Naplativa ulična i garažna parkirališta u blizini" },
+      { "type": "Kafići i restorani", "hint": "Kafići, pekare i restorani na trgu i u Donjem gradu" },
+      { "type": "Hoteli", "hint": "Hoteli na trgu i okolnim ulicama" },
+      { "type": "Trgovine", "hint": "Trgovine i supermarketi u obližnjim ulicama" },
+      { "type": "Gorivo i punjenje EV", "hint": "Pumpa i punionice za električna vozila u širem centru" },
+      { "type": "Ljekarna i medicina", "hint": "Ljekarne i zdravstvene ustanove u pješačkoj udaljenosti" },
+      { "type": "Bankomati i banke", "hint": "Bankomati i poslovnice banaka u Donjem gradu" },
+      { "type": "Javni Wi-Fi", "hint": "Besplatne javne Wi-Fi točke dostupne su diljem središta Zagreba" },
+      { "type": "Obiteljski prihvatljivo", "hint": "Široke popločane staze i travnjaci čine park ugodnim za djecu i dječja kolica" }
+    ]
+  },
+  "accessibility": {
+    "title": "Pristupačnost",
+    "subtitle": "Park dobrodošao za sve",
+    "note": "Trg Kralja Tomislava otvoreni je javni prostor s ravnim popločanim stazama cijelom dužinom.",
+    "items": [
+      { "type": "Pristup za invalidska kolica", "text": "Ravne popločane staze cijelim parkom; do spomenika i Umjetničkog paviljona dolazi se u razini tla." },
+      { "type": "Pristup za dječja kolica", "text": "Glatke, široke staze pogodne za kolica; put od tramvajske stanice do parka je bez stepenica." },
+      { "type": "Tramvaj i vlak", "text": "Tramvajske stanice i glavni ulaz na kolodvor nalaze se odmah pokraj trga, s niskopodnim pristupom na većini linija." },
+      { "type": "Odmor i hladovina", "text": "Klupe, hladovite livade i pristupačni javni WC-i dostupni su na obližnjem kolodvoru." }
+    ]
+  },
+  "etiquette": {
+    "title": "Bonton posjetitelja",
+    "subtitle": "Kako odgovorno uživati u parku",
+    "note": "Riječ je o općim smjernicama za zaštićeni gradski zeleni prostor.",
+    "doTitle": "Molimo učinite",
+    "dontTitle": "Molimo nemojte",
+    "dos": [
+      "Hodajte popločanim stazama i odmarajte se samo na travnjacima predviđenima za to",
+      "Slobodno fotografirajte – spomenik i Umjetnički paviljon klasični su razglednički motivi",
+      "Pse držite na povodcu i pokupite za njima",
+      "Koristite postavljene kante i ponesite svoj otpad"
+    ],
+    "donts": [
+      "Ne penjite se na spomenik ili njegovo postolje",
+      "Ne berite cvijeće i ne hodajte po cvjetnim gredicama",
+      "Ne vozite bicikl ili romobil po travnjacima",
+      "Ne ometajte koncerte, događanja i druge posjetitelje"
+    ]
+  },
+  "photoSpots": {
+    "title": "Vodič za fotografiranje",
+    "subtitle": "Najbolji kutovi i svjetlost",
+    "items": [
+      { "name": "Klasična razglednica", "tip": "Stanite na strani kolodvora u zlatni sat da se kralj, Umjetnički paviljon i zvonici katedrale poravnaju." },
+      { "name": "Preko travnjaka", "tip": "Niski kutovi preko cvjetnih gredica uokviruju spomenik na nebu." },
+      { "name": "Ispred Umjetničkog paviljona", "tip": "Žuto pročelje najljepše je u blagom jutarnjem ili kasnopopodnevnom svjetlu, prije nego što trg padne u sjenu." },
+      { "name": "Sezonski prizori", "tip": "Tijekom Adventa klizalište i svjetla stvaraju jedinstvene noćne kadrove; u jesen boje drveća obrubljuju staze." }
+    ]
+  },
+  "stories": {
+    "title": "Priče i legende",
+    "subtitle": "Priče iza trga",
+    "items": [
+      {
+        "kind": "verified",
+        "tag": "Dokumentirano",
+        "title": "Tisuću godina za jedan kip",
+        "text": "Konjanički kip kralja Tomislava dovršen je 1938., no otkrivanje se iznova odgađalo – najprije zbog dugih polemika o izvedbi i postavljanju, a zatim zbog Drugog svjetskog rata. Spomenik je konačno postavljen na postolje u listopadu 1947."
+      },
+      {
+        "kind": "verified",
+        "tag": "Dokumentirano",
+        "title": "Paviljon koji je stigao vlakom",
+        "text": "Umjetnički paviljon izvorno je sagrađen za Milenijsku izložbu u Budimpešti 1896. Nakon izložbe rastavljen je, utovaren u vlakove i ponovno podignut na Trgu Kralja Tomislava, otvoren 1898. velikom izložbom suvremenih umjetnika."
+      },
+      {
+        "kind": "tradition",
+        "tag": "Lokalna tradicija",
+        "title": "Prvi dojam Zagreba",
+        "text": "Generacijama putnika prvi prizor nakon izlaska s Glavnog kolodvora jest kralj na konju, žuti Umjetnički paviljon, zvonici katedrale i zeleni obronci Medvednice – klasična zagrebačka razglednica dolaska."
+      },
+      {
+        "kind": "local",
+        "tag": "Lokalni naziv",
+        "title": "Tomislavac – naziv naroda",
+        "text": "Zagrepčani rijetko govore punim imenom: trg je jednostavno 'Tomislavac' ili 'Tomislavov trg'. To je južna kapija Lenucijeve potkove, gdje lanac donjogradskih parkova počinje – ili završava."
+      },
+      {
+        "kind": "tradition",
+        "tag": "Lokalna tradicija",
+        "title": "Zimska čarolija: Ledeni park",
+        "text": "Tijekom Adventa u Zagrebu trg se često pretvara u veliko klizalište na otvorenom. Klizači klize podno kraljeva kipa dok Umjetnički paviljon svijetli iza blagdanskih lampica – prizor koji je Zagreb proslavio diljem Europe."
+      },
+      {
+        "kind": "legend",
+        "tag": "Legenda",
+        "title": "Tajna kraljeve smrti",
+        "text": "Kralj Tomislav, koji je ujedinio Hrvatsku, umro je oko 928. – tek tri godine nakon krunidbe. Kronike ne objašnjavaju kako ni zašto, a tajna i danas hrani legende o čovjeku po kojemu trg nosi ime."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Obliznje znamenitosti",
+    "subtitle": "Što spojiti s posjetom",
+    "items": [
+      {
+        "name": "Park Zrinjevac",
+        "distance": "450 m · 6 min hoda",
+        "text": "Sljedeća zelena karika Lenucijeve potkove, poznata po platanama, fontanama i meteorološkom stupu iz 19. stoljeća."
+      },
+      {
+        "name": "Trg bana Jelačića",
+        "distance": "850 m · 11 min hoda",
+        "text": "Glavni zagrebački trg i mjesto okupljanja, sa spomenikom banu Josipu Jelačiću i početkom pješačke trgovačke ulice Ilica."
+      },
+      {
+        "name": "Hrvatsko narodno kazalište (HNK)",
+        "distance": "1,1 km · 14 min hoda",
+        "text": "Veličanstvena neobarokna kazališna zgrada dalje uz Lenucijevu potkovu, s vođenim obilascima i bogatim programom."
+      },
+      {
+        "name": "Glavni kolodvor",
+        "distance": "Preko ceste",
+        "text": "Historicistička zgrada kolodvora iz 1892. nalazi se točno nasuprot trga – prikladna točka dolaska i polaska za vaš posjet."
+      },
+      {
+        "name": "Botanički vrt",
+        "distance": "700 m · 9 min hoda",
+        "text": "Zelena oaza Donjeg grada s tisućama biljnih vrsta, jezercima i malim staklenikom (sezonski otvoren)."
+      },
+      {
+        "name": "Muzej za umjetnost i obrt",
+        "distance": "1 km · 13 min hoda",
+        "text": "Jedna od najljepših zagrebačkih secesijskih zgrada, s kolekcijama primijenjene umjetnosti i dizajna u historicističkom interijeru."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Izvori",
+    "subtitle": "Službene i pouzdane reference",
+    "disclaimer": "Informacije su prikupljene iz službenih i javnih izvora. Za najnovije radno vrijeme i događanja uvijek provjerite službene stranice.",
+    "items": [
+      {
+        "name": "Turistička zajednica grada Zagreba – Trg kralja Tomislava",
+        "url": "https://www.infozagreb.hr/hr/istrazi-zagreb/atrakcije/trgovi/trg-kralja-tomislava"
+      },
+      {
+        "name": "Grad Zagreb",
+        "url": "https://www.zagreb.hr/"
+      },
+      {
+        "name": "Hrvatska turistička zajednica (HTZ)",
+        "url": "https://croatia.hr/"
+      },
+      {
+        "name": "Umjetnički paviljon u Zagrebu",
+        "url": "https://umjetnicki-paviljon.hr/"
+      },
+      {
+        "name": "HAZU – Konjanički kip kralja Tomislava",
+        "url": "https://kraljtomislav.hazu.hr/en-naslovna/"
+      },
+      {
+        "name": "Registar kulturnih dobara RH",
+        "url": "https://registar.kulturnadobra.hr/#/"
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "Česta pitanja",
     "items": [
       {
-        "question": "What are the opening hours of Trg Kralja Tomislava?",
-        "answer": "As a public city park, Trg Kralja Tomislava is open 24/7. However, the nearby Art Pavilion and other attractions have their own specific visiting hours."
+        "question": "Kakvo je radno vrijeme Trga Kralja Tomislava?",
+        "answer": "Kao javni gradski park, Trg Kralja Tomislava otvoren je 24 sata dnevno, besplatno. No, obližnji Umjetnički paviljon i druge atrakcije imaju vlastito radno vrijeme."
       },
       {
-        "question": "Is there an entrance fee?",
-        "answer": "No, the park is completely free and open to the public."
+        "question": "Postoji li ulaznina?",
+        "answer": "Ne. Park, spomenik i travnjaci potpuno su besplatni i otvoreni za javnost u svako doba."
       },
       {
-        "question": "Are there guided tours available?",
-        "answer": "While the park itself doesn't offer official tours, many Zagreb city walking tours include Trg Kralja Tomislava in their itineraries."
+        "question": "Postoje li vođeni obilasci?",
+        "answer": "Sam park nema službene obilaske, no mnoge zagrebačke pješačke ture – osobito one koje obuhvaćaju Lenucijevu potkovu – uključuju Trg Kralja Tomislava u svoj program."
       },
       {
-        "question": "Is the site accessible for wheelchair users?",
-        "answer": "Yes, the park features flat, paved pathways that are fully accessible for wheelchair users and strollers."
+        "question": "Je li prostor pristupačan za osobe u invalidskim kolicima?",
+        "answer": "Da. Trg ima ravne, popločane staze u potpunosti pristupačne za osobe u invalidskim kolicima i dječja kolica. Najbliže tramvajske stanice nalaze se uz kolodvor."
+      },
+      {
+        "question": "Kako doći s Glavnog kolodvora do trga?",
+        "answer": "Jednostavno izađite na glavni izlaz kolodvora – trg je izravno nasuprot, odmah preko ceste. Tramvajske linije 2, 4, 6, 9 i 13 zaustavljaju se na stanici 'Glavni kolodvor'."
+      },
+      {
+        "question": "Je li adventno klizalište doista na ovom trgu?",
+        "answer": "Tijekom Adventa u Zagrebu na trgu se nalazio Zagrebački ledeni park – veliko klizalište na otvorenom. Dostupnost i termini mijenjaju se svake sezone, pa provjerite službeni program Adventa u Zagrebu."
+      },
+      {
+        "question": "Mogu li posjetiti Umjetnički paviljon na trgu?",
+        "answer": "Da. Umjetnički paviljon na Trgu Kralja Tomislava 22 aktivan je izložbeni prostor s promjenjivim programom suvremenih i klasičnih izložaba. Radno vrijeme i ulaznice provjerite na njegovoj službenoj web stranici."
+      },
+      {
+        "question": "Jesu li psi dopušteni u parku?",
+        "answer": "Da. Kao javni park, Trg Kralja Tomislava općenito je dobrodošao psima na povodcu. Psa držite na povodcu i pokupite za njim, kao u svakom zagrebačkom parku."
+      },
+      {
+        "question": "Mogu li sjediti na travi ili prirediti piknik?",
+        "answer": "Travnjaci su tijekom dana otvoreni za sjedenje i odmor. Nemojte gaziti po cvjetnim gredicama, koristite kante i ostavite travu kakvu ste je zatekli."
+      },
+      {
+        "question": "Je li trg siguran noću?",
+        "answer": "Trg Kralja Tomislava dobro je osvijetljen javni prostor u centru grada i općenito se smatra sigurnim noću. Kao i svugdje u velikom gradu, pazite na okolinu i držite se prometnih ruta."
       }
     ]
   },
+  "weather": {
+    "title": "Vrijeme i prognoza",
+    "subtitle": "Trenutačne prilike na trgu i petodnevna prognoza",
+    "note": "Trenutačne prilike i petodnevna prognoza za trg, osvježava se svakih 30 minuta. Izvor podataka:",
+    "labels": {
+      "current": "Trenutačne prilike",
+      "feelsLike": "Osjećaj",
+      "humidity": "Vlažnost",
+      "wind": "Vjetar",
+      "precipitation": "Oborine"
+    },
+    "unavailableTitle": "Vremenski podaci nedostupni",
+    "unavailableText": "Trenutačna prognoza nije mogla biti učitana. Trenutačne prilike u Zagrebu provjerite na Open-Meteo.",
+    "codes": {
+      "0": "Vedro",
+      "1": "Uglavnom vedro",
+      "2": "Djelomice oblačno",
+      "3": "Oblačno",
+      "45": "Magla",
+      "48": "Magla s injem",
+      "51": "Slaba rosulja",
+      "53": "Umjerena rosulja",
+      "55": "Gusta rosulja",
+      "56": "Slaba ledena rosulja",
+      "57": "Gusta ledena rosulja",
+      "61": "Slaba kiša",
+      "63": "Umjerena kiša",
+      "65": "Jaka kiša",
+      "66": "Slaba ledena kiša",
+      "67": "Jaka ledena kiša",
+      "71": "Slab snijeg",
+      "73": "Umjeren snijeg",
+      "75": "Jak snijeg",
+      "77": "Snježna zrnca",
+      "80": "Slabi pljuskovi",
+      "81": "Umjereni pljuskovi",
+      "82": "Siloviti pljuskovi",
+      "85": "Slabi snježni pljuskovi",
+      "86": "Jaki snježni pljuskovi",
+      "95": "Grmljavinsko nevrijeme",
+      "96": "Grmljavinsko nevrijeme sa slabom tučom",
+      "99": "Grmljavinsko nevrijeme s jakom tučom"
+    }
+  },
   "basicInfo": {
-    "title": "Basic Information",
-    "officialName": "Official Name",
+    "title": "Osnovne informacije",
+    "officialName": "Službeni naziv",
     "officialNameValue": "Trg Kralja Tomislava",
-    "type": "Attraction Type",
-    "typeValue": "City Park",
-    "country": "Country",
-    "countryValue": "Croatia",
-    "city": "City",
+    "type": "Vrsta atrakcije",
+    "typeValue": "Gradski park",
+    "country": "Država",
+    "countryValue": "Hrvatska",
+    "city": "Grad",
     "cityValue": "Zagreb",
-    "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (7,500)",
-    "address": "Address",
-    "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Croatia",
-    "telephone": "Contact Phone",
+    "googleRating": "Google ocjena",
+    "googleRatingValue": "4,8 (7.543)",
+    "address": "Adresa",
+    "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Hrvatska",
+    "telephone": "Telefon",
     "telephoneValue": "N/A",
-    "accessibility": "Accessibility",
-    "accessibilityValue": "Accessible",
+    "accessibility": "Pristupačnost",
+    "accessibilityValue": "Pristupačno",
     "plusCode": "Plus Code",
-    "plusCodeValue": "RX4H+JF Zagreb, Croatia"
+    "plusCodeValue": "RX4H+JF Zagreb, Hrvatska",
+    "coordinates": "Koordinate",
+    "coordinatesValue": "45.8065, 15.9787"
   },
   "hours": {
-    "title": "Visiting Hours",
-    "park": "Park Access",
-    "parkTime": "Open 24 hours daily",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Vibrant floral displays",
-    "bestTimeSummer": "Summer: Relaxing on the lawns",
-    "bestTimeAutumn": "Autumn: Beautiful foliage colors",
-    "bestTimeWinter": "Winter: Ice skating park during Advent",
-    "tip": "Enjoy the park at sunset for the best lighting against the Art Pavilion."
+    "title": "Radno vrijeme",
+    "park": "Pristup parku",
+    "parkTime": "Otvoreno 24 sata dnevno",
+    "bestTime": "Najbolje vrijeme za posjet",
+    "bestTimeSpring": "Proljeće: raskošne cvjetne gredice",
+    "bestTimeSummer": "Ljeto: odmor na travnjacima",
+    "bestTimeAutumn": "Jesen: prekrasne boje lišća",
+    "bestTimeWinter": "Zima: klizalište tijekom Adventa",
+    "tip": "Uživajte u parku u zalazak sunca za najljepše svjetlo u pozadini Umjetničkog paviljona i spomenika."
   },
   "tickets": {
-    "title": "Admission Information",
-    "park": "Park Admission",
-    "parkPrice": "Free public access",
-    "parking": "Parking",
-    "parkingPrice": "Public paid parking nearby",
-    "guided": "Guided Tours",
-    "guidedPrice": "Included in many city walking tours"
+    "title": "Informacije o ulazu",
+    "park": "Ulaz u park",
+    "parkPrice": "Besplatan javni pristup",
+    "parking": "Parkiranje",
+    "parkingPrice": "Javna naplativa parkirališta u blizini",
+    "guided": "Vođeni obilasci",
+    "guidedPrice": "Uključeno u mnoge gradske pješačke ture"
   },
   "transport": {
-    "title": "How to Get Here",
-    "fromCenter": "From Main Square (Ban Jelačić)",
-    "fromCenterDesc": "A short 10-15 minute walk south through the parks.",
-    "fromStation": "From Main Train Station",
-    "fromStationDesc": "Located immediately opposite the main entrance.",
-    "fromAirport": "From Zagreb Airport",
-    "fromAirportDesc": "Take the airport shuttle bus to the main bus station, then a short tram ride.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Tram lines 2, 4, 6, 9, and 13 stop directly at 'Glavni kolodvor' (Main Station).",
-    "walking": "Walking",
-    "walkingDesc": "Easily walkable from all central Zagreb locations.",
-    "driving": "Driving",
-    "drivingDesc": "Follow signs to Glavni kolodvor; street parking is limited."
+    "title": "Kako doći",
+    "fromCenter": "Od glavnog trga (Ban Jelačić)",
+    "fromCenterDesc": "Kratka šetnja od 10–15 minuta južno kroz parkove Lenucijeve potkove ili dvije stanice tramvajem linijom 6 ili 13.",
+    "fromStation": "Od Glavnog kolodvora",
+    "fromStationDesc": "Nalazi se izravno nasuprot glavnog ulaza – samo prijeđite cestu i na trgu ste.",
+    "fromAirport": "Od Zračne luke Zagreb",
+    "fromAirportDesc": "Autobusnim prijevozom do Autobusnog kolodvora, zatim tramvajskim linijama 2 ili 6 nekoliko stanica do Glavnog kolodvora.",
+    "publicTransport": "Javni prijevoz",
+    "publicTransportDesc": "Tramvajske linije 2, 4, 6, 9 i 13 zaustavljaju se izravno na stanici 'Glavni kolodvor', odmah pokraj trga.",
+    "walking": "Pješice",
+    "walkingDesc": "Lako pješački dostupno sa svih središnjih lokacija; trg leži na glavnoj pješačkoj osi Donjeg grada.",
+    "driving": "Automobilom",
+    "drivingDesc": "Slijedite znakove za Glavni kolodvor. Ulično parkiranje je ograničeno; koristite obližnje javne garaže."
   },
   "route": {
-    "title": "Recommended Route",
-    "overview": "Explore the beautiful squares and parks forming the Green Horseshoe.",
+    "title": "Preporučena ruta",
+    "overview": "Klasična šetnja istočnim krakom Lenucijeve potkove, od kolodvora do srca Donjeg grada.",
     "steps": [
-      "Arrive at Glavni kolodvor (Main Railway Station)",
-      "Admire the King Tomislav Monument",
-      "Stroll through the central lawns and flower beds",
-      "Take photos in front of the Art Pavilion",
-      "Continue north to Zrinjevac Park"
+      "Stignite na Glavni kolodvor i prijeđite cestu",
+      "Razgledajte konjanički spomenik kralju Tomislavu okrenut prema kolodvoru",
+      "Prošetajte središnjim travnjacima i cvjetnim gredicama parka",
+      "Fotografirajte se ispred žutog Umjetničkog paviljona",
+      "Nastavite sjeverno uz Lenucijevu potkovu do parka Zrinjevac",
+      "Završite na Trgu bana Jelačića i povijesnom Gornjem gradu"
     ]
   },
   "gallery": {
-    "title": "Photo Gallery",
-    "subtitle": "The Beauty of Trg Kralja Tomislava",
+    "title": "Fotogalerija",
+    "subtitle": "Ljepota Trga Kralja Tomislava",
     "captions": [
-      "Park view",
-      "Monument and Pavilion",
-      "Floral displays",
-      "King Tomislav Monument",
-      "Winter Ice Park",
-      "Summer lawns",
-      "Art Pavilion close-up",
-      "Square overview",
-      "Historic architecture",
-      "Walking paths",
-      "Evening view",
-      "Fountain details",
-      "Park benches"
+      "Pogled na park s Umjetničkim paviljonom",
+      "Spomenik i paviljon",
+      "Cvjetne gredice",
+      "Spomenik kralju Tomislavu",
+      "Zimski ledeni park",
+      "Ljetni travnjaci",
+      "Umjetnički paviljon izbliza",
+      "Pogled na trg",
+      "Povijesna arhitektura",
+      "Pješačke staze",
+      "Večernji pogled",
+      "Detalji fontane",
+      "Klupe u parku"
     ],
-    "viewAll": "View on Google Maps",
-    "showAll": "View All Photos",
-    "showLess": "Show Less"
+    "viewAll": "Pogledaj na Google kartama",
+    "showAll": "Prikaži sve fotografije",
+    "showLess": "Prikaži manje"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Reviews can be viewed via Google Maps.",
-    "moreReviews": "View more reviews on Google Maps",
+    "title": "Recenzije posjetitelja",
+    "declaration": "Recenzije se mogu pogledati putem Google karata.",
+    "moreReviews": "Pogledaj više recenzija na Google kartama",
     "items": [
       {
         "name": "James W.",
         "rating": 5,
         "date": "2026-04-10",
-        "text": "Absolutely stunning park! The view of the Art Pavilion from the monument is breathtaking. A must-visit in Zagreb."
+        "text": "Apsolutno prekrasan park! Pogled na Umjetnički paviljon sa spomenika oduzima dah. Obavezno posjetiti u Zagrebu."
       },
       {
         "name": "Sophia M.",
         "rating": 5,
         "date": "2026-03-22",
-        "text": "Incredible city park with beautiful flowers. It's so relaxing to just sit here on a sunny afternoon."
+        "text": "Nevjerojatan gradski park s prekrasnim cvijećem. Tako je opuštajuće sjediti ovdje sunčanog poslijepodneva."
       },
       {
         "name": "Andreas K.",
         "rating": 5,
         "date": "2026-02-15",
-        "text": "The ice skating park during winter is magical. Such a great atmosphere!"
+        "text": "Zimski klizališni park je čaroban. Kakva nevjerojatna atmosfera!"
       },
       {
         "name": "Emma L.",
         "rating": 4,
         "date": "2026-01-30",
-        "text": "Beautiful park right by the train station. Great first impression of the city."
+        "text": "Prekrasan park odmah pokraj željezničke stanice. Odličan prvi dojam grada."
       },
       {
         "name": "Michael R.",
         "rating": 5,
         "date": "2025-12-18",
-        "text": "A wonderful piece of urban architecture. The whole Green Horseshoe area is fantastic."
+        "text": "Prekrasan komad urbane arhitekture. Cijelo područje Lenucijeve potkove je fantastično."
       },
       {
         "name": "Linda T.",
         "rating": 5,
         "date": "2025-11-25",
-        "text": "One of the best public spaces in Zagreb. Very well maintained and photogenic."
+        "text": "Jedan od najboljih javnih prostora u Zagrebu. Vrlo održavan i fotogeničan."
       }
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "RX4H+JF Zagreb, Croatia",
-    "openMaps": "View on Google Maps"
+    "title": "Položaj na karti",
+    "subtitle": "Trg Kralja Tomislava 10, Zagreb · RX4H+JF Zagreb, Hrvatska",
+    "openMaps": "Pogledaj na Google kartama"
   },
   "footer": {
     "brandName": "Trg Kralja Tomislava",
-    "brandSubtitle": "City Park · Zagreb, Croatia",
-    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Information",
+    "brandSubtitle": "Gradski park i spomenik · Zagreb, Hrvatska",
+    "rights": "© 2026 Neovisni turistički istraživački projekt · Sva prava pridržana.",
+    "privacy": "Politika privatnosti",
+    "terms": "Uvjeti korištenja",
+    "cookies": "Postavke kolačića",
+    "officialResourcesTitle": "Službeni resursi i informacije",
     "officialLinks": {
-      "mvep": "Ministry of Foreign and European Affairs (MVEP) - Visa Page",
-      "mup": "Ministry of the Interior (MUP)",
-      "htz": "Croatian National Tourist Board (HTZ)",
-      "gradZagreb": "City of Zagreb (Grad Zagreb)",
-      "tzgz": "Zagreb Tourist Board (TZGZ)",
-      "culturalHeritage": "Register of Cultural Goods of Croatia"
+      "mvep": "Ministarstvo vanjskih i europskih poslova (MVEP) – Vizna stranica",
+      "mup": "Ministarstvo unutarnjih poslova (MUP)",
+      "htz": "Hrvatska turistička zajednica (HTZ)",
+      "gradZagreb": "Grad Zagreb",
+      "tzgz": "Turistička zajednica grada Zagreba (TZGZ)",
+      "culturalHeritage": "Registar kulturnih dobara RH"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "photoCredit": "Fotografije su ilustrativne; neke možda ne prikazuju točno ovo mjesto.",
+    "disclaimer": "Ova web stranica neovisni je projekt s turističkim informacijama treće strane. Nismo povezani s lokalnom vladom ni bilo kojom službenom agencijom.",
+    "lastUpdated": "Sadržaj posljednji put ažuriran: rujan 2026."
   },
   "officialManagement": {
-    "title": "About Trg Kralja Tomislava",
-    "text": "Trg Kralja Tomislava is managed by the City of Zagreb and is protected as an essential part of Zagreb's cultural and urban heritage."
+    "title": "O Trgu Kralja Tomislava",
+    "text": "Trg Kralja Tomislava u nadležnosti je Grada Zagreba i zaštićen je kao bitan dio zagrebačke kulturne i urbane baštine."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "title": "Politika privatnosti",
+    "lastUpdated": "Posljednje ažuriranje: 2. rujna 2026.",
     "sections": [
       {
-        "heading": "Information Collection",
-        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+        "heading": "Prikupljanje informacija",
+        "content": "Kada posjetite našu web stranicu, možemo automatski prikupiti osnovne informacije o vašem uređaju, pregledniku i ponašanju pri pregledavanju kako bismo pružili bolje korisničko iskustvo. Te informacije ne sadrže vaš osobni identitet."
       },
       {
-        "heading": "Use of Cookies",
-        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+        "heading": "Korištenje kolačića",
+        "content": "Koristimo kolačiće za analizu prometa na web stranici i optimizaciju sadržaja. Svoje postavke možete upravljati u svakom trenutku putem opcije 'Postavke kolačića' na dnu stranice."
       },
       {
-        "heading": "Data Security and Protection",
-        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+        "heading": "Sigurnost i zaštita podataka",
+        "content": "Predani smo zaštiti sigurnosti vaših podataka o privatnosti te nećemo prodavati, iznajmljivati niti razmjenjivati vaše podatke o pregledavanju trećim komercijalnim organizacijama."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "title": "Uvjeti korištenja",
+    "lastUpdated": "Posljednje ažuriranje: 2. rujna 2026.",
     "sections": [
       {
-        "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Trg Kralja Tomislava. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "heading": "Sadržaj i korištenje web stranice",
+        "content": "Ova web stranica pruža turističke, prometne i povijesne informacije o Trgu Kralja Tomislava. Sav sadržaj služi samo za informativne svrhe. Stvarno radno vrijeme i informacije o atrakcijama mogu se promijeniti u svakom trenutku; molimo provjerite službene objave."
       },
       {
-        "heading": "Intellectual Property",
-        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+        "heading": "Intelektualno vlasništvo",
+        "content": "Tekstovi, slike i dizajni na ovoj web stranici zaštićeni su autorskim pravima. Bez izričitog pismenog dopuštenja nitko ne smije koristiti sadržaj web stranice u komercijalne svrhe."
       },
       {
-        "heading": "Disclaimer",
-        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+        "heading": "Odricanje od odgovornosti",
+        "content": "Nastojimo osigurati točnost i pravovremenost informacija, ali ne preuzimamo pravnu odgovornost za putna kašnjenja ili gubitke uzrokovane izravno ili neizravno korištenjem informacija s ove web stranice."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "title": "Postavke kolačića",
+    "description": "Upravljajte svojim postavkama kolačića.",
     "essential": {
-      "title": "Essential Cookies",
-      "description": "Necessary for basic website functionality and cannot be disabled.",
-      "badge": "Always Active"
+      "title": "Nužni kolačići",
+      "description": "Potrebni za osnovnu funkcionalnost web stranice i ne mogu se onemogućiti.",
+      "badge": "Uvijek aktivno"
     },
     "analytics": {
-      "title": "Analytics",
-      "description": "Help us understand visitor behavior and improve the website."
+      "title": "Analitika",
+      "description": "Pomažu nam razumjeti ponašanje posjetitelja i poboljšati web stranicu."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Used for cross-site tracking and delivering personalized ads."
+      "description": "Koriste se za praćenje na više stranica i prikazivanje personaliziranih oglasa."
     },
-    "save": "Save Preferences",
-    "saved": "Preferences Saved!"
+    "save": "Spremi postavke",
+    "saved": "Postavke spremljene!"
   }
 }
