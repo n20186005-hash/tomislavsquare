@@ -58,6 +58,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <BasicInfo />
+        <MapEmbed />
         <HoursSection />
         <TicketsSection />
         <WeatherSection />
@@ -73,7 +74,6 @@ export default async function HomePage({
         <Reviews />
         <FAQSection />
         <SourcesSection />
-        <MapEmbed />
       </main>
       <Footer />
     </>

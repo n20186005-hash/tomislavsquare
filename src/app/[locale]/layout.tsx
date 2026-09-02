@@ -133,7 +133,7 @@ export default async function LocaleLayout({
         ],
       },
       {
-        '@type': 'TouristAttraction',
+        '@type': ['TouristAttraction', 'Park'],
         '@id': `${baseUrl}/#attraction`,
         name: 'Trg Kralja Tomislava',
         alternateName: 'King Tomislav Square, Tomislavac, Tomislavov trg',
@@ -154,6 +154,12 @@ export default async function LocaleLayout({
         },
         hasMap: 'https://maps.app.goo.gl/6kLmtVRx9kFHrjND7',
         isAccessibleForFree: true,
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: '4.8',
+          reviewCount: '7543',
+          bestRating: '5',
+        },
         touristType: ['City Park', 'Landmark', 'Public Square'],
         sameAs: [
           'https://maps.app.goo.gl/6kLmtVRx9kFHrjND7',
