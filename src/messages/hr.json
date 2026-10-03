@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Trg Kralja Tomislava Zagreb – Vodič, Karta i Povijest",
-    "description": "Sve o Trgu Kralja Tomislava u Zagrebu: lokacija pored Glavnog kolodvora, Umjetnički paviljon, Ledeni park, događanja i savjeti za posjetitelje."
+    "title": "Trg kralja Tomislava Zagreb – Park, Spomenik, Karta i Posjet",
+    "description": "Posjetite Trg kralja Tomislava u Zagrebu. Pogledajte kartu, spomenik kralju Tomislavu, Umjetnički paviljon, prijevoz, povijest i obližnje znamenitosti."
   },
   "header": {
     "home": "Početna",
@@ -29,7 +29,7 @@
     "title": "Trg Kralja Tomislava, Zagreb",
     "subtitle": "Gradski park i spomenik · Zagreb, Hrvatska",
     "rating": "4.8",
-    "reviewCount": "7.543 recenzije",
+    "reviewCount": "7.558 recenzije",
     "type": "Gradski park",
     "openMaps": "Pogledaj na Google kartama",
     "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
@@ -37,7 +37,11 @@
   },
   "intro": {
     "title": "Otkrijte Trg Kralja Tomislava",
-    "breadcrumb": ["Trg Kralja Tomislava", "Zagreb", "Hrvatska"],
+    "breadcrumb": [
+      "Trg Kralja Tomislava",
+      "Zagreb",
+      "Hrvatska"
+    ],
     "nearbyTitle": "Znamenitosti oko trga",
     "nearby": "Tijekom posjeta Trgu Kralja Tomislava lako možete razgledati okolne znamenitosti Lenucijeve potkove, uključujući Park Zrinjevac i Trg bana Jelačića, kao i Hrvatsko narodno kazalište i Botanički vrt.",
     "description": "Trg Kralja Tomislava, poznat i kao Tomislavac ili Tomislavov trg, jedan je od najljepših i najpoznatijih gradskih parkova u Zagrebu. Smješten točno nasuprot Glavnog kolodvora, posjetitelje dočekuje elegantnim žutim Umjetničkim paviljonom i veličanstvenim konjaničkim spomenikom kralju Tomislavu, prvom hrvatskom kralju. Trg je južna kapija Lenucijeve potkove, omiljeno okupljalište i remek-djelo krajobrazne arhitekture 19. stoljeća.",
@@ -136,16 +140,46 @@
     "subtitle": "Što možete pronaći oko Trga Kralja Tomislava",
     "note": "Popis samo navodi vrste usluga dostupnih u tom području i ne preporučuje pojedine objekte.",
     "items": [
-      { "type": "Sanitarni čvor", "hint": "Javni WC-i dostupni su u prostoru kolodvora" },
-      { "type": "Parkiranje", "hint": "Naplativa ulična i garažna parkirališta u blizini" },
-      { "type": "Kafići i restorani", "hint": "Kafići, pekare i restorani na trgu i u Donjem gradu" },
-      { "type": "Hoteli", "hint": "Hoteli na trgu i okolnim ulicama" },
-      { "type": "Trgovine", "hint": "Trgovine i supermarketi u obližnjim ulicama" },
-      { "type": "Gorivo i punjenje EV", "hint": "Pumpa i punionice za električna vozila u širem centru" },
-      { "type": "Ljekarna i medicina", "hint": "Ljekarne i zdravstvene ustanove u pješačkoj udaljenosti" },
-      { "type": "Bankomati i banke", "hint": "Bankomati i poslovnice banaka u Donjem gradu" },
-      { "type": "Javni Wi-Fi", "hint": "Besplatne javne Wi-Fi točke dostupne su diljem središta Zagreba" },
-      { "type": "Obiteljski prihvatljivo", "hint": "Široke popločane staze i travnjaci čine park ugodnim za djecu i dječja kolica" }
+      {
+        "type": "Sanitarni čvor",
+        "hint": "Javni WC-i dostupni su u prostoru kolodvora"
+      },
+      {
+        "type": "Parkiranje",
+        "hint": "Naplativa ulična i garažna parkirališta u blizini"
+      },
+      {
+        "type": "Kafići i restorani",
+        "hint": "Kafići, pekare i restorani na trgu i u Donjem gradu"
+      },
+      {
+        "type": "Hoteli",
+        "hint": "Hoteli na trgu i okolnim ulicama"
+      },
+      {
+        "type": "Trgovine",
+        "hint": "Trgovine i supermarketi u obližnjim ulicama"
+      },
+      {
+        "type": "Gorivo i punjenje EV",
+        "hint": "Pumpa i punionice za električna vozila u širem centru"
+      },
+      {
+        "type": "Ljekarna i medicina",
+        "hint": "Ljekarne i zdravstvene ustanove u pješačkoj udaljenosti"
+      },
+      {
+        "type": "Bankomati i banke",
+        "hint": "Bankomati i poslovnice banaka u Donjem gradu"
+      },
+      {
+        "type": "Javni Wi-Fi",
+        "hint": "Besplatne javne Wi-Fi točke dostupne su diljem središta Zagreba"
+      },
+      {
+        "type": "Obiteljski prihvatljivo",
+        "hint": "Široke popločane staze i travnjaci čine park ugodnim za djecu i dječja kolica"
+      }
     ]
   },
   "accessibility": {
@@ -153,10 +187,22 @@
     "subtitle": "Park dobrodošao za sve",
     "note": "Trg Kralja Tomislava otvoreni je javni prostor s ravnim popločanim stazama cijelom dužinom.",
     "items": [
-      { "type": "Pristup za invalidska kolica", "text": "Ravne popločane staze cijelim parkom; do spomenika i Umjetničkog paviljona dolazi se u razini tla." },
-      { "type": "Pristup za dječja kolica", "text": "Glatke, široke staze pogodne za kolica; put od tramvajske stanice do parka je bez stepenica." },
-      { "type": "Tramvaj i vlak", "text": "Tramvajske stanice i glavni ulaz na kolodvor nalaze se odmah pokraj trga, s niskopodnim pristupom na većini linija." },
-      { "type": "Odmor i hladovina", "text": "Klupe, hladovite livade i pristupačni javni WC-i dostupni su na obližnjem kolodvoru." }
+      {
+        "type": "Pristup za invalidska kolica",
+        "text": "Ravne popločane staze cijelim parkom; do spomenika i Umjetničkog paviljona dolazi se u razini tla."
+      },
+      {
+        "type": "Pristup za dječja kolica",
+        "text": "Glatke, široke staze pogodne za kolica; put od tramvajske stanice do parka je bez stepenica."
+      },
+      {
+        "type": "Tramvaj i vlak",
+        "text": "Tramvajske stanice i glavni ulaz na kolodvor nalaze se odmah pokraj trga, s niskopodnim pristupom na većini linija."
+      },
+      {
+        "type": "Odmor i hladovina",
+        "text": "Klupe, hladovite livade i pristupačni javni WC-i dostupni su na obližnjem kolodvoru."
+      }
     ]
   },
   "etiquette": {
@@ -182,10 +228,22 @@
     "title": "Vodič za fotografiranje",
     "subtitle": "Najbolji kutovi i svjetlost",
     "items": [
-      { "name": "Klasična razglednica", "tip": "Stanite na strani kolodvora u zlatni sat da se kralj, Umjetnički paviljon i zvonici katedrale poravnaju." },
-      { "name": "Preko travnjaka", "tip": "Niski kutovi preko cvjetnih gredica uokviruju spomenik na nebu." },
-      { "name": "Ispred Umjetničkog paviljona", "tip": "Žuto pročelje najljepše je u blagom jutarnjem ili kasnopopodnevnom svjetlu, prije nego što trg padne u sjenu." },
-      { "name": "Sezonski prizori", "tip": "Tijekom Adventa klizalište i svjetla stvaraju jedinstvene noćne kadrove; u jesen boje drveća obrubljuju staze." }
+      {
+        "name": "Klasična razglednica",
+        "tip": "Stanite na strani kolodvora u zlatni sat da se kralj, Umjetnički paviljon i zvonici katedrale poravnaju."
+      },
+      {
+        "name": "Preko travnjaka",
+        "tip": "Niski kutovi preko cvjetnih gredica uokviruju spomenik na nebu."
+      },
+      {
+        "name": "Ispred Umjetničkog paviljona",
+        "tip": "Žuto pročelje najljepše je u blagom jutarnjem ili kasnopopodnevnom svjetlu, prije nego što trg padne u sjenu."
+      },
+      {
+        "name": "Sezonski prizori",
+        "tip": "Tijekom Adventa klizalište i svjetla stvaraju jedinstvene noćne kadrove; u jesen boje drveća obrubljuju staze."
+      }
     ]
   },
   "stories": {
@@ -397,7 +455,7 @@
     "city": "Grad",
     "cityValue": "Zagreb",
     "googleRating": "Google ocjena",
-    "googleRatingValue": "4,8 (7.543)",
+    "googleRatingValue": "4,8 (7.558)",
     "address": "Adresa",
     "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Hrvatska",
     "telephone": "Telefon",
@@ -604,5 +662,32 @@
     },
     "save": "Spremi postavke",
     "saved": "Postavke spremljene!"
+  },
+  "topicLinks": {
+    "title": "Istražite više",
+    "subtitle": "Posebni vodiči za spomenik, okolinu i godišnja doba Trga kralja Tomislava.",
+    "cta": "Pročitajte vodič",
+    "items": [
+      {
+        "slug": "king-tomislav-monument",
+        "label": "Spomenik kralju Tomislavu",
+        "text": "Brončani konjanički spomenik po kojem je trg dobio ime."
+      },
+      {
+        "slug": "things-to-do-near-king-tomislav-square",
+        "label": "Što posjetiti u blizini",
+        "text": "Zrinjevac, Trg bana Jelačića, Glavni kolodvor i drugo – sve na kratkoj šetnji."
+      },
+      {
+        "slug": "green-horseshoe-walking-route",
+        "label": "Šetnja Zelena potkovom",
+        "text": "Samostalna pješačka ruta uz Lenucijev niz parkova i trgova."
+      },
+      {
+        "slug": "advent-king-tomislav-square",
+        "label": "Advent u Zagrebu",
+        "text": "Tijekom nagrađivanog Adventa trg je domaćin Klizalištu (Ice Park)."
+      }
+    ]
   }
 }

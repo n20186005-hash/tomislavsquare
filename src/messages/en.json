@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "King Tomislav Square Zagreb – 2026 Visitor Guide & Map",
-    "description": "Discover Zagreb's King Tomislav Square (Trg Kralja Tomislava): equestrian statue, Art Pavilion & winter Ice Park. Photos, map and tips near Central Station."
+    "title": "Trg Kralja Tomislava (King Tomislav Square), Zagreb | Map & Guide",
+    "description": "Visit Trg Kralja Tomislava (King Tomislav Square) in Zagreb. See the map, King Tomislav monument, Art Pavilion, transport, history and nearby attractions."
   },
   "header": {
     "home": "Home",
@@ -29,7 +29,7 @@
     "title": "King Tomislav Square (Trg Kralja Tomislava), Zagreb",
     "subtitle": "City Park & Monument · Zagreb, Croatia",
     "rating": "4.8",
-    "reviewCount": "7,543 reviews",
+    "reviewCount": "7,558 reviews",
     "type": "City Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
@@ -37,7 +37,11 @@
   },
   "intro": {
     "title": "Discover Trg Kralja Tomislava",
-    "breadcrumb": ["Trg Kralja Tomislava", "Zagreb", "Croatia"],
+    "breadcrumb": [
+      "Trg Kralja Tomislava",
+      "Zagreb",
+      "Croatia"
+    ],
     "nearbyTitle": "Landmarks Around the Square",
     "nearby": "When visiting Trg Kralja Tomislava, you can easily explore the surrounding landmarks of Zagreb's Green Horseshoe, including Zrinjevac Park and Ban Jelačić Square (Trg bana Jelačića), as well as the Croatian National Theatre and the Botanical Garden.",
     "description": "Trg Kralja Tomislava (King Tomislav Square), also known simply as Tomislavac or Tomislavov trg, is one of the most beautiful and prominent urban parks in Zagreb, Croatia. Located right across from the Main Railway Station (Glavni kolodvor), it welcomes visitors with the elegant yellow Art Pavilion and a majestic equestrian monument to King Tomislav, the first King of Croatia. It is the southern gateway of Lenuci's Green Horseshoe, a popular meeting place and a masterpiece of 19th-century landscape architecture.",
@@ -136,16 +140,46 @@
     "subtitle": "What you will find around Trg Kralja Tomislava",
     "note": "This list only mentions types of services available in the area and does not recommend any specific businesses.",
     "items": [
-      { "type": "Restrooms", "hint": "Public toilets are available in the station area" },
-      { "type": "Parking", "hint": "Paid street and garage parking nearby" },
-      { "type": "Cafés & Restaurants", "hint": "Cafés, bakeries and restaurants on the square and in the Lower Town" },
-      { "type": "Hotels", "hint": "Hotels along the square and the surrounding streets" },
-      { "type": "Shops", "hint": "Shops and supermarkets in the nearby streets" },
-      { "type": "Fuel & EV Charging", "hint": "Fuel stations and electric vehicle chargers in the wider city centre" },
-      { "type": "Pharmacy & Medical", "hint": "Pharmacies and medical facilities within walking distance" },
-      { "type": "ATMs & Banks", "hint": "ATMs and bank branches throughout the Lower Town" },
-      { "type": "Public Wi-Fi", "hint": "Free public Wi-Fi hotspots are available across Zagreb's city centre" },
-      { "type": "Family Friendly", "hint": "Wide paved paths and lawns make the park comfortable for children and prams" }
+      {
+        "type": "Restrooms",
+        "hint": "Public toilets are available in the station area"
+      },
+      {
+        "type": "Parking",
+        "hint": "Paid street and garage parking nearby"
+      },
+      {
+        "type": "Cafés & Restaurants",
+        "hint": "Cafés, bakeries and restaurants on the square and in the Lower Town"
+      },
+      {
+        "type": "Hotels",
+        "hint": "Hotels along the square and the surrounding streets"
+      },
+      {
+        "type": "Shops",
+        "hint": "Shops and supermarkets in the nearby streets"
+      },
+      {
+        "type": "Fuel & EV Charging",
+        "hint": "Fuel stations and electric vehicle chargers in the wider city centre"
+      },
+      {
+        "type": "Pharmacy & Medical",
+        "hint": "Pharmacies and medical facilities within walking distance"
+      },
+      {
+        "type": "ATMs & Banks",
+        "hint": "ATMs and bank branches throughout the Lower Town"
+      },
+      {
+        "type": "Public Wi-Fi",
+        "hint": "Free public Wi-Fi hotspots are available across Zagreb's city centre"
+      },
+      {
+        "type": "Family Friendly",
+        "hint": "Wide paved paths and lawns make the park comfortable for children and prams"
+      }
     ]
   },
   "accessibility": {
@@ -153,10 +187,22 @@
     "subtitle": "A park that welcomes everyone",
     "note": "Trg Kralja Tomislava is an open public space with level, paved paths throughout.",
     "items": [
-      { "type": "Wheelchair Access", "text": "Flat paved pathways across the whole park; the monument and Art Pavilion are reached at ground level." },
-      { "type": "Pushchair Friendly", "text": "Smooth, wide paths suit strollers; the route from the station tram stop is step-free." },
-      { "type": "Tram & Train", "text": "Tram stops and the station entrance sit right beside the square, with level boarding on most routes." },
-      { "type": "Rest & Shade", "text": "Benches, shaded lawns and accessible public toilets are available at the neighbouring station." }
+      {
+        "type": "Wheelchair Access",
+        "text": "Flat paved pathways across the whole park; the monument and Art Pavilion are reached at ground level."
+      },
+      {
+        "type": "Pushchair Friendly",
+        "text": "Smooth, wide paths suit strollers; the route from the station tram stop is step-free."
+      },
+      {
+        "type": "Tram & Train",
+        "text": "Tram stops and the station entrance sit right beside the square, with level boarding on most routes."
+      },
+      {
+        "type": "Rest & Shade",
+        "text": "Benches, shaded lawns and accessible public toilets are available at the neighbouring station."
+      }
     ]
   },
   "etiquette": {
@@ -182,10 +228,22 @@
     "title": "Photography Guide",
     "subtitle": "The best angles and light",
     "items": [
-      { "name": "The classic postcard", "tip": "Stand at the station side of the square at golden hour so the king, the Art Pavilion and the cathedral towers line up." },
-      { "name": "Across the lawns", "tip": "Low-angle shots over the flower beds frame the monument against the sky." },
-      { "name": "Art Pavilion front", "tip": "The yellow facade photographs best in soft morning or late-afternoon light, before the square falls into shadow." },
-      { "name": "Seasonal views", "tip": "During Advent the ice rink and lights create unique night shots; in autumn the tree colours line the pathways." }
+      {
+        "name": "The classic postcard",
+        "tip": "Stand at the station side of the square at golden hour so the king, the Art Pavilion and the cathedral towers line up."
+      },
+      {
+        "name": "Across the lawns",
+        "tip": "Low-angle shots over the flower beds frame the monument against the sky."
+      },
+      {
+        "name": "Art Pavilion front",
+        "tip": "The yellow facade photographs best in soft morning or late-afternoon light, before the square falls into shadow."
+      },
+      {
+        "name": "Seasonal views",
+        "tip": "During Advent the ice rink and lights create unique night shots; in autumn the tree colours line the pathways."
+      }
     ]
   },
   "stories": {
@@ -397,7 +455,7 @@
     "city": "City",
     "cityValue": "Zagreb",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (7,543)",
+    "googleRatingValue": "4.8 (7,558)",
     "address": "Address",
     "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Croatia",
     "telephone": "Contact Phone",
@@ -604,5 +662,32 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"
+  },
+  "topicLinks": {
+    "title": "Explore More",
+    "subtitle": "Dedicated guides to the monument, the surroundings and the seasons of Trg Kralja Tomislava.",
+    "cta": "Read guide",
+    "items": [
+      {
+        "slug": "king-tomislav-monument",
+        "label": "King Tomislav Monument",
+        "text": "The bronze equestrian statue that gives the square its name."
+      },
+      {
+        "slug": "things-to-do-near-king-tomislav-square",
+        "label": "Things to Do Nearby",
+        "text": "Zrinjevac, Ban Jelačić Square, the Main Station and more – all within a short walk."
+      },
+      {
+        "slug": "green-horseshoe-walking-route",
+        "label": "Green Horseshoe Walk",
+        "text": "A self-guided walking route along Lenuci’s chain of parks and squares."
+      },
+      {
+        "slug": "advent-king-tomislav-square",
+        "label": "Advent in Zagreb",
+        "text": "The square hosts Zagreb’s Ice Park during the award-winning Advent season."
+      }
+    ]
   }
 }

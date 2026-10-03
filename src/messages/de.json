@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "König-Tomislav-Platz Zagreb – 2026 Guide & Karte",
-    "description": "König-Tomislav-Platz in Zagreb: Reiterstandbild, Kunstpavillon, Eispark im Advent, Karte, Anfahrt vom Hauptbahnhof."
+    "title": "König-Tomislav-Platz Zagreb – Karte, Sehenswürdigkeiten & Tipps",
+    "description": "Besuchen Sie den König-Tomislav-Platz in Zagreb. Karte, Tomislav-Denkmal, Kunstpavillon, Anreise, Geschichte und Sehenswürdigkeiten in der Nähe."
   },
   "header": {
     "home": "Start",
@@ -29,7 +29,7 @@
     "title": "König-Tomislav-Platz (Trg Kralja Tomislava), Zagreb",
     "subtitle": "Stadtpark und Denkmal · Zagreb, Kroatien",
     "rating": "4.8",
-    "reviewCount": "7.543 Bewertungen",
+    "reviewCount": "7.558 Bewertungen",
     "type": "Stadtpark",
     "openMaps": "Auf Google Maps ansehen",
     "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
@@ -37,7 +37,11 @@
   },
   "intro": {
     "title": "Entdecken Sie den Trg Kralja Tomislava",
-    "breadcrumb": ["Trg Kralja Tomislava", "Zagreb", "Kroatien"],
+    "breadcrumb": [
+      "Trg Kralja Tomislava",
+      "Zagreb",
+      "Kroatien"
+    ],
     "nearbyTitle": "Sehenswürdigkeiten rund um den Platz",
     "nearby": "Bei einem Besuch des Trg Kralja Tomislava lassen sich die umliegenden Sehenswürdigkeiten des grünen Lenuci-Hufeisens leicht erkunden, darunter der Park Zrinjevac und der Ban-Jelačić-Platz (Trg bana Jelačića) sowie das Kroatische Nationaltheater und der Botanische Garten.",
     "description": "Der Trg Kralja Tomislava (König-Tomislav-Platz), auch einfach Tomislavac oder Tomislavov trg genannt, ist einer der schönsten und bekanntesten Stadtparks in Zagreb, Kroatien. Direkt gegenüber dem Hauptbahnhof (Glavni kolodvor) gelegen, empfängt er Besucher mit dem eleganten gelben Kunstpavillon und einem majestätischen Reiterdenkmal für König Tomislav, den ersten König Kroatiens. Er ist das südliche Tor zum grünen Lenuci-Hufeisen, ein beliebter Treffpunkt und ein Meisterwerk der Landschaftsarchitektur des 19. Jahrhunderts.",
@@ -136,16 +140,46 @@
     "subtitle": "Was Sie rund um den Trg Kralja Tomislava finden",
     "note": "Diese Liste nennt nur die in der Gegend verfügbaren Dienstleistungsarten und empfiehlt keine bestimmten Unternehmen.",
     "items": [
-      { "type": "Toiletten", "hint": "Öffentliche Toiletten sind im Bahnhofsbereich verfügbar" },
-      { "type": "Parken", "hint": "Gebührenpflichtige Straßen- und Garagenparkplätze in der Nähe" },
-      { "type": "Cafés & Restaurants", "hint": "Cafés, Bäckereien und Restaurants auf dem Platz und in der Unterstadt" },
-      { "type": "Hotels", "hint": "Hotels am Platz und in den umliegenden Straßen" },
-      { "type": "Geschäfte", "hint": "Geschäfte und Supermärkte in den nahegelegenen Straßen" },
-      { "type": "Tanken & E-Laden", "hint": "Tankstellen und Ladestationen für Elektrofahrzeuge im weiteren Stadtzentrum" },
-      { "type": "Apotheke & Medizin", "hint": "Apotheken und medizinische Einrichtungen in fußläufiger Entfernung" },
-      { "type": "Geldautomaten & Banken", "hint": "Geldautomaten und Bankfilialen in der gesamten Unterstadt" },
-      { "type": "Öffentliches WLAN", "hint": "Kostenlose öffentliche WLAN-Hotspots sind im gesamten Stadtzentrum von Zagreb verfügbar" },
-      { "type": "Familienfreundlich", "hint": "Breite gepflasterte Wege und Rasenflächen machen den Park angenehm für Kinder und Kinderwagen" }
+      {
+        "type": "Toiletten",
+        "hint": "Öffentliche Toiletten sind im Bahnhofsbereich verfügbar"
+      },
+      {
+        "type": "Parken",
+        "hint": "Gebührenpflichtige Straßen- und Garagenparkplätze in der Nähe"
+      },
+      {
+        "type": "Cafés & Restaurants",
+        "hint": "Cafés, Bäckereien und Restaurants auf dem Platz und in der Unterstadt"
+      },
+      {
+        "type": "Hotels",
+        "hint": "Hotels am Platz und in den umliegenden Straßen"
+      },
+      {
+        "type": "Geschäfte",
+        "hint": "Geschäfte und Supermärkte in den nahegelegenen Straßen"
+      },
+      {
+        "type": "Tanken & E-Laden",
+        "hint": "Tankstellen und Ladestationen für Elektrofahrzeuge im weiteren Stadtzentrum"
+      },
+      {
+        "type": "Apotheke & Medizin",
+        "hint": "Apotheken und medizinische Einrichtungen in fußläufiger Entfernung"
+      },
+      {
+        "type": "Geldautomaten & Banken",
+        "hint": "Geldautomaten und Bankfilialen in der gesamten Unterstadt"
+      },
+      {
+        "type": "Öffentliches WLAN",
+        "hint": "Kostenlose öffentliche WLAN-Hotspots sind im gesamten Stadtzentrum von Zagreb verfügbar"
+      },
+      {
+        "type": "Familienfreundlich",
+        "hint": "Breite gepflasterte Wege und Rasenflächen machen den Park angenehm für Kinder und Kinderwagen"
+      }
     ]
   },
   "accessibility": {
@@ -153,10 +187,22 @@
     "subtitle": "Ein Park, der alle willkommen heißt",
     "note": "Der Trg Kralja Tomislava ist ein offener öffentlicher Raum mit durchgehend ebenen, gepflasterten Wegen.",
     "items": [
-      { "type": "Rollstuhlzugang", "text": "Durchgehend ebene, gepflasterte Wege; Denkmal und Kunstpavillon sind ebenerdig erreichbar." },
-      { "type": "Kinderwagenfreundlich", "text": "Glatte, breite Wege eignen sich für Kinderwagen; der Weg von der Straßenbahnhaltestelle ist stufenfrei." },
-      { "type": "Straßenbahn & Bahn", "text": "Straßenbahnhaltestellen und Bahnhofseingang liegen direkt am Platz, auf den meisten Linien mit stufenlosem Einstieg." },
-      { "type": "Ruhe & Schatten", "text": "Bänke, schattige Rasenflächen und barrierefreie öffentliche Toiletten gibt es am benachbarten Bahnhof." }
+      {
+        "type": "Rollstuhlzugang",
+        "text": "Durchgehend ebene, gepflasterte Wege; Denkmal und Kunstpavillon sind ebenerdig erreichbar."
+      },
+      {
+        "type": "Kinderwagenfreundlich",
+        "text": "Glatte, breite Wege eignen sich für Kinderwagen; der Weg von der Straßenbahnhaltestelle ist stufenfrei."
+      },
+      {
+        "type": "Straßenbahn & Bahn",
+        "text": "Straßenbahnhaltestellen und Bahnhofseingang liegen direkt am Platz, auf den meisten Linien mit stufenlosem Einstieg."
+      },
+      {
+        "type": "Ruhe & Schatten",
+        "text": "Bänke, schattige Rasenflächen und barrierefreie öffentliche Toiletten gibt es am benachbarten Bahnhof."
+      }
     ]
   },
   "etiquette": {
@@ -182,10 +228,22 @@
     "title": "Fotografie-Guide",
     "subtitle": "Die besten Winkel und Lichtverhältnisse",
     "items": [
-      { "name": "Die klassische Postkarte", "tip": "Stellen Sie sich in der Goldenen Stunde auf die Bahnhofsseite, sodass König, Kunstpavillon und Kirchtürme der Kathedrale auf einer Linie liegen." },
-      { "name": "Über die Rasenflächen", "tip": "Froschperspektive über die Blumenbeete rahmt das Denkmal vor dem Himmel ein." },
-      { "name": "Vor dem Kunstpavillon", "tip": "Die gelbe Fassade kommt im sanften Morgen- oder Spätnachmittagslicht am besten zur Geltung, bevor der Platz in den Schatten fällt." },
-      { "name": "Saisonale Motive", "tip": "Im Advent entstehen durch Eisbahn und Lichter einzigartige Nachtaufnahmen; im Herbst säumen die Baumfarben die Wege." }
+      {
+        "name": "Die klassische Postkarte",
+        "tip": "Stellen Sie sich in der Goldenen Stunde auf die Bahnhofsseite, sodass König, Kunstpavillon und Kirchtürme der Kathedrale auf einer Linie liegen."
+      },
+      {
+        "name": "Über die Rasenflächen",
+        "tip": "Froschperspektive über die Blumenbeete rahmt das Denkmal vor dem Himmel ein."
+      },
+      {
+        "name": "Vor dem Kunstpavillon",
+        "tip": "Die gelbe Fassade kommt im sanften Morgen- oder Spätnachmittagslicht am besten zur Geltung, bevor der Platz in den Schatten fällt."
+      },
+      {
+        "name": "Saisonale Motive",
+        "tip": "Im Advent entstehen durch Eisbahn und Lichter einzigartige Nachtaufnahmen; im Herbst säumen die Baumfarben die Wege."
+      }
     ]
   },
   "stories": {
@@ -397,7 +455,7 @@
     "city": "Stadt",
     "cityValue": "Zagreb",
     "googleRating": "Google-Bewertung",
-    "googleRatingValue": "4,8 (7.543)",
+    "googleRatingValue": "4,8 (7.558)",
     "address": "Adresse",
     "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Kroatien",
     "telephone": "Telefon",
@@ -604,5 +662,32 @@
     },
     "save": "Präferenzen speichern",
     "saved": "Präferenzen gespeichert!"
+  },
+  "topicLinks": {
+    "title": "Mehr entdecken",
+    "subtitle": "Eigene Reiseführer zum Denkmal, der Umgebung und den Jahreszeiten des Trg Kralja Tomislava.",
+    "cta": "Zum Guide",
+    "items": [
+      {
+        "slug": "king-tomislav-monument",
+        "label": "König-Tomislav-Denkmal",
+        "text": "Das bronzene Reiterstandbild, nach dem der Platz benannt ist."
+      },
+      {
+        "slug": "things-to-do-near-king-tomislav-square",
+        "label": "Sehenswürdigkeiten in der Nähe",
+        "text": "Zrinjevac, Ban-Jelačić-Platz, Hauptbahnhof und mehr – alles in kurzem Fußweg."
+      },
+      {
+        "slug": "green-horseshoe-walking-route",
+        "label": "Grünes Hufeisen Route",
+        "text": "Eine selbstgeführte Wanderung entlang Lenucis Kette von Parks und Plätzen."
+      },
+      {
+        "slug": "advent-king-tomislav-square",
+        "label": "Advent in Zagreb",
+        "text": "Während des preisgekrönten Advents ist der Platz Schauplatz des Ice Parks."
+      }
+    ]
   }
 }

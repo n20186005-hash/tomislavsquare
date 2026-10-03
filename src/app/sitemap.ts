@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
+import { TOPIC_SLUGS } from '@/content/topics/loader';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://tomislavsquare.com';
@@ -9,9 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const pages = [
     '',
-    '/privacy-policy',
-    '/terms-of-service',
-    '/cookie-settings'
+    ...TOPIC_SLUGS.map((slug) => `/${slug}`),
   ];
 
   for (const locale of routing.locales) {
@@ -26,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         url: `${baseUrl}/${locale}${page}`,
         lastModified,
         changeFrequency: 'weekly',
-        priority: page === '' ? 1 : 0.5,
+        priority: page === '' ? 1 : 0.8,
         alternates: {
           languages: alternates,
         },

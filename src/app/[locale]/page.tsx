@@ -14,6 +14,7 @@ import StoriesSection from '@/components/StoriesSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import EtiquetteSection from '@/components/EtiquetteSection';
 import NearbySection from '@/components/NearbySection';
+import TopicHighlights from '@/components/TopicHighlights';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import Gallery from '@/components/Gallery';
@@ -69,6 +70,7 @@ export default async function HomePage({
         <StoriesSection />
         <FacilitiesSection />
         <NearbySection />
+        <TopicHighlights />
         <RouteSection />
         <Gallery />
         <Reviews />

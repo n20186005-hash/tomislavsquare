@@ -1,0 +1,431 @@
+{
+  "king-tomislav-monument": {
+    "card": {
+      "label": "König-Tomislav-Denkmal",
+      "text": "Das bronzene Reiterstandbild, nach dem der Platz benannt ist."
+    },
+    "title": "König-Tomislav-Denkmal, Zagreb | Geschichte & Besucherführer",
+    "description": "Das König-Tomislav-Denkmal auf dem Trg Kralja Tomislava: ein bronzenes Reiterstandbild von Robert Frangeš-Mihanović, 1947 enthüllt. Geschichte, Fakten und beste Fotoplätze.",
+    "h1": "Das König-Tomislav-Denkmal",
+    "intro": "Im Herzen des Trg Kralja Tomislava steht das bronzene Reiterstandbild für Tomislav, den ersten König von Kroatien. Dem Hauptbahnhof zugewandt, ist es das prägende Wahrzeichen des Platzes und das erste, was die meisten Reisenden bei der Ankunft mit der Bahn in Zagreb sehen.",
+    "exploreTitle": "Mehr über den Trg Kralja Tomislava",
+    "backLabel": "Zurück zum Trg Kralja Tomislava",
+    "faqTitle": "Häufig gestellte Fragen",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Wer war König Tomislav?",
+        "paragraphs": [
+          "Tomislav wurde 925 mit päpstlichem Segen zum ersten König von Kroatien gekrönt. Er einen die kroatischen Herzogtümer, wies die magyarischen Invasionen zurück und legte den Grundstein für das mittelalterliche kroatische Königreich.",
+          "Er starb um 928 – kaum drei Jahre nach seiner Krönung –, und die Umstände seines Todes sind bis heute unbekannt, was über Jahrhunderte Legenden nährte."
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Der Bildhauer und das Standbild",
+        "paragraphs": [
+          "Das Denkmal schuf der kroatische Bildhauer Robert Frangeš-Mihanović. Er modellierte die bronzene Reiterstatue 1938 und zeigte den König auf dem Pferd in feierlicher Kleidung.",
+          "Da das Standbild zum Bahnhof blickt, begegnet jeder ankommende Reisende dem König zuerst – ein bewusster Empfang für die Stadt."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Wichtige Fakten",
+        "items": [
+          "Im Oktober 1947 enthüllt, fast ein Jahrzehnt nach Fertigstellung der Skulptur",
+          "Erinnern an das Jahrtausend des kroatischen Königreichs",
+          "Aus Bronze auf einem steinernen Sockel",
+          "Am südlichen Ende des Platzes, zum Glavni kolodvor (Hauptbahnhof) gewandt",
+          "Von Robert Frangeš-Mihanović gestaltet"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Symbolik und Bedeutung",
+        "paragraphs": [
+          "Das Denkmal wurde nach Jahren von Streitigkeiten über Gestalt und Standort sowie durch den Zweiten Weltkrieg verzögert schließlich enthüllt. Für Zagreb ist es ein Zeichen nationaler Identität und eine Huldigung an den Herrscher, der dem Land die Königskrone brachte.",
+          "Zusammen mit dem gelben Kunstpavillon dahinter bildet die Statue die klassische Postkartenansicht des Platzes."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Direkt am Denkmal",
+        "cards": [
+          {
+            "title": "Kunstpavillon (Umjetnički paviljon)",
+            "text": "Kroatiens erster eigens gebauter Ausstellungssaal, aus dem Jahr 1898."
+          },
+          {
+            "title": "Hauptbahnhof",
+            "text": "Das historistische Bahnhofsgebäude von 1892 liegt direkt gegenüber."
+          },
+          {
+            "title": "Zrinjevac-Park",
+            "text": "Die nächste grüne Kette der Grünen Hufeisen, 6 Minuten Fußweg nordwärts."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Das Denkmal im Bild",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "König-Tomislav-Denkmal, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "König-Tomislav-Denkmal, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "König-Tomislav-Denkmal, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wer war König Tomislav?",
+        "answer": "Tomislav war der erste König von Kroatien, gekrönt 925. Er einen die kroatischen Herzogtümer und gilt als Begründer des mittelalterlichen kroatischen Königreichs."
+      },
+      {
+        "question": "Wann wurde das Denkmal enthüllt?",
+        "answer": "Die Bronzestatue wurde 1938 vollendet, aber erst im Oktober 1947 enthüllt, verzögert durch Streitigkeiten und den Zweiten Weltkrieg."
+      },
+      {
+        "question": "Wer schuf das König-Tomislav-Denkmal?",
+        "answer": "Es wurde vom kroatischen Bildhauer Robert Frangeš-Mihanović geschaffen."
+      },
+      {
+        "question": "Dürfen Besucher auf das Denkmal klettern oder es berühren?",
+        "answer": "Nein. Zum Schutz und aus Sicherheitsgründen bitte nicht auf die Statue oder den Sockel klettern. Fotografieren dürfen Sie es frei von den umliegenden Rasenflächen."
+      },
+      {
+        "question": "Wo ist der beste Fotoplatz für das Denkmal?",
+        "answer": "Stellen Sie sich an der Bahnhofsseite des Platzes zur goldenen Stunde, sodass König, Kunstpavillon und Kathedraltürme im selben Bild stehen."
+      }
+    ]
+  },
+  "things-to-do-near-king-tomislav-square": {
+    "card": {
+      "label": "Sehenswürdigkeiten in der Nähe",
+      "text": "Zrinjevac, Ban-Jelačić-Platz, Hauptbahnhof und mehr – alles in kurzem Fußweg."
+    },
+    "title": "Was man bei König-Tomislav-Platz in Zagreb unternehmen kann | Sehenswürdigkeiten in der Nähe",
+    "description": "Was man mit dem Trg Kralja Tomislava kombinieren kann: Zrinjevac-Park, Ban-Jelačić-Platz, Hauptbahnhof, Botanischer Garten und das Grüne Hufeisen – alles in kurzem Fußweg.",
+    "h1": "Was man bei König-Tomislav-Platz unternehmen kann",
+    "intro": "Der Trg Kralja Tomislava ist das südliche Tor zu Lenucis Grünem Hufeisen – einer Kette von Parks und Plätzen, die die Unterstadt von Zagreb ideal zum Spazieren machen. Vom Platz aus erreichen Sie viele der Stadt Highlights in weniger als 15 Minuten zu Fuß.",
+    "exploreTitle": "Mehr über den Trg Kralja Tomislava",
+    "backLabel": "Zurück zum Trg Kralja Tomislava",
+    "faqTitle": "Häufig gestellte Fragen",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Ein natürlicher Ausgangspunkt",
+        "paragraphs": [
+          "Da der Platz direkt gegenüber dem Hauptbahnhof und am Anfang des Grünen Hufeisens liegt, ist er der ideale Startpunkt für eine Fußwanderung durch die Zagreber Innenstadt.",
+          "Die meisten Orte unten sind durch flache, schattige Wege und Straßenbahnlinien verbunden, sodass die Route in jeder Jahreszeit funktioniert."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Top-Sehenswürdigkeiten in der Nähe",
+        "cards": [
+          {
+            "title": "Zrinjevac-Park · 450 m",
+            "text": "Die nächste grüne Kette des Grünen Hufeisens, bekannt für Platanen, Brunnen und eine meteorologische Säule aus dem 19. Jahrhundert."
+          },
+          {
+            "title": "Ban-Jelačić-Platz · 850 m",
+            "text": "Zagrebs Hauptplatz und Treffpunkt, mit dem Reiterstandbild des Ban Josip Jelačić und dem Beginn der Einkaufsstraße Ilica."
+          },
+          {
+            "title": "Kroatisches Nationaltheater (HNK) · 1,1 km",
+            "text": "Ein neobarockes Theater weiter nördlich am Grünen Hufeisen, mit Führungen und reichem Programm."
+          },
+          {
+            "title": "Hauptbahnhof · gegenüber",
+            "text": "Das historistische Bahnhofsgebäude von 1892 liegt direkt gegenüber – Ihr Ankunfts- und Abreiseort."
+          },
+          {
+            "title": "Botanischer Garten · 700 m",
+            "text": "Eine grüne Oase mit Tausenden Pflanzenarten, Teichen und einem kleinen Gewächshaus (saisonale Öffnung)."
+          },
+          {
+            "title": "Museum für Kunst und Gewerbe · 1 km",
+            "text": "Eines der schönsten secessionistischen Gebäude Zagrebs, mit Sammlungen angewandter Kunst."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Das Grüne Hufeisen im Überblick",
+        "paragraphs": [
+          "Das Grüne Hufeisen (Zelena potkova) ist ein U-förmiges System von acht Plätzen und Parks, das der Stadtplaner Milan Lenuci im späten 19. Jahrhundert entwarf.",
+          "Der Tomislav-Platz bildet seine südliche Spitze; die Kette verläuft nördlich über Zrinjevac zum Botanischen Garten und zur Kunstakademie."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "So planen Sie Ihren Spaziergang",
+        "items": [
+          "Beginnen Sie beim König-Tomislav-Denkmal und gehen Sie nördlich am Grünen Hufeisen entlang",
+          "Machen Sie am Zrinjevac bei den Brunnen und dem Musikpavillon Halt",
+          "Weiter zum Ban-Jelačić-Platz für Einkaufen und Straßenbahn",
+          "Fügen Sie bei Zeit den Botanischen Garten oder ein Museum hinzu"
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Um den Platz",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Trg Kralja Tomislava und Umgebung, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Trg Kralja Tomislava und Umgebung, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Trg Kralja Tomislava und Umgebung, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie weit ist der Ban-Jelačić-Platz vom Platz entfernt?",
+        "answer": "Etwa 850 m, 11 Minuten Fußweg nördlich durch die Parks des Grünen Hufeisens, oder zwei Straßenbahnstationen mit den Linien 6 oder 13."
+      },
+      {
+        "question": "Ist alles zu Fuß erreichbar?",
+        "answer": "Ja. Die wichtigsten Sehenswürdigkeiten in der Nähe liegen 450–1100 m entfernt und sind durch flache, angenehme Wege verbunden."
+      },
+      {
+        "question": "Was ist das Grüne Hufeisen?",
+        "answer": "Eine Kette von acht Plätzen und Parks, die Milan Lenuci im späten 19. Jahrhundert entwarf, mit dem Tomislav-Platz an seinem Südende."
+      },
+      {
+        "question": "Kann ich an einer geführten Wanderung teilnehmen?",
+        "answer": "Viele Zagreber Stadttouren zum Grünen Hufeisen führen auch den Trg Kralja Tomislava in ihrem Programm."
+      },
+      {
+        "question": "Eignet sich das Areal gut zum Fotografieren?",
+        "answer": "Ja – Denkmal, Kunstpavillon und die umgebende historistische Architektur sind in jeder Jahreszeit hervorragende Motive."
+      }
+    ]
+  },
+  "green-horseshoe-walking-route": {
+    "card": {
+      "label": "Grünes Hufeisen Route",
+      "text": "Eine selbstgeführte Wanderung entlang Lenucis Kette von Parks und Plätzen."
+    },
+    "title": "Wanderroute Grünes Hufeisen, Zagreb | Lenucis Hufeisen-Führer",
+    "description": "Durchwandern Sie Lenucis Grünes Hufeisen (Zelena potkova) in Zagreb: eine U-förmige Kette von Parks und Plätzen vom Tomislav-Platz zum Botanischen Garten. Route, Karte und Highlights.",
+    "h1": "Die Wanderroute Grünes Hufeisen",
+    "intro": "Lenucis Grünes Hufeisen (Zelena potkova) ist eine U-förmige Kette von acht Plätzen und Parks, die der Stadtplaner Milan Lenuci im späten 19. Jahrhundert anlegte. Beginnend am Trg Kralja Tomislava ist es einer der einfachsten und schönsten Stadtspaziergänge Europas.",
+    "exploreTitle": "Mehr über den Trg Kralja Tomislava",
+    "backLabel": "Zurück zum Trg Kralja Tomislava",
+    "faqTitle": "Häufig gestellte Fragen",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Was ist das Grüne Hufeisen?",
+        "paragraphs": [
+          "Das Hufeisen verbindet die Grünflächen der Unterstadt zu einem durchgehenden Parksystem, das die bebauten Blöcke des zentralen Zagreb ausbalanciert.",
+          "Seine acht Plätze und Parks umfassen den Tomislav-Platz, Zrinjevac, Strossmayer-Platz, die Kroatische Akademie der Wissenschaften und Künste (HAZU), den Botanischen Garten, Markušev-Platz, den Trg žrtava fašizma und den Zrinski-Platz."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Plätze und Parks entlang der Route",
+        "items": [
+          "Tomislav-Platz – das südliche Tor mit dem König-Tomislav-Denkmal",
+          "Zrinjevac – Brunnen, Platanen und Musikpavillon",
+          "Strossmayer-Platz – umgeben von Akademie und Archäologischem Museum",
+          "Botanischer Garten – eine ruhige grüne Oase mit Teichen",
+          "Markušev-Platz und Trg žrtava fašizma – elegante Wohnplätze",
+          "Zrinski- und Petar-Preradović-Platz – schließen den Nordflügel"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Vorgeschlagene selbstgeführte Route",
+        "paragraphs": [
+          "Beginnen Sie beim König-Tomislav-Denkmal, das zum Hauptbahnhof blickt. Gehen Sie nördlich über die Rasenflächen, überqueren Sie zu Zrinjevac und weiter über den Strossmayer-Platz zum Botanischen Garten.",
+          "Der gesamte Rundweg ist etwa 2 km lang und dauert bei entspanntem Tempo 45–60 Minuten, länger wenn Sie in Museen und Cafés haltmachen."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Highlights, die Sie nicht verpassen sollten",
+        "cards": [
+          {
+            "title": "Musikpavillon im Zrinjevac",
+            "text": "Ein Lieblingsort für Open-Air-Konzerte und saisonale Dekoration."
+          },
+          {
+            "title": "HAZU und die Akademien",
+            "text": "Das neobarocke Akademiegebäude säumt die Ostseite des Hufeisens."
+          },
+          {
+            "title": "Gewächshaus des Botanischen Gartens",
+            "text": "Ein kleines historisches Gewächshaus mitten unter Tausenden Pflanzenarten."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Entlang des Hufeisens",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Lenucis Grünes Hufeisen, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Lenucis Grünes Hufeisen, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Lenucis Grünes Hufeisen, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie lang ist der Spaziergang durchs Grüne Hufeisen?",
+        "answer": "Der gesamte Rundweg ist etwa 2 km lang und dauert entspannt etwa 45–60 Minuten."
+      },
+      {
+        "question": "Wo beginnt die Route?",
+        "answer": "Am Trg Kralja Tomislava (Tomislav-Platz), direkt gegenüber dem Hauptbahnhof."
+      },
+      {
+        "question": "Ist das Grüne Hufeisen kostenlos?",
+        "answer": "Ja. Alle Plätze und Parks sind öffentliche Räume, kostenlos und rund um die Uhr geöffnet."
+      },
+      {
+        "question": "Ist die Route für Rollstühle und Kinderwagen geeignet?",
+        "answer": "Ja. Die Wege sind in der gesamten Unterstadt flach und gepflastert."
+      },
+      {
+        "question": "Wann ist die beste Zeit für den Spaziergang?",
+        "answer": "Frühling und früher Herbst wegen der Blumen und des milden Wetters; Winter wegen der Advent-Dekoration entlang der Route."
+      }
+    ]
+  },
+  "advent-king-tomislav-square": {
+    "card": {
+      "label": "Advent in Zagreb",
+      "text": "Während des preisgekrönten Advents ist der Platz Schauplatz des Ice Parks."
+    },
+    "title": "Advent in Zagreb am König-Tomislav-Platz | Ice Park & Weihnachtsmarkt",
+    "description": "Während des Advents in Zagreb verwandelt sich der Trg Kralja Tomislava in den Ice Park – eine festliche Eisbahn im Freien. Termine, Tipps und was Sie auf dem Zagreber Weihnachtsmarkt erwartet.",
+    "h1": "Advent in Zagreb am König-Tomislav-Platz",
+    "intro": "Jeden Winter verwandelt sich Zagreb in eines der beliebtesten Weihnachtsreiseziele Europas. Der Trg Kralja Tomislava spielt eine zentrale Rolle: Der Platz wird zum Zagreber Ice Park, einer großen Eisbahn im Freien, umgeben von festlichen Lichtern.",
+    "exploreTitle": "Mehr über den Trg Kralja Tomislava",
+    "backLabel": "Zurück zum Trg Kralja Tomislava",
+    "faqTitle": "Häufig gestellte Fragen",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Warum Advent in Zagreb berühmt ist",
+        "paragraphs": [
+          "Advent in Zagreb wurde von European Best Destinations (2016, 2017 und 2018) zum besten Weihnachtsmarkt Europas gewählt.",
+          "Die Stadt füllt sich von Ende November bis Anfang Januar mit Lichtern, Holzbuden, Konzerten und dem Duft von Glühwein."
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Der Ice Park am Tomislav-Platz",
+        "paragraphs": [
+          "Während des Advents verwandelt sich der Platz in eine Eisbahn im Freien – den Ice Park (Klizalište) –, auf der Schlittschuhläufer unter dem König-Tomislav-Denkmal gleiten.",
+          "Der Kunstpavillon leuchtet hinter den festlichen Lichtern und macht ihn zu einem der meistfotografierten Orte der Saison."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Was Sie erwartet",
+        "items": [
+          "Eislaufen im Freien für alle Altersgruppen",
+          "Festliche Lichter und ein hoher Weihnachtsbaum",
+          "Stände mit Essen, Trinken und lokalen Spezialitäten sowie Glühwein",
+          "Live-Musik und Wochenendkonzerte",
+          "Einfache Anreise vom Hauptbahnhof, direkt gegenüber"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Tipps für den Besuch",
+        "paragraphs": [
+          "Ziehen Sie sich warm an und nehmen Sie Handschuhe mit; die Eisseancen können kalt sein. Kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+          "Kombinieren Sie den Platz mit anderen Advent-Orten – Ban-Jelačić-Platz, Zrinjevac und Europski trg –, alles in kurzem Fußweg.",
+          "Besuchen Sie den Platz am Abend für das volle Lichterspektakel, rechnen Sie aber am Wochenende mit mehr Menschen."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Weitere Advent-Orte in der Nähe",
+        "cards": [
+          {
+            "title": "Ban-Jelačić-Platz",
+            "text": "Das zentrale Advent-Drehkreuz mit dem großen Weihnachtsbaum und der Hauptbühne."
+          },
+          {
+            "title": "Zrinjevac-Park",
+            "text": "Eine märchenhafte Lichterkulisse zwischen den Platanen."
+          },
+          {
+            "title": "Europski trg (Europaplatz)",
+            "text": "Ein neuerer Advent-Ort mit Design- und Food-Ständen."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Advent am Platz",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Advent in Zagreb am Trg Kralja Tomislava"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Advent in Zagreb am Trg Kralja Tomislava"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Advent in Zagreb am Trg Kralja Tomislava"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wann findet Advent in Zagreb statt?",
+        "answer": "Meist von Ende November bis Anfang Januar. Die genauen Termine ändern sich jährlich, prüfen Sie daher das offizielle Programm von Advent in Zagreb."
+      },
+      {
+        "question": "Ist der Ice Park wirklich auf diesem Platz?",
+        "answer": "Ja. Während des Advents ist der Trg Kralja Tomislava Schauplatz des Zagreber Ice Parks, einer großen Eisbahn im Freien."
+      },
+      {
+        "question": "Brauche ich Tickets für den Ice Park?",
+        "answer": "Zum Eislaufen ist meist ein Ticket oder eine Sitzungskarte nötig; einige Sitzungen sind für Kinder kostenlos. Kaufen Sie online, um Schlangen zu vermeiden."
+      },
+      {
+        "question": "Ist der Platz während des Advents zugänglich?",
+        "answer": "Ja. Der Platz bleibt für Fußgänger geöffnet und ist vom Hauptbahnhof aus barrierefrei."
+      },
+      {
+        "question": "Wie sind die Öffnungszeiten während des Advents?",
+        "answer": "Stände und Eisbahn haben meist von späterem Vormittag bis spät in die Nacht geöffnet. Prüfen Sie das offizielle Programm für aktuelle Zeiten."
+      }
+    ]
+  }
+}

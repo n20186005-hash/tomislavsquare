@@ -1,0 +1,431 @@
+{
+  "king-tomislav-monument": {
+    "card": {
+      "label": "Spomenik kralju Tomislavu",
+      "text": "Brončani konjanički spomenik po kojem je trg dobio ime."
+    },
+    "title": "Spomenik kralju Tomislavu, Zagreb | Povijest i vodič za posjet",
+    "description": "Spomenik kralju Tomislavu na Trgu kralja Tomislava: brončani konjanički kip Roberta Frangeša-Mihanovića, otkriven 1947. Povijest, činjenice i najbolja mjesta za fotografiranje.",
+    "h1": "Spomenik kralju Tomislavu",
+    "intro": "U središtu Trga kralja Tomislava stoji brončani konjanički spomenik Tomislavu, prvom hrvatskom kralju. Okrenut Glavnom kolodvoru, on je prepoznatljivi simbol trga i prva stvar koju većina putnika vidi kada vlakom stigne u Zagreb.",
+    "exploreTitle": "Istražite više o Trgu kralja Tomislava",
+    "backLabel": "Natrag na Trg kralja Tomislava",
+    "faqTitle": "Često postavljana pitanja",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Tko je bio kralj Tomislav?",
+        "paragraphs": [
+          "Tomislav je 925. okrunjen za prvog hrvatskog kralja, s blagoslovom pape. Ujedinio je hrvatske kneževine, odbio mađarske upade i postavio temelje srednjovjekovnog hrvatskog kraljevstva.",
+          "Preminuo je oko 928., samo tri godine nakon krunidbe, a okolnosti njegove smrti i danas su nepoznate, što stoljećima hrani legende."
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Kipar i kip",
+        "paragraphs": [
+          "Spomenik je izradio hrvatski kipar Robert Frangeš-Mihanović. Brončani konjanički kip oblikovao je 1938., prikazavši kralja na konju u svečanom odijelu.",
+          "Budući da je kip okrenut kolodvoru, svaki putnik koji stiže vlakom najprije susreće kralja – namjerni doček gradu."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Glavne činjenice",
+        "items": [
+          "Svečano otkriven u listopadu 1947., gotovo desetljeće nakon što je kip bio dovršen",
+          "Obilježava tisuću godina hrvatskog kraljevstva",
+          "Izrađen od bronce na kamenu postolju",
+          "Smešten na južnom kraju trga, okrenut Glavnom kolodvoru",
+          "Djelo kipara Roberta Frangeša-Mihanovića"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Simbolika i značenje",
+        "paragraphs": [
+          "Spomenik je konačno otkriven nakon godina rasprava o njegovu izgledu i položaju te prekida zbog Drugog svjetskog rata. Za Zagreb je to izjava nacionalnog identiteta i počast vladaru koji je zemlji donio kraljevsku krunu.",
+          "Zajedno sa žutom zgradom Umjetničkog paviljona iza njega, kip tvori klasičnu razglednicu trga."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Neposredno uz spomenik",
+        "cards": [
+          {
+            "title": "Umjetnički paviljon",
+            "text": "Prva namjenski građena izložbena dvorana u Hrvatskoj, iz 1898."
+          },
+          {
+            "title": "Glavni kolodvor",
+            "text": "Povijesna željeznička zgrada iz 1892. nalazi se točno nasuprot."
+          },
+          {
+            "title": "Park Zrinjevac",
+            "text": "Sljedeća zelena karika Zelene potkove, 6 minuta hoda sjeverno."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Spomenik u slikama",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Spomenik kralju Tomislavu, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Spomenik kralju Tomislavu, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Spomenik kralju Tomislavu, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Tko je bio kralj Tomislav?",
+        "answer": "Tomislav je bio prvi hrvatski kralj, okrunjen 925. Ujedinio je hrvatske kneževine i smatra se utemeljiteljem srednjovjekovnog hrvatskog kraljevstva."
+      },
+      {
+        "question": "Kada je spomenik otkriven?",
+        "answer": "Brončani kip dovršen je 1938., ali je svečano otkriven tek u listopadu 1947., otežan neslaganjima i Drugim svjetskim ratom."
+      },
+      {
+        "question": "Tko je izradio spomenik?",
+        "answer": "Djelo je hrvatskog kipara Roberta Frangeša-Mihanovića."
+      },
+      {
+        "question": "Smiju li posjetitelji penjati se na spomenik?",
+        "answer": "Ne. Radi zaštite i sigurnosti ne penjite se na kip ni na njegovo postolje. Fotografirati ga možete slobodno s okolnih travnjaka."
+      },
+      {
+        "question": "Koji je najbolji položaj za fotografiranje?",
+        "answer": "Stojte s kolodvorske strane trga u zlatno doba dana da kralj, Umjetnički paviljon i katedralni toranj budu u istom kadru."
+      }
+    ]
+  },
+  "things-to-do-near-king-tomislav-square": {
+    "card": {
+      "label": "Što posjetiti u blizini",
+      "text": "Zrinjevac, Trg bana Jelačića, Glavni kolodvor i drugo – sve na kratkoj šetnji."
+    },
+    "title": "Što posjetiti u blizini Trga kralja Tomislava, Zagreb | Obližnje znamenitosti",
+    "description": "Što kombinirati s Trgom kralja Tomislava: park Zrinjevac, Trg bana Jelačića, Glavni kolodvor, Botanički vrt i Zelena potkova – sve na kratkoj šetnji.",
+    "h1": "Što posjetiti u blizini Trga kralja Tomislava",
+    "intro": "Trg kralja Tomislava je južna kapija Zelene potkove – niza parkova i trgova koji čini Donji grad Zagreba idealnim za šetnju. S trga do mnogih gradskih znamenitosti možete doći pješice za manje od 15 minuta.",
+    "exploreTitle": "Istražite više o Trgu kralja Tomislava",
+    "backLabel": "Natrag na Trg kralja Tomislava",
+    "faqTitle": "Često postavljana pitanja",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Prirodno središte za šetnju",
+        "paragraphs": [
+          "Budući da se trg nalazi točno nasuprot Glavnom kolodvoru i na početku Zelene potkove, on je idealna polazna točka za pješački obilazak središta Zagreba.",
+          "Većina mjesta u nastavku povezana je ravnim, obraslim stazama i tramvajskim linijama, pa ruta funkcionira u svakom godišnjem dobu."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Najbolje obližnje znamenitosti",
+        "cards": [
+          {
+            "title": "Park Zrinjevac · 450 m",
+            "text": "Sljedeća zelena karika Zelene potkove, poznat po platanima, fontanama i meteorološkom stupu iz 19. stoljeća."
+          },
+          {
+            "title": "Trg bana Jelačića · 850 m",
+            "text": "Glavni zagrebački trg i mjesto okupljanja, sa spomenikom bana Josipa Jelačića i početkom šetne ulice Ilica."
+          },
+          {
+            "title": "Hrvatsko narodno kazalište (HNK) · 1,1 km",
+            "text": "Neobarokna kazališna zgrada dalje niz Zelenu potkovu, s vodstvima i bogatim programom."
+          },
+          {
+            "title": "Glavni kolodvor · nasuprot",
+            "text": "Povijesna željeznička zgrada iz 1892. nalazi se točno preko puta – vaša točka dolaska i odlaska."
+          },
+          {
+            "title": "Botanički vrt · 700 m",
+            "text": "Zelena oaza s tisućama biljnih vrsta, ribnjacima i malim staklenikom (sezonsko otvaranje)."
+          },
+          {
+            "title": "Muzej za umjetnost i obrt · 1 km",
+            "text": "Jedna od najljepših secesijskih zgrada u Zagrebu, s kolekcijama primijenjene umjetnosti."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Zelena potkova u najavi",
+        "paragraphs": [
+          "Zelena potkova (Zelena potkova) je U-oblik sustav osam trgova i parkova koji je osmislio urbanist Milan Lenuci krajem 19. stoljeća.",
+          "Tomislavov trg čini njezin južni vrh; niz se proteže sjeverno kroz Zrinjevac do Botaničkog vrta i akademije umjetnosti."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Kako planirati šetnju",
+        "items": [
+          "Započnite kod spomenika kralju Tomislavu i krenite sjeverno uz Zelenu potkovu",
+          "Zaustavite se u Zrinjevcu zbog fontana i glazbenog paviljona",
+          "Nastavite do Trga bana Jelačića za kupnju i tramvaje",
+          "Dodajte Botanički vrt ili muzej ako imate vremena"
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "U okolici trga",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Trg kralja Tomislava i okolica, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Trg kralja Tomislava i okolica, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Trg kralja Tomislava i okolica, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Koliko je Trg bana Jelačića daleko od trga?",
+        "answer": "Oko 850 m, 11 minuta hoda sjeverno kroz parkove Zelene potkove, ili dvije stanice tramvajem (linije 6 ili 13)."
+      },
+      {
+        "question": "Je li sve na pješačkoj udaljenosti?",
+        "answer": "Da. Glavne obližnje znamenitosti udaljene su 450 m–1,1 km i povezane su ravnim, ugodnim stazama."
+      },
+      {
+        "question": "Što je Zelena potkova?",
+        "answer": "Niz osam trgova i parkova koji je osmislio Milan Lenuci krajem 19. stoljeća, s Tomislavovim trgom na južnom kraju."
+      },
+      {
+        "question": "Mogu li se pridružiti vodstvu pješačke ture?",
+        "answer": "Mnoge zagrebačke gradske ture posvećene Zeljenoj potkovi uključuju Trg kralja Tomislava u svoj itinerar."
+      },
+      {
+        "question": "Je li ovo područje dobro za fotografiranje?",
+        "answer": "Da – spomenik, Umjetnički paviljon i okolna povijesna arhitektura izvrsni su motivi u svakom godišnjem dobu."
+      }
+    ]
+  },
+  "green-horseshoe-walking-route": {
+    "card": {
+      "label": "Šetnja Zelena potkovom",
+      "text": "Samostalna pješačka ruta uz Lenucijev niz parkova i trgova."
+    },
+    "title": "Šetnja Zelena potkovom, Zagreb | Vodič kroz Lenucijevu potkovu",
+    "description": "Prošećite Lenucijevom Zelena potkovom (Zelena potkova) u Zagrebu: U-oblik niz parkova i trgova od Tomislavovog trga do Botaničkog vrta. Ruta, karta i znamenitosti.",
+    "h1": "Šetnja Zelena potkovom",
+    "intro": "Lenucijeva Zelena potkova (Zelena potkova) je U-oblik lanac osam trgova i parkova koji je krajem 19. stoljeća osmislio urbanist Milan Lenuci. Počevši od Trga kralja Tomislava, to je jedna od najlakših i najljepših gradskih šetnji u Europi.",
+    "exploreTitle": "Istražite više o Trgu kralja Tomislava",
+    "backLabel": "Natrag na Trg kralja Tomislava",
+    "faqTitle": "Često postavljana pitanja",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Što je Zelena potkova?",
+        "paragraphs": [
+          "Potkova povezuje zelene površine Donjeg grada u neprekinuti parkovni sustav koji uravnotežuje izgrađene blokove središnjeg Zagreba.",
+          "Njezinih osam trgova i parkova uključuje Tomislavov trg, Zrinjevac, Strossmayerov trg, Hrvatsku akademiju znanosti i umjetnosti (HAZU), Botanički vrt, Markušev trg, Trg žrtava fašizma i Trg Nikole Šubića Zrinskog."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Trgovi i parkovi uz rutu",
+        "items": [
+          "Tomislavov trg – južna kapija sa spomenikom kralju Tomislavu",
+          "Zrinjevac – fontane, platanovi i glazbeni paviljon",
+          "Strossmayerov trg – okružen Akademijom i Arheološkim muzejem",
+          "Botanički vrt – tiha zelena oaza s ribnjacima",
+          "Markušev trg i Trg žrtava fašizma – elegantni stambeni trgovi",
+          "Trg Zrinskih i Petra Preradovića – zatvaraju sjeverno krilo"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Prijedlog samostalne rute",
+        "paragraphs": [
+          "Započnite kod spomenika kralju Tomislavu koji gleda na Glavni kolodvor. Krenite sjeverno uz travnjake, prijeđite do Zrinjevca, pa nastavite kroz Strossmayerov trg do Botaničkog vrta.",
+          "Cijeli krug dug je oko 2 km i traje 45–60 minuta opuštenim tempom, duže ako stanete u muzeje i kafiće."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Znamenitosti koje ne smijete propustiti",
+        "cards": [
+          {
+            "title": "Glazbeni paviljon u Zrinjevcu",
+            "text": "Omiljeno mjesto za otvorene koncerte i sezonsku dekoraciju."
+          },
+          {
+            "title": "HAZU i akademije",
+            "text": "Neobarokna zgrada akademije naslanja se na istočnu stranu potkove."
+          },
+          {
+            "title": "Staklenik Botaničkog vrta",
+            "text": "Mali povijesni staklenik među tisućama biljnih vrsta."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Uz potkovu",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Lenucijeva Zelena potkova, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Lenucijeva Zelena potkova, Zagreb"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Lenucijeva Zelena potkova, Zagreb"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Koliko je duga šetnja Zelena potkovom?",
+        "answer": "Cijeli krug dug je oko 2 km i traje otprilike 45–60 minuta opuštenim tempom."
+      },
+      {
+        "question": "Gdje ruta počinje?",
+        "answer": "Na Trgu kralja Tomislava (Tomislavov trg), točno nasuprot Glavnom kolodvoru."
+      },
+      {
+        "question": "Je li Zelena potkova besplatna?",
+        "answer": "Da. Svi trgovi i parkovi javni su prostori, besplatni i otvoreni u svako doba."
+      },
+      {
+        "question": "Je li ruta pristupačna invalidskim kolicima i dječjim kolicima?",
+        "answer": "Da. Staze su ravne i popločane kroz cijeli Donji grad."
+      },
+      {
+        "question": "Kada je najbolje vrijeme za šetnju?",
+        "answer": "Proljeće i rano jesen zbog cvijeća i blagog vremena; zima zbog adventske dekoracije uz rutu."
+      }
+    ]
+  },
+  "advent-king-tomislav-square": {
+    "card": {
+      "label": "Advent u Zagrebu",
+      "text": "Tijekom nagrađivanog Adventa trg je domaćin Klizalištu (Ice Park)."
+    },
+    "title": "Advent u Zagrebu na Trgu kralja Tomislava | Klizalište i božićni sajam",
+    "description": "Tijekom Adventa u Zagrebu, Trg kralja Tomislava domaćin je Klizališta – blagdanskog klizališta na otvorenom. Datumi, savjeti i što očekivati na zagrebačkom božićnom sajmu.",
+    "h1": "Advent u Zagrebu na Trgu kralja Tomislava",
+    "intro": "Svake zime Zagreb se pretvara u jedno od najvoljenijih božićnih odredišta u Europi. Trg kralja Tomislava ima središnju ulogu: trg postaje domaćin Zagrebačkom klizalištu (Ice Park), velikom klizalištu na otvorenom okruženom blagdanskim svjetlima.",
+    "exploreTitle": "Istražite više o Trgu kralja Tomislava",
+    "backLabel": "Natrag na Trg kralja Tomislava",
+    "faqTitle": "Često postavljana pitanja",
+    "sections": [
+      {
+        "type": "text",
+        "heading": "Zašto je Advent u Zagrebu poznat",
+        "paragraphs": [
+          "Advent u Zagrebu proglašavan je najboljim božićnim sajmom u Europi od strane European Best Destinations (2016., 2017. i 2018.).",
+          "Grad se ispunjava svjetlima, drvenim štandovima, koncertima i mirisom kuhanog vina od kraja studenoga do početka siječnja."
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Klizalište na Tomislavovom trgu",
+        "paragraphs": [
+          "Tijekom Adventa trg se pretvara u klizalište na otvorenom – Klizalište (Ice Park) – gdje klizači kruže ispod spomenika kralju Tomislavu.",
+          "Umjetnički paviljon sjaji iza blagdanskih svjetala, što ga čini jednim od najfotografiranijih mjesta sezone."
+        ]
+      },
+      {
+        "type": "list",
+        "heading": "Što očekivati",
+        "items": [
+          "Klizanje na otvorenom za sve uzraste",
+          "Blagdanska svjetla i visoki božićni drvo",
+          "Štandovi s hranom i pićem te lokalnim specijalitetima i kuhanim vinom",
+          "Glazba uživo i koncerti vikendom",
+          "Lagani pristup s Glavnog kolodvora, točno preko puta"
+        ]
+      },
+      {
+        "type": "text",
+        "heading": "Savjeti za posjet",
+        "paragraphs": [
+          "Toplo se obucite i ponesite rukavice; sesije klizanja mogu biti hladne. Kupite ulaznice online da izbjegnete red.",
+          "Kombinrajte trg s drugim adventskim lokacijama – Trgom bana Jelačića, Zrinjevcem i Europskim trgom – sve na kratkoj šetnji.",
+          "Posjetite navečer zbog punog svjetlosnog spektakla, ali očekujte gužve vikendom."
+        ]
+      },
+      {
+        "type": "cards",
+        "heading": "Druge adventske lokacije u blizini",
+        "cards": [
+          {
+            "title": "Trg bana Jelačića",
+            "text": "Glavno adventsko čvorište s velikim božićnim drvetom i glavnom pozornicom."
+          },
+          {
+            "title": "Park Zrinjevac",
+            "text": "Bajkovito ozračje svjetala među platanima."
+          },
+          {
+            "title": "Europski trg",
+            "text": "Novija adventska lokacija s dizajnom i štandovima s hranom."
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "heading": "Advent na trgu",
+        "images": [
+          {
+            "src": "/gallery/trg-kralja-tomislava-1.jpg",
+            "alt": "Advent u Zagrebu na Trgu kralja Tomislava"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-4.jpg",
+            "alt": "Advent u Zagrebu na Trgu kralja Tomislava"
+          },
+          {
+            "src": "/gallery/trg-kralja-tomislava-2.jpg",
+            "alt": "Advent u Zagrebu na Trgu kralja Tomislava"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Kada se održava Advent u Zagrebu?",
+        "answer": "Obično od kraja studenoga do početka siječnja. Točni datumi mijenjaju se svake godine, pa provjerite službeni program Adventa u Zagrebu."
+      },
+      {
+        "question": "Je li Klizalište stvarno na ovom trgu?",
+        "answer": "Da. Tijekom Adventa Trg kralja Tomislava domaćin je Zagrebačkom klizalištu, velikom klizalištu na otvorenom."
+      },
+      {
+        "question": "Trebaju li mi ulaznice za Klizalište?",
+        "answer": "Za klizanje obično je potrebna ulaznica ili propusnica za sesiju; neke su besplatne za djecu. Kupite online da izbjegnete redove."
+      },
+      {
+        "question": "Je li trg pristupačan tijekom Adventa?",
+        "answer": "Da. Trg ostaje otvoren za pješake i bez stepenica je od Glavnog kolodvora."
+      },
+      {
+        "question": "Kakvo je radno vrijeme tijekom Adventa?",
+        "answer": "Štandovi i klizalište obično rade od kasnog jutra do kasne večeri. Provjerite službeni program za trenutno vrijeme."
+      }
+    ]
+  }
+}
