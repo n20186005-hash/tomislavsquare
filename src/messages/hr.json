@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Trg kralja Tomislava Zagreb – Park, Spomenik, Karta i Posjet",
-    "description": "Posjetite Trg kralja Tomislava u Zagrebu. Pogledajte kartu, spomenik kralju Tomislavu, Umjetnički paviljon, prijevoz, povijest i obližnje znamenitosti."
+    "title": "Trg kralja Tomislava Zagreb – Park, Spomenik i Karta",
+    "description": "Posjetite Trg kralja Tomislava (Tomislavov trg) u Zagrebu. Saznajte kako doći, gdje se nalazi spomenik kralju Tomislavu i što vidjeti u blizini – besplatan gradski park preko puta Glavnog kolodvora."
   },
   "header": {
     "home": "Početna",
@@ -29,7 +29,7 @@
     "title": "Trg Kralja Tomislava, Zagreb",
     "subtitle": "Gradski park i spomenik · Zagreb, Hrvatska",
     "rating": "4.8",
-    "reviewCount": "7.558 recenzije",
+    "reviewCount": "7.561 recenzije",
     "type": "Gradski park",
     "openMaps": "Pogledaj na Google kartama",
     "mapsLink": "https://maps.app.goo.gl/6kLmtVRx9kFHrjND7",
@@ -384,7 +384,7 @@
       },
       {
         "question": "Mogu li posjetiti Umjetnički paviljon na trgu?",
-        "answer": "Da. Umjetnički paviljon na Trgu Kralja Tomislava 22 aktivan je izložbeni prostor s promjenjivim programom suvremenih i klasičnih izložaba. Radno vrijeme i ulaznice provjerite na njegovoj službenoj web stranici."
+        "answer": "Umjetnički paviljon (1898.) možete promatrati s trga – njegovo je elegantno žuto pročelje jedna od najfotografiranijih zagrebačkih građevina. Unutarnji posjet i trenutačno radno vrijeme ovise o obnovi i izložbenom programu, stoga prije dolaska provjerite službenu web stranicu Umjetničkog paviljona (umjetnicki-paviljon.hr)."
       },
       {
         "question": "Jesu li psi dopušteni u parku?",
@@ -455,7 +455,7 @@
     "city": "Grad",
     "cityValue": "Zagreb",
     "googleRating": "Google ocjena",
-    "googleRatingValue": "4,8 (7.558)",
+    "googleRatingValue": "4,8 (7.561)",
     "address": "Adresa",
     "addressValue": "Trg Kralja Tomislava 10, 10000, Zagreb, Hrvatska",
     "telephone": "Telefon",

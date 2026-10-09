@@ -1,10 +1,21 @@
+import { NextRequest, NextResponse } from 'next/server';
 import createMiddleware from 'next-intl/middleware';
 import { routing } from './i18n/routing';
 
-export default createMiddleware({
+const intlMiddleware = createMiddleware({
   ...routing,
   localePrefix: 'always'
 });
+
+export default function middleware(request: NextRequest) {
+  const host = request.headers.get('host') || '';
+  if (host.startsWith('www.')) {
+    const url = request.nextUrl.clone();
+    url.host = host.replace(/^www\./, '');
+    return NextResponse.redirect(url, 308);
+  }
+  return intlMiddleware(request);
+}
 
 export const config = {
   // Skip all paths that should not be internationalized
