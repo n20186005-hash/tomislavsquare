@@ -2,7 +2,7 @@ import { labels, local, placeVisit } from '@/content/topics/visit';
 
 type Visit = Omit<ReturnType<typeof placeVisit>, 'directions'> & { directions?: string };
 
-export default function TopicVisit({ visit, locale, showManager = true }: { visit: Visit; locale: string; showManager?: boolean }) {
+export default function TopicVisit({ visit, locale }: { visit: Visit; locale: string }) {
   const text = (key: keyof typeof labels) => local(labels[key], locale);
 
   return (
@@ -11,7 +11,7 @@ export default function TopicVisit({ visit, locale, showManager = true }: { visi
         <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-5">{text('details')}</h2>
         <dl className="grid gap-4 sm:grid-cols-2">
           <div><dt className="font-semibold">{text('address')}</dt><dd>{visit.address}</dd></div>
-          {showManager && visit.operator && (
+          {visit.operator && (
             <div>
               <dt className="font-semibold">{text('manager')}</dt>
               <dd>{visit.managementSource

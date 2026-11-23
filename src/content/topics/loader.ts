@@ -2,6 +2,7 @@ import hr from './hr.json';
 import en from './en.json';
 import zh from './zh.json';
 import de from './de.json';
+import { practicalDetails } from './practical';
 import { guideDetails, guideLabels } from './field-notes';
 import { labels, local, PLACE_SLUGS, photosBySlug, placesBySlug, placeVisit } from './visit';
 
@@ -47,7 +48,8 @@ export const topicData: Record<string, Record<string, any>> = Object.fromEntries
       const name = local(place.name, locale);
       const highlight = local(place.highlight, locale);
       const visit = placeVisit(place, locale);
-      const guide = guideDetails(slug, locale, visit.access);
+      const practical = practicalDetails(slug, locale, visit.access);
+      const guide = guideDetails(slug, locale, practical.hours);
 
       return [slug, {
         card: { label: name, text: highlight },
@@ -59,13 +61,12 @@ export const topicData: Record<string, Record<string, any>> = Object.fromEntries
         source: place.source,
         isPlace: true,
         visit,
-        guide,
-        sections: [
-          { type: 'text', heading: local(guideLabels.background, locale), paragraphs: [local(place.context, locale), guide.architecture] },
-          { type: 'text', heading: local(guideLabels.advice, locale), paragraphs: [highlight] },
-          { type: 'route', heading: local(guideLabels.route, locale), items: guide.route, links: guide.links },
-          { type: 'text', heading: local(guideLabels.photoSpot, locale), paragraphs: [guide.photoSpot] },
-        ],
+        guide: {
+          ...guide,
+          history: local(place.context, locale),
+          advice: highlight,
+        },
+        practical,
         faqTitle: local(guideLabels.faq, locale),
         faq: guide.faq,
         exploreTitle: local(labels.related, locale),

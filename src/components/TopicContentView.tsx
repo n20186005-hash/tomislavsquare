@@ -2,6 +2,7 @@ import { topicData, relatedTopics } from '@/content/topics/loader';
 
 import TopicVisit, { TopicReviews } from './TopicVisit';
 import { labels, local } from '@/content/topics/visit';
+import { GuideBlock, GuideFacts, GuideMap, practicalLabels } from './GuidePractical';
 import { guideLabels } from '@/content/topics/field-notes';
 
 function Section({ s, index, locale }: { s: any; index: number; locale: string }) {
@@ -142,15 +143,30 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
             <span>{topic.h1}</span>
           </nav>
           <h1 className="font-display text-4xl sm:text-5xl font-bold text-white leading-tight mb-4">{topic.h1}</h1>
-          <p className="text-lg text-white/80 font-light">{topic.intro}</p>
-          {topic.isPlace && (
-            <a href={topic.visit.map} className="inline-block mt-4 text-white underline" target="_blank" rel="noopener noreferrer">
-              {local(labels.map, locale)}
-            </a>
+          <p className="text-lg text-white/90 font-light">{topic.practical?.tagline ?? topic.intro}</p>
+          {topic.practical && (
+            <div className="mt-5 flex flex-wrap gap-x-6 gap-y-3 text-white">
+              <span className="basis-full">{local(practicalLabels.hours, locale)} · {topic.practical.hours}</span>
+              <a className="underline" href={topic.visit.map} target="_blank" rel="noopener noreferrer">{local(practicalLabels.rating, locale)}</a>
+              <a className="underline" href={topic.visit.map} target="_blank" rel="noopener noreferrer">{local(labels.map, locale)}</a>
+            </div>
           )}
         </div>
       </header>
 
+      {topic.practical && (
+        <>
+          <GuideBlock title={local(practicalLabels.discover, locale)}>
+            <p>{topic.intro}</p>
+          </GuideBlock>
+          <GuideBlock title={local(guideLabels.advice, locale)} alternate>
+            <p>{topic.guide.advice}</p>
+          </GuideBlock>
+          <GuideBlock title={local(practicalLabels.features, locale)}>
+            <p>{topic.guide.architecture}</p>
+          </GuideBlock>
+        </>
+      )}
       {topic.guide && (
         <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
           <div className="max-w-3xl mx-auto px-4 sm:px-6">
@@ -167,9 +183,32 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
           </div>
         </section>
       )}
-      <TopicVisit visit={topic.visit} locale={locale} showManager={!topic.guide} />
+      {topic.practical
+        ? <GuideFacts visit={topic.visit} details={topic.practical} locale={locale} />
+        : <TopicVisit visit={topic.visit} locale={locale} />}
       <div>
-        {topic.sections.map((s: any, i: number) => (
+        {topic.practical ? (
+          <>
+            <GuideBlock title={local(guideLabels.background, locale)} alternate>
+              <p>{topic.guide.history}</p>
+            </GuideBlock>
+            <Section s={{
+              type: 'route',
+              heading: local(guideLabels.route, locale),
+              items: topic.guide.route,
+              links: topic.guide.links,
+            }} index={2} locale={locale} />
+            <GuideBlock title={local(practicalLabels.notice, locale)} alternate>
+              <p>{topic.practical.notice}</p>
+            </GuideBlock>
+            <GuideBlock title={local(guideLabels.photoSpot, locale)}>
+              <p>{topic.guide.photoSpot}</p>
+            </GuideBlock>
+            <GuideBlock title={local(practicalLabels.stay, locale)} alternate>
+              <p>{topic.practical.stay}</p>
+            </GuideBlock>
+          </>
+        ) : topic.sections.map((s: any, i: number) => (
           <Section key={i} s={s} index={i} locale={locale} />
         ))}
 
@@ -220,6 +259,7 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
         )}
 
         <TopicReviews visit={topic.visit} locale={locale} />
+        {topic.practical && <GuideMap visit={topic.visit} locale={locale} />}
 
         {otherTopics.length > 0 && (
           <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
