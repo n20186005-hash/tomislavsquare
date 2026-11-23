@@ -47,11 +47,9 @@ export async function generateMetadata({
       locale: langMap[locale] || 'hr',
       type: 'article',
       url: `${baseUrl}/${locale}/${slug}`,
-      images: [
+      images: topic.isPlace && !topic.photo ? undefined : [
         {
-          url: `${baseUrl}/gallery/trg-kralja-tomislava-1.jpg`,
-          width: 1200,
-          height: 630,
+          url: topic.photo?.src ?? '/gallery/trg-kralja-tomislava-1.jpg',
           alt: topic.h1,
         },
       ],

@@ -4,6 +4,7 @@
     "description": "Visit King Tomislav Square (Trg Kralja Tomislava) in Zagreb, also called Tomislavov trg. See the free city park, the King Tomislav monument, how to get there and nearby Green Horseshoe attractions."
   },
   "header": {
+    "nearby": "Nearby attractions",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -294,31 +295,37 @@
     "items": [
       {
         "name": "Zrinjevac Park",
+        "slug": "zrinjevac",
         "distance": "450 m · 6 min walk",
         "text": "The next green link of the Green Horseshoe, famous for its plane trees, fountains and the 19th-century meteorological column."
       },
       {
         "name": "Ban Jelačić Square (Trg bana Jelačića)",
+        "slug": "ban-jelacic-square",
         "distance": "850 m · 11 min walk",
         "text": "Zagreb's main square and meeting point, with the statue of Ban Josip Jelačić and the start of the pedestrian shopping street Ilica."
       },
       {
         "name": "Croatian National Theatre (HNK)",
+        "slug": "croatian-national-theatre",
         "distance": "1.1 km · 14 min walk",
         "text": "A magnificent neo-baroque theatre building further along the Green Horseshoe, with guided tours and a rich performance programme."
       },
       {
         "name": "Zagreb Main Station (Glavni kolodvor)",
+        "slug": "zagreb-main-station",
         "distance": "Across the street",
         "text": "The 1892 historicist station building is right opposite the square – convenient arrival and departure point for your visit."
       },
       {
         "name": "Botanical Garden",
+        "slug": "botanical-garden",
         "distance": "700 m · 9 min walk",
         "text": "A green oasis in the Lower Town with thousands of plant species, ponds and a small glasshouse (seasonal opening)."
       },
       {
         "name": "Museum of Arts and Crafts",
+        "slug": "museum-of-arts-and-crafts",
         "distance": "1 km · 13 min walk",
         "text": "One of Zagreb's most beautiful secessionist buildings, displaying applied arts and design collections in a historicist interior."
       }

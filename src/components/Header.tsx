@@ -32,12 +32,12 @@ export default function Header() {
           Trg Kralja Tomislava
         </a>
 
-        <nav className="hidden md:flex items-center gap-6">
-          {(['history', 'facilities', 'accessibility', 'gallery', 'reviews', 'map'] as const).map((section) => (
+        <nav className="hidden md:flex items-center gap-4 xl:gap-6">
+          {(['history', 'facilities', 'accessibility', 'nearby', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`/${locale}/#${section}`}
-              className="text-sm font-medium transition-colors"
+              className={`text-sm font-medium transition-colors ${section === 'nearby' ? 'hidden lg:inline' : ''}`}
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
               {t(section)}

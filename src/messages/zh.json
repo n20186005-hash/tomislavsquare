@@ -4,6 +4,7 @@
     "description": "参观萨格勒布的托米斯拉夫国王广场（Trg Kralja Tomislava）。查看地图、托米斯拉夫国王雕像、艺术馆、交通方式、历史与周边景点。"
   },
   "header": {
+    "nearby": "周边景点",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -294,31 +295,37 @@
     "items": [
       {
         "name": "兹里涅瓦茨公园 (Zrinjevac Park)",
+        "slug": "zrinjevac",
         "distance": "450米 · 步行6分钟",
         "text": "绿马蹄的下一站，以法国梧桐、喷泉和19世纪气象柱闻名。"
       },
       {
         "name": "耶拉契奇总督广场 (Trg bana Jelačića)",
+        "slug": "ban-jelacic-square",
         "distance": "850米 · 步行11分钟",
         "text": "萨格勒布主广场和城市会面点，有耶拉契奇总督雕像，也是步行购物街伊利卡大街（Ilica）的起点。"
       },
       {
         "name": "克罗地亚国家剧院 (HNK)",
+        "slug": "croatian-national-theatre",
         "distance": "1.1公里 · 步行14分钟",
         "text": "沿绿马蹄继续前行的新巴洛克风格剧院建筑，提供导览与丰富的演出节目。"
       },
       {
         "name": "萨格勒布中央火车站 (Glavni kolodvor)",
+        "slug": "zagreb-main-station",
         "distance": "马路对面",
         "text": "1892年建成的历史主义火车站大楼就在广场正对面，是游览的理想到达与出发点。"
       },
       {
         "name": "植物园 (Botanical Garden)",
+        "slug": "botanical-garden",
         "distance": "700米 · 步行9分钟",
         "text": "下城区的绿色绿洲，拥有数千种植物、池塘和小型温室（季节性开放）。"
       },
       {
         "name": "艺术与手工艺博物馆",
+        "slug": "museum-of-arts-and-crafts",
         "distance": "1公里 · 步行13分钟",
         "text": "萨格勒布最美丽的分离派建筑之一，在历史主义风格内饰中展示应用艺术与设计藏品。"
       }

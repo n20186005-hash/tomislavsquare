@@ -4,6 +4,7 @@
     "description": "Posjetite Trg kralja Tomislava (Tomislavov trg) u Zagrebu. Saznajte kako doći, gdje se nalazi spomenik kralju Tomislavu i što vidjeti u blizini – besplatan gradski park preko puta Glavnog kolodvora."
   },
   "header": {
+    "nearby": "Znamenitosti u blizini",
     "home": "Početna",
     "gallery": "Galerija",
     "reviews": "Recenzije",
@@ -294,31 +295,37 @@
     "items": [
       {
         "name": "Park Zrinjevac",
+        "slug": "zrinjevac",
         "distance": "450 m · 6 min hoda",
         "text": "Sljedeća zelena karika Lenucijeve potkove, poznata po platanama, fontanama i meteorološkom stupu iz 19. stoljeća."
       },
       {
         "name": "Trg bana Jelačića",
+        "slug": "ban-jelacic-square",
         "distance": "850 m · 11 min hoda",
         "text": "Glavni zagrebački trg i mjesto okupljanja, sa spomenikom banu Josipu Jelačiću i početkom pješačke trgovačke ulice Ilica."
       },
       {
         "name": "Hrvatsko narodno kazalište (HNK)",
+        "slug": "croatian-national-theatre",
         "distance": "1,1 km · 14 min hoda",
         "text": "Veličanstvena neobarokna kazališna zgrada dalje uz Lenucijevu potkovu, s vođenim obilascima i bogatim programom."
       },
       {
         "name": "Glavni kolodvor",
+        "slug": "zagreb-main-station",
         "distance": "Preko ceste",
         "text": "Historicistička zgrada kolodvora iz 1892. nalazi se točno nasuprot trga – prikladna točka dolaska i polaska za vaš posjet."
       },
       {
         "name": "Botanički vrt",
+        "slug": "botanical-garden",
         "distance": "700 m · 9 min hoda",
         "text": "Zelena oaza Donjeg grada s tisućama biljnih vrsta, jezercima i malim staklenikom (sezonski otvoren)."
       },
       {
         "name": "Muzej za umjetnost i obrt",
+        "slug": "museum-of-arts-and-crafts",
         "distance": "1 km · 13 min hoda",
         "text": "Jedna od najljepših zagrebačkih secesijskih zgrada, s kolekcijama primijenjene umjetnosti i dizajna u historicističkom interijeru."
       }

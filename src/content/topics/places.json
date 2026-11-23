@@ -1,0 +1,916 @@
+{
+  "zrinjevac": {
+    "mapName": "Zrinjevac",
+    "address": "Trg Nikole Šubića Zrinskog",
+    "name": [
+      "Zrinjevac Park",
+      "Park Zrinjevac",
+      "Zrinjevac-Park",
+      "兹里涅瓦茨公园"
+    ],
+    "highlight": [
+      "Follow the plane-tree avenues to the music pavilion and look for the historic weather column near the north entrance.",
+      "Prođite alejama platana do glazbenog paviljona i potražite stari meteorološki stup uz sjeverni ulaz.",
+      "Folgen Sie den Platanenalleen zum Musikpavillon und suchen Sie die historische Wettersäule am Nordeingang.",
+      "沿悬铃木林荫道走到音乐亭，再到北入口寻找历史气象柱。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The park is the northernmost square in the eastern sequence of Lenuci’s Green Horseshoe. Its layout pairs a formal garden with a public gathering place.",
+      "Park je najsjeverniji trg istočnog kraka Lenucijeve potkove. Pravilno uređen vrt služi i kao gradsko okupljalište.",
+      "Der Park bildet den nördlichen Abschluss des Ostflügels von Lenucis Grünem Hufeisen. Die formale Gartenanlage dient zugleich als Treffpunkt.",
+      "这里是莱努齐绿色马蹄形公园带东翼最北端的广场，既是规整的城市花园，也是市民聚会场所。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zrinjevac_(Zagreb)"
+  },
+  "ban-jelacic-square": {
+    "mapName": "Trg bana Josipa Jelačića",
+    "address": "Trg bana Josipa Jelačića",
+    "name": [
+      "Ban Jelačić Square",
+      "Trg bana Josipa Jelačića",
+      "Ban-Jelačić-Platz",
+      "耶拉契奇总督广场"
+    ],
+    "highlight": [
+      "Compare the equestrian statue and the Manduševac fountain before taking the steps up toward Dolac Market.",
+      "Usporedite konjanički kip i fontanu Manduševac prije uspona stubama prema Dolcu.",
+      "Sehen Sie sich das Reiterdenkmal und den Manduševac-Brunnen an, bevor Sie die Treppe zum Dolac hinaufgehen.",
+      "在广场看骑马雕像和曼杜舍瓦茨喷泉，再从台阶上行前往多拉茨市场。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The square lies where Lower Town shopping streets meet the foot of the historic hill. Compare the pedestrian area with the tram corridor on the south side.",
+      "Trg je na spoju trgovačkih ulica Donjega grada i podnožja povijesnoga brijega. Usporedite pješačku zonu s tramvajskim koridorom na jugu.",
+      "Hier treffen die Einkaufsstraßen der Unterstadt auf den Fuß des historischen Hügels. Vergleichen Sie die Fußgängerfläche mit der Straßenbahntrasse im Süden.",
+      "广场位于下城区商业街与老城山坡交汇处。可对照广场的步行空间与南侧电车轨道。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ban_Jela%C4%8Di%C4%87_Square"
+  },
+  "croatian-national-theatre": {
+    "mapName": "Hrvatsko narodno kazalište u Zagrebu",
+    "address": "Trg Republike Hrvatske 15",
+    "name": [
+      "Croatian National Theatre",
+      "Hrvatsko narodno kazalište u Zagrebu",
+      "Kroatisches Nationaltheater",
+      "克罗地亚国家剧院"
+    ],
+    "highlight": [
+      "The 1895 theatre anchors the square with a yellow neo-Baroque façade. Look for Meštrović’s Well of Life in front of the entrance.",
+      "Kazalište iz 1895. prepoznatljivo je po žutom neobaroknom pročelju. Pred ulazom potražite Meštrovićev Zdenac života.",
+      "Das Theater von 1895 prägt den Platz mit seiner gelben neobarocken Fassade. Vor dem Eingang steht Meštrovićs Lebensbrunnen.",
+      "这座 1895 年启用的剧院以黄色新巴洛克立面著称，入口前可见梅什特罗维奇的《生命之泉》。"
+    ],
+    "kind": "venue",
+    "operator": "Hrvatsko narodno kazalište u Zagrebu",
+    "area": "lower",
+    "website": "https://www.hnk.hr/",
+    "context": [
+      "The building was designed by the Viennese firm Fellner and Helmer. A performance is the best way to see the auditorium when tickets and schedules suit your visit.",
+      "Zgradu je projektirao bečki ured Fellner i Helmer. Za pogled na gledalište odaberite predstavu koja vam odgovara terminom i ulaznicama.",
+      "Der Bau stammt vom Wiener Büro Fellner und Helmer. Bei einer Vorstellung lässt sich auch der Zuschauerraum erleben.",
+      "建筑由维也纳的费尔纳和赫尔默事务所设计。想看剧场内部，可按行程选择合适的演出。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Croatian_National_Theatre_in_Zagreb"
+  },
+  "zagreb-main-station": {
+    "mapName": "Zagreb Glavni kolodvor",
+    "address": "Trg kralja Tomislava 12",
+    "name": [
+      "Zagreb Main Station",
+      "Zagreb Glavni kolodvor",
+      "Zagreber Hauptbahnhof",
+      "萨格勒布中央车站"
+    ],
+    "highlight": [
+      "From the square, look across the tram tracks at the symmetrical historicist façade. Use the marked crossing to reach the station entrance.",
+      "S trga pogledajte simetrično historicističko pročelje preko tramvajskih tračnica. Do ulaza prijeđite označenim prijelazom.",
+      "Vom Platz aus sieht man die symmetrische historistische Fassade jenseits der Straßenbahngleise. Nutzen Sie den markierten Übergang zum Eingang.",
+      "从广场隔着电车轨道看车站对称的历史主义立面，经标示的过街通道进入车站。"
+    ],
+    "kind": "transit",
+    "operator": "HŽ Infrastruktura · HŽ Putnički prijevoz",
+    "area": "lower",
+    "website": "https://www.hzpp.hr/",
+    "context": [
+      "The main building opened in 1892. Its position opposite the park gives rail arrivals a direct view of the monument and the Art Pavilion.",
+      "Glavna zgrada otvorena je 1892. Položaj nasuprot parku daje putnicima pogled na spomenik i Umjetnički paviljon.",
+      "Das Hauptgebäude wurde 1892 eröffnet. Gegenüber dem Park gelegen, bietet es ankommenden Reisenden den Blick zum Denkmal und Kunstpavillon.",
+      "站房于 1892 年启用。出站面对公园，可以顺着广场中轴看到国王雕像与艺术馆。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zagreb_Glavni_kolodvor"
+  },
+  "botanical-garden": {
+    "mapName": "Botanički vrt PMF-a",
+    "address": "Mihanovićeva ulica 9A",
+    "name": [
+      "Botanical Garden",
+      "Botanički vrt PMF-a",
+      "Botanischer Garten",
+      "萨格勒布植物园"
+    ],
+    "highlight": [
+      "Begin with the paths around the ponds and look for the red exhibition pavilion. Seasonal access changes, so check the garden’s notices before setting out.",
+      "Krenite stazama uz jezerca i potražite crveni izložbeni paviljon. Prije polaska provjerite sezonske obavijesti vrta.",
+      "Beginnen Sie an den Teichen und halten Sie nach dem roten Ausstellungspavillon Ausschau. Prüfen Sie vorab die saisonalen Hinweise des Gartens.",
+      "先走池塘旁的小径，再寻找红色展览亭。入园安排随季节变化，出发前查看园方公告。"
+    ],
+    "kind": "venue",
+    "operator": "Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu",
+    "area": "lower",
+    "website": "https://botanickivrt.biol.pmf.hr/",
+    "context": [
+      "Founded as a university garden in 1889, it links public walks with botanical teaching. Plant labels are a useful way to explore between flowering seasons.",
+      "Osnovan 1889. kao sveučilišni vrt, spaja javnu šetnju i nastavu botanike. Natpisi uz biljke zanimljivi su i izvan razdoblja cvatnje.",
+      "Der 1889 gegründete Universitätsgarten verbindet Spazierwege mit botanischer Lehre. Die Pflanzenschilder lohnen sich auch außerhalb der Blütezeit.",
+      "植物园创设于 1889 年，兼具公共游览与大学教学功能。错过花季时，也可沿植物标牌认识园内物种。"
+    ],
+    "source": "https://hr.wikipedia.org/wiki/Botani%C4%8Dki_vrt_u_Zagrebu"
+  },
+  "museum-of-arts-and-crafts": {
+    "mapName": "Muzej za umjetnost i obrt",
+    "address": "Trg Republike Hrvatske 10",
+    "name": [
+      "Museum of Arts and Crafts",
+      "Muzej za umjetnost i obrt",
+      "Museum für Kunst und Gewerbe",
+      "萨格勒布工艺美术博物馆"
+    ],
+    "highlight": [
+      "View the ornate façade across the square from the theatre. Check where exhibitions are hosted before planning an interior visit.",
+      "Pogledajte ukrašeno pročelje preko trga od kazališta. Prije posjeta provjerite gdje se održavaju izložbe.",
+      "Betrachten Sie die verzierte Fassade gegenüber dem Theater. Prüfen Sie vor einem Besuch den aktuellen Ausstellungsort.",
+      "从剧院一侧隔广场欣赏装饰繁复的立面。打算看展时，先核对当期展览地点。"
+    ],
+    "kind": "venue",
+    "operator": "Muzej za umjetnost i obrt",
+    "area": "lower",
+    "website": "https://www.muo.hr/",
+    "context": [
+      "Founded in 1880, the museum collects objects made for everyday use and display, including furniture, textiles and ceramics.",
+      "Muzej je osnovan 1880. i prikuplja predmete za svakodnevnu uporabu i izlaganje, uključujući namještaj, tekstil i keramiku.",
+      "Das 1880 gegründete Museum sammelt Gebrauchs- und Ziergegenstände, darunter Möbel, Textilien und Keramik.",
+      "博物馆创立于 1880 年，收藏家具、织物与陶瓷等兼具日常用途与装饰价值的物品。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Arts_and_Crafts,_Zagreb"
+  },
+  "art-pavilion": {
+    "mapName": "Umjetnički paviljon",
+    "address": "Trg kralja Tomislava 22",
+    "name": [
+      "Art Pavilion",
+      "Umjetnički paviljon",
+      "Kunstpavillon",
+      "萨格勒布艺术馆"
+    ],
+    "highlight": [
+      "The yellow pavilion closes the north end of Tomislav Square. From the monument, the lawns frame the dome and the pavilion’s central axis.",
+      "Žuti paviljon zatvara sjevernu stranu trga. Od spomenika travnjaci uokviruju kupolu i središnju os paviljona.",
+      "Der gelbe Pavillon schließt den Platz nach Norden ab. Vom Denkmal aus rahmen die Rasenflächen Kuppel und Mittelachse ein.",
+      "黄色艺术馆位于广场北端。从国王雕像方向望去，两边草坪衬出圆顶和中轴线。"
+    ],
+    "kind": "venue",
+    "operator": "Umjetnički paviljon u Zagrebu",
+    "area": "lower",
+    "website": "https://umjetnicki-paviljon.hr/",
+    "context": [
+      "The pavilion’s origins are tied to the 1896 exhibition in Budapest. Its Zagreb site became an exhibition venue at the end of the nineteenth century.",
+      "Podrijetlo paviljona povezano je s budimpeštanskom izložbom 1896. Zagrebačka zgrada postala je izložbeni prostor potkraj 19. stoljeća.",
+      "Die Geschichte des Pavillons geht auf die Budapester Ausstellung von 1896 zurück. Ende des 19. Jahrhunderts entstand daraus der Zagreber Ausstellungsort.",
+      "展馆源于 1896 年布达佩斯博览会，19 世纪末在萨格勒布成为展览场所。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Art_Pavilion_in_Zagreb"
+  },
+  "strossmayer-square": {
+    "mapName": "Strossmayerov trg",
+    "address": "Trg Josipa Jurja Strossmayera",
+    "name": [
+      "Strossmayer Square",
+      "Strossmayerov trg",
+      "Strossmayer-Platz",
+      "斯特罗斯迈尔广场"
+    ],
+    "highlight": [
+      "Walk the middle stretch of the Green Horseshoe’s eastern arm between the Art Pavilion and Zrinjevac. Find the seated statue near the Academy palace.",
+      "Prošećite sredinom istočnog kraka Zelene potkove između Umjetničkog paviljona i Zrinjevca. Potražite sjedeći kip uz palaču Akademije.",
+      "Gehen Sie zwischen Kunstpavillon und Zrinjevac am östlichen Arm des Grünen Hufeisens entlang. Nahe dem Akademiepalast steht die sitzende Statue.",
+      "从艺术馆走向兹里涅瓦茨公园，途经绿色马蹄形公园带的东侧中段。在科学院宫附近找广场的坐姿雕像。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The square honors Josip Juraj Strossmayer, who helped establish the Academy. Its position beside the Academy palace ties the park to Zagreb’s cultural institutions.",
+      "Trg nosi ime Josipa Jurja Strossmayera, zaslužnog za osnivanje Akademije. Palača Akademije povezuje park sa zagrebačkim kulturnim ustanovama.",
+      "Der Platz erinnert an Josip Juraj Strossmayer, einen Mitbegründer der Akademie. Der Akademiepalast verbindet die Grünanlage mit Zagrebs Kulturgeschichte.",
+      "广场纪念参与创立科学院的约西普·尤拉伊·斯特罗斯迈尔。毗邻的科学院宫把公园步行路线与城市文化史联系起来。"
+    ],
+    "source": "https://www.htz.hr/sites/default/files/2023-09/Korak%20po%20korak%20-%20ENG.pdf"
+  },
+  "croatian-state-archives": {
+    "mapName": "Hrvatski državni arhiv",
+    "address": "Marulićev trg 21",
+    "name": [
+      "Croatian State Archives",
+      "Hrvatski državni arhiv",
+      "Kroatisches Staatsarchiv",
+      "克罗地亚国家档案馆"
+    ],
+    "highlight": [
+      "Look up at the owls on the roof of this former university library. The Secession building now houses the state archives.",
+      "Pogledajte sove na krovu nekadašnje sveučilišne knjižnice. U secesijskoj zgradi danas je državni arhiv.",
+      "Achten Sie auf die Eulen auf dem Dach der ehemaligen Universitätsbibliothek. Im Jugendstilbau befindet sich heute das Staatsarchiv.",
+      "抬头看旧大学图书馆屋顶上的猫头鹰装饰。这座分离派风格建筑如今是国家档案馆。"
+    ],
+    "kind": "venue",
+    "operator": "Hrvatski državni arhiv",
+    "area": "lower",
+    "website": "https://www.arhiv.hr/",
+    "context": [
+      "Rudolf Lubynski designed the building as the national and university library. The roof ornaments help distinguish it from the surrounding historicist blocks.",
+      "Rudolf Lubynski projektirao je zgradu za nacionalnu i sveučilišnu knjižnicu. Krovni ukrasi ističu je među okolnim historicističkim zgradama.",
+      "Rudolf Lubynski entwarf den Bau als National- und Universitätsbibliothek. Der Dachschmuck hebt ihn von den historistischen Nachbarbauten ab.",
+      "鲁道夫·卢宾斯基为国家与大学图书馆设计了这座建筑。屋顶装饰让它在周围的历史主义街区中格外显眼。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Croatian_State_Archives"
+  },
+  "ethnographic-museum": {
+    "mapName": "Etnografski muzej",
+    "address": "Trg Mažuranića 14",
+    "name": [
+      "Ethnographic Museum",
+      "Etnografski muzej",
+      "Ethnografisches Museum",
+      "萨格勒布民族博物馆"
+    ],
+    "highlight": [
+      "The museum occupies the former Trade and Crafts Hall. In exhibitions, look for how textiles and clothing identify places and occasions.",
+      "Muzej je u nekadašnjem Trgovačko-obrtnom domu. Na izložbama pogledajte kako tkanine i odjeća upućuju na krajeve i prigode.",
+      "Das Museum befindet sich im ehemaligen Handels- und Gewerbehaus. Achten Sie darauf, wie Stoffe und Kleidung Regionen und Anlässe erkennen lassen.",
+      "博物馆设于昔日的工商会馆。参观时可留意各地织物和服饰如何区分地区与使用场合。"
+    ],
+    "kind": "venue",
+    "operator": "Etnografski muzej Zagreb",
+    "area": "lower",
+    "website": "https://emz.hr/",
+    "context": [
+      "The museum was founded in 1919. Its holdings help explain the techniques used to make household objects, clothing and ceremonial dress.",
+      "Muzej je osnovan 1919. Zbirke prikazuju tehnike izrade kućanskih predmeta, odjeće i svečanog ruha.",
+      "Das 1919 gegründete Museum zeigt, wie Hausrat, Alltagskleidung und Festtrachten hergestellt wurden.",
+      "馆方创立于 1919 年。展品可帮助理解生活器物、日常衣物与礼仪服饰的制作方法。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ethnographic_Museum,_Zagreb"
+  },
+  "mimara-museum": {
+    "mapName": "Muzej Mimara",
+    "address": "Rooseveltov trg 5",
+    "name": [
+      "Mimara Museum",
+      "Muzej Mimara",
+      "Mimara-Museum",
+      "米马拉博物馆"
+    ],
+    "highlight": [
+      "The museum occupies a former school building on Roosevelt Square. The long, symmetrical façade is visible from the public pavement.",
+      "Muzej je u nekadašnjoj školskoj zgradi na Rooseveltovu trgu. Dugo simetrično pročelje vidi se s nogostupa.",
+      "Das Museum nutzt ein ehemaliges Schulgebäude am Roosevelt-Platz. Die lange symmetrische Fassade lässt sich vom Gehweg betrachten.",
+      "博物馆位于罗斯福广场的一座旧校舍内，从公共人行道可看到修长对称的立面。"
+    ],
+    "kind": "venue",
+    "operator": "Muzej Mimara",
+    "area": "lower",
+    "website": "https://www.mimara.hr/",
+    "context": [
+      "The museum opened in 1987 with the collection associated with Ante Topić Mimara. Check reopening notices before planning to see the collection.",
+      "Muzej je otvoren 1987. sa zbirkom povezanom s Antom Topićem Mimarom. Prije posjeta zbirci provjerite obavijesti o ponovnom otvaranju.",
+      "Das Museum wurde 1987 mit der Sammlung von Ante Topić Mimara eröffnet. Prüfen Sie vor dem Besuch die Hinweise zur Wiedereröffnung.",
+      "博物馆在 1987 年开放，馆藏源自安特·托皮奇·米马拉的收藏。计划看馆藏前，请查开放公告。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mimara_Museum"
+  },
+  "republic-of-croatia-square": {
+    "mapName": "Trg Republike Hrvatske",
+    "address": "Trg Republike Hrvatske",
+    "name": [
+      "Republic of Croatia Square",
+      "Trg Republike Hrvatske",
+      "Platz der Republik Kroatien",
+      "克罗地亚共和国广场"
+    ],
+    "highlight": [
+      "Walk around the open square to see how the National Theatre and the surrounding cultural buildings mark the western arm of the Green Horseshoe.",
+      "Obiđite trg i pogledajte kako kazalište i okolne kulturne ustanove označavaju zapadni krak Zelene potkove.",
+      "Umrunden Sie den Platz, um das Nationaltheater und die Kulturbauten am Westarm des Grünen Hufeisens zu sehen.",
+      "绕广场步行一圈，观察国家剧院和周围文化建筑如何构成绿色马蹄形公园带的西侧节点。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The square shows how the city placed major cultural institutions around a shared public space. The theatre frontage and nearby university buildings are best seen from opposite sides.",
+      "Trg pokazuje kako su velike kulturne ustanove smještene oko zajedničkog javnog prostora. Pročelje kazališta i sveučilišne zgrade pogledajte sa suprotnih strana.",
+      "Der Platz zeigt, wie bedeutende Kulturinstitutionen um einen gemeinsamen Freiraum angeordnet wurden. Theaterfassade und Universitätsgebäude lassen sich von gegenüber betrachten.",
+      "这座广场展示了城市如何围绕公共空间布置文化机构。可分别从对面观察剧院立面和大学建筑。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Republic_of_Croatia_Square"
+  },
+  "flower-square": {
+    "mapName": "Trg Petra Preradovića",
+    "address": "Trg Petra Preradovića",
+    "name": [
+      "Flower Square",
+      "Trg Petra Preradovića",
+      "Blumenplatz",
+      "鲜花广场"
+    ],
+    "highlight": [
+      "Look for the flower stalls that gave the square its nickname, then compare the Preradović statue with the Orthodox cathedral on the edge of the square.",
+      "Potražite cvjećarske štandove po kojima je trg dobio nadimak, zatim pogledajte Preradovićev kip i pravoslavnu crkvu na rubu trga.",
+      "Suchen Sie die Blumenstände, die dem Platz seinen Beinamen gaben, sowie die Preradović-Statue und die orthodoxe Kathedrale am Platzrand.",
+      "看看让广场得名的花摊，再到广场边看普雷拉多维奇雕像与东正教座堂。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The square is named after the poet Petar Preradović. Its position between Ilica and the pedestrian shopping streets also makes it a convenient meeting point.",
+      "Trg je nazvan po pjesniku Petru Preradoviću. Između Ilice i pješačkih trgovačkih ulica praktično je mjesto susreta.",
+      "Der Platz ist nach dem Dichter Petar Preradović benannt. Zwischen Ilica und den Fußgänger-Einkaufsstraßen ist er ein beliebter Treffpunkt.",
+      "广场以诗人佩塔尔·普雷拉多维奇命名。它位于伊利察街与步行商业街之间，适合作为集合点。"
+    ],
+    "source": "https://hr.wikipedia.org/wiki/Trg_Petra_Preradovi%C4%87a_(Zagreb)"
+  },
+  "octagon": {
+    "mapName": "Oktogon",
+    "address": "Ilica 5",
+    "name": [
+      "Oktogon Passage",
+      "Oktogon",
+      "Oktogon-Passage",
+      "八角拱廊"
+    ],
+    "highlight": [
+      "Enter from Ilica and pause beneath the glazed eight-sided ceiling. The passage exits near Flower Square.",
+      "Uđite iz Ilice i zastanite ispod ostakljenog osmerokutnog svoda. Prolaz izlazi kod Cvjetnog trga.",
+      "Gehen Sie von der Ilica hinein und bleiben Sie unter der achteckigen Glaskuppel stehen. Der Ausgang liegt beim Blumenplatz.",
+      "从伊利察街进入，在八角玻璃顶下停留。穿过拱廊即可到鲜花广场附近。"
+    ],
+    "kind": "passage",
+    "operator": "GSKG",
+    "area": "lower",
+    "context": [
+      "The passage runs through the former First Croatian Savings Bank building. Its central hall gives light to an interior route between two streets.",
+      "Prolaz vodi kroz zgradu nekadašnje Prve hrvatske štedionice. Stakleni svod osvjetljava unutarnju vezu dviju ulica.",
+      "Die Passage führt durch das Gebäude der ehemaligen Ersten Kroatischen Sparkasse. Die zentrale Halle bringt Licht in die Verbindung zwischen zwei Straßen.",
+      "拱廊穿过原克罗地亚第一储蓄银行建筑。中央玻璃厅为连接两条街的室内通道采光。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Oktogon_(Zagreb)",
+    "managementSource": "https://www.gskg.hr/odjel-komunalnih-poslova/667",
+    "managementNote": [
+      "GSKG maintains the public lighting in the passage.",
+      "GSKG održava javnu rasvjetu prolaza.",
+      "GSKG betreut die öffentliche Beleuchtung der Passage.",
+      "拱廊内的公共照明由 GSKG 维护。"
+    ]
+  },
+  "ilica": {
+    "mapName": "Ilica",
+    "address": "Ilica, Trg bana Josipa Jelačića",
+    "name": [
+      "Ilica Street",
+      "Ilica",
+      "Ilica-Straße",
+      "伊利察街"
+    ],
+    "highlight": [
+      "Start at Ban Jelačić Square and walk west past the Oktogon entrance. Turn into Tomićeva to find the lower funicular station.",
+      "Krenite s Trga bana Jelačića prema zapadu pokraj ulaza u Oktogon. Skrenite u Tomićevu do donje postaje uspinjače.",
+      "Gehen Sie vom Ban-Jelačić-Platz westwärts am Oktogon vorbei. Biegen Sie zur Talstation in die Tomićeva ab.",
+      "从耶拉契奇广场向西走，经过八角拱廊入口，再拐入托米奇街去找缆车下站。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "lower",
+    "context": [
+      "The eastern part of Ilica mixes tram tracks, older shopfronts and courtyards. Explore the side streets when you want a quieter walk.",
+      "Istočni dio Ilice spaja tramvajske tračnice, stare izloge i dvorišta. Za mirniju šetnju zavirite u bočne ulice.",
+      "Im östlichen Abschnitt liegen Straßenbahngleise, ältere Ladenfronten und Innenhöfe dicht beieinander. In den Seitenstraßen geht es ruhiger zu.",
+      "伊利察街东段沿线有电车、老店面和内院。想安静步行时，可以转进两侧支路。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Ilica_(street)"
+  },
+  "british-square": {
+    "mapName": "Britanski trg",
+    "address": "Britanski trg",
+    "name": [
+      "British Square",
+      "Britanski trg",
+      "Britischer Platz",
+      "英国广场"
+    ],
+    "highlight": [
+      "The neighborhood market occupies the middle of the square. Visit earlier in the day to see the stalls before taking Ilica back toward the center.",
+      "Tržnica zauzima sredinu trga. Dođite ranije zbog štandova, pa se vratite Ilicom prema središtu.",
+      "Der Viertelmarkt liegt in der Platzmitte. Kommen Sie früh zu den Ständen und gehen Sie dann über die Ilica zurück ins Zentrum.",
+      "社区市场位于广场中央。尽量早些到看摊位，之后可沿伊利察街返回市中心。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb · Tržnice Zagreb",
+    "area": "lower",
+    "website": "https://www.trznice-zg.hr/",
+    "context": [
+      "The square widens along Ilica on the way west from the center. Market activity in the middle contrasts with the busy tram street at its edge.",
+      "Trg se širi uz Ilicu zapadno od središta. Život tržnice u sredini razlikuje se od prometne tramvajske ulice uz rub.",
+      "Westlich der Innenstadt weitet sich die Ilica hier zu einem Platz. In der Mitte liegt der Markt, am Rand verläuft die belebte Straßenbahnstraße.",
+      "从市中心沿伊利察街向西，街道在这里拓宽成广场。中央市集与边上的繁忙电车街形成对照。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/British_Square_(Zagreb)"
+  },
+  "mestrovic-pavilion": {
+    "mapName": "Meštrovićev paviljon",
+    "address": "Trg žrtava fašizma 16",
+    "name": [
+      "Meštrović Pavilion",
+      "Meštrovićev paviljon",
+      "Meštrović-Pavillon",
+      "梅什特罗维奇展亭"
+    ],
+    "highlight": [
+      "Circle the rotunda to see how its stone colonnade changes in the light. The building hosts exhibitions run by the Croatian Association of Fine Artists.",
+      "Obiđite rotondu i pogledajte kamenu kolonadu na različitom svjetlu. U zgradi izložbe priređuje Hrvatsko društvo likovnih umjetnika.",
+      "Umrunden Sie die Rotunde und betrachten Sie die steinernen Säulen im wechselnden Licht. Der kroatische Künstlerverband veranstaltet hier Ausstellungen.",
+      "绕圆形建筑一周，看石柱廊在不同光线下的变化。克罗地亚美术家协会在馆内举办展览。"
+    ],
+    "kind": "venue",
+    "operator": "Hrvatsko društvo likovnih umjetnika",
+    "area": "lower",
+    "website": "https://www.hdlu.hr/",
+    "context": [
+      "The circular building designed by Ivan Meštrović opened in 1938 and has served different functions. Its present use is as an exhibition space.",
+      "Kružna zgrada prema projektu Ivana Meštrovića otvorena je 1938. i imala je različite namjene. Danas služi za izložbe.",
+      "Der von Ivan Meštrović entworfene Rundbau wurde 1938 eröffnet und mehrfach umgenutzt. Heute dient er als Ausstellungsort.",
+      "伊万·梅什特罗维奇设计的圆形建筑在 1938 年启用，曾有多种用途，现用作展览空间。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Me%C5%A1trovi%C4%87_Pavilion"
+  },
+  "technical-museum": {
+    "mapName": "Tehnički muzej Nikola Tesla",
+    "address": "Savska cesta 18",
+    "name": [
+      "Nikola Tesla Technical Museum",
+      "Tehnički muzej Nikola Tesla",
+      "Technisches Museum Nikola Tesla",
+      "尼古拉·特斯拉技术博物馆"
+    ],
+    "highlight": [
+      "Allow time for the transport collection. Confirm separate admission or schedules for the planetarium, demonstration laboratory and model mine.",
+      "Odvojite vrijeme za prometnu zbirku. Za planetarij, demonstracijski kabinet i rudnik provjerite posebne termine ili ulaznice.",
+      "Nehmen Sie sich Zeit für die Verkehrssammlung. Prüfen Sie die separaten Zeiten oder Tickets für Planetarium, Vorführlabor und Schaubergwerk.",
+      "为交通工具展留出时间。天文馆、演示实验室和模拟矿井可能另设场次，先查票务与时间。"
+    ],
+    "kind": "venue",
+    "operator": "Tehnički muzej Nikola Tesla",
+    "area": "lower",
+    "website": "https://tmnt.hr/",
+    "context": [
+      "Displays connect large machines to their practical uses, from vehicles to power generation. Choose timed activities first when planning a short visit.",
+      "Postav povezuje velike strojeve s njihovom uporabom, od vozila do proizvodnje energije. Za kratak posjet prvo odaberite programe s terminom.",
+      "Die Ausstellung verbindet große Maschinen mit ihrem Einsatz vom Verkehr bis zur Energieerzeugung. Planen Sie bei wenig Zeit zuerst die Angebote mit festen Terminen.",
+      "展览通过交通工具和发电设备说明大型机械的实际用途。停留时间有限时，可以先安排定时开放的项目。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Technical_Museum,_Zagreb"
+  },
+  "archaeological-museum": {
+    "mapName": "Arheološki muzej u Zagrebu",
+    "address": "Trg Nikole Šubića Zrinskog 19",
+    "name": [
+      "Archaeological Museum",
+      "Arheološki muzej u Zagrebu",
+      "Archäologisches Museum",
+      "萨格勒布考古博物馆"
+    ],
+    "highlight": [
+      "Find the museum on the west side of Zrinjevac. Its Egyptian collection is associated with the Zagreb Linen Book, an Etruscan text preserved on linen.",
+      "Muzej je na zapadnoj strani Zrinjevca. Uz egipatsku zbirku veže se Zagrebačka lanena knjiga, etruščanski tekst sačuvan na lanu.",
+      "Das Museum liegt westlich des Zrinjevac. Zur ägyptischen Sammlung gehört die Zagreber Leinenbinde mit einem erhaltenen etruskischen Text.",
+      "博物馆在兹里涅瓦茨公园西侧。埃及馆藏中的萨格勒布亚麻书保存着写在亚麻布上的伊特鲁里亚文字。"
+    ],
+    "kind": "venue",
+    "operator": "Arheološki muzej u Zagrebu",
+    "area": "lower",
+    "website": "https://www.amz.hr/",
+    "context": [
+      "The collection ranges from local prehistoric material to objects from the Mediterranean. Start with one gallery if you have limited time.",
+      "Zbirke obuhvaćaju lokalne prapovijesne nalaze i predmete sa Sredozemlja. Ako imate malo vremena, počnite s jednom cjelinom.",
+      "Die Sammlungen reichen von lokalen vorgeschichtlichen Funden bis zu Objekten aus dem Mittelmeerraum. Bei wenig Zeit lohnt sich eine gezielt ausgewählte Abteilung.",
+      "馆藏从本地史前遗物延伸到地中海文物。时间有限时，可集中看一个展厅。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Archaeological_Museum_in_Zagreb"
+  },
+  "zagreb-cathedral": {
+    "mapName": "Zagrebačka katedrala",
+    "address": "Kaptol 31",
+    "name": [
+      "Zagreb Cathedral",
+      "Zagrebačka katedrala",
+      "Zagreber Kathedrale",
+      "萨格勒布主教座堂"
+    ],
+    "highlight": [
+      "Approach from Kaptol to see the cathedral frontage and its tall neo-Gothic towers. Follow the signs around restoration barriers.",
+      "Priđite s Kaptola zbog pogleda na pročelje i visoke neogotičke tornjeve. Pratite oznake uz ograde oko radova.",
+      "Vom Kaptol sehen Sie die Fassade und die hohen neugotischen Türme. Beachten Sie die Schilder an den Baustellenabsperrungen.",
+      "从卡普托尔广场走近，可看正立面和高耸的新哥特式双塔。施工围挡附近按现场指引通行。"
+    ],
+    "kind": "church",
+    "operator": "Zagrebačka nadbiskupija",
+    "area": "upper",
+    "website": "https://www.zg-nadbiskupija.hr/",
+    "context": [
+      "The cathedral marks the historic ecclesiastical center of Kaptol. Its Neo-Gothic profile reflects the rebuilding that followed the 1880 earthquake.",
+      "Katedrala označava povijesno crkveno središte Kaptola. Neogotički obrisi rezultat su obnove nakon potresa 1880.",
+      "Die Kathedrale steht im historischen Kirchenviertel Kaptol. Ihr neugotisches Profil geht auf den Wiederaufbau nach dem Erdbeben von 1880 zurück.",
+      "座堂位于卡普托尔历史宗教中心。今天的新哥特式轮廓与 1880 年地震后的重建有关。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zagreb_Cathedral"
+  },
+  "dolac-market": {
+    "mapName": "Tržnica Dolac",
+    "address": "Dolac 9",
+    "name": [
+      "Dolac Market",
+      "Tržnica Dolac",
+      "Dolac-Markt",
+      "多拉茨市场"
+    ],
+    "highlight": [
+      "Take the steps from the main square to the open-air produce terrace. Look for the red parasols, then check the covered market below.",
+      "Popnite se stubama s glavnog trga na otvorenu tržnicu. Potražite crvene suncobrane pa pogledajte zatvorenu tržnicu ispod platoa.",
+      "Nehmen Sie die Treppe vom Hauptplatz zur offenen Marktterrasse. Unter den roten Schirmen liegen die Obst- und Gemüsestände, darunter die Markthalle.",
+      "从主广场上台阶到露天果蔬区，寻找红色遮阳伞，再到下层逛室内市场。"
+    ],
+    "kind": "public",
+    "operator": "Tržnice Zagreb",
+    "area": "upper",
+    "website": "https://www.trznice-zg.hr/",
+    "context": [
+      "Opened in 1930, the market connects a raised outdoor trading area with stalls beneath. The edges of the terrace offer a view toward Kaptol.",
+      "Tržnica otvorena 1930. spaja povišeni otvoreni plato sa štandovima ispod njega. S ruba platoa pruža se pogled prema Kaptolu.",
+      "Der 1930 eröffnete Markt verbindet die erhöhte Freifläche mit den Ständen darunter. Vom Terrassenrand blickt man auf Kaptol.",
+      "市场于 1930 年开放，分为抬高的露天平台和下方摊区。在平台边缘可望向卡普托尔。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Dolac_Market"
+  },
+  "tkalciceva-street": {
+    "mapName": "Tkalčićeva ulica",
+    "address": "Ulica Ivana Tkalčića",
+    "name": [
+      "Tkalčićeva Street",
+      "Tkalčićeva ulica",
+      "Tkalčićeva-Straße",
+      "特卡尔契切瓦街"
+    ],
+    "highlight": [
+      "Walk north from Dolac along the former stream corridor. The narrow houses and café terraces give the pedestrian street its present rhythm.",
+      "Od Dolca krenite prema sjeveru trasom nekadašnjeg potoka. Uske kuće i terase kafića daju ritam današnjoj pješačkoj ulici.",
+      "Gehen Sie vom Dolac nach Norden entlang des ehemaligen Bachlaufs. Schmale Häuser und Caféterrassen prägen die heutige Fußgängerstraße.",
+      "从多拉茨沿昔日溪流所在的街道向北。窄立面的老房屋与咖啡馆露台交错，适合慢慢步行。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "upper",
+    "context": [
+      "The former Medveščak stream ran between Gradec and Kaptol. The street still follows the line of the old valley between those two historic centers.",
+      "Nekadašnji potok Medveščak tekao je između Gradeca i Kaptola. Ulica i dalje slijedi dolinu između tih povijesnih središta.",
+      "Der frühere Medveščak-Bach verlief zwischen Gradec und Kaptol. Die Straße folgt noch heute der Talmulde zwischen diesen historischen Kernen.",
+      "昔日的梅德韦什恰克溪流经格拉代茨和卡普托尔之间。街道仍沿着这两个历史中心之间的旧河谷延伸。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Tkal%C4%8Di%C4%87eva_Street"
+  },
+  "stone-gate": {
+    "mapName": "Kamenita vrata",
+    "address": "Kamenita ulica",
+    "name": [
+      "Stone Gate",
+      "Kamenita vrata",
+      "Steinernes Tor",
+      "石门"
+    ],
+    "highlight": [
+      "Pass through the surviving Upper Town gate and notice the devotional chapel inside. Keep the passage clear for people stopping to pray.",
+      "Prođite kroz sačuvana gornjogradska vrata i pogledajte kapelicu u prolazu. Ostavite prostora ljudima koji zastaju na molitvu.",
+      "Gehen Sie durch das erhaltene Tor der Oberstadt und beachten Sie die Kapelle im Durchgang. Lassen Sie Platz für Betende.",
+      "穿过上城区保存下来的城门，留意门洞里的祈祷小堂。有人驻足祈祷时，请保持通道畅通。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "upper",
+    "context": [
+      "The religious tradition at the gate is associated with an image of the Virgin that survived the 1731 fire. The gate still links streets on either side.",
+      "Pobožnost kod vrata vezana je uz sliku Majke Božje koja je preživjela požar 1731. Vrata i dalje povezuju ulice s obiju strana.",
+      "Die Andacht am Tor geht auf ein Marienbild zurück, das den Brand von 1731 überstand. Das Tor verbindet weiterhin die Straßen auf beiden Seiten.",
+      "石门的礼拜传统与一幅在 1731 年火灾中幸存的圣母画像有关。今天城门仍是连接两侧街道的通道。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Stone_Gate"
+  },
+  "st-marks-church": {
+    "mapName": "Crkva sv. Marka",
+    "address": "Trg svetog Marka 5",
+    "name": [
+      "St Mark’s Church",
+      "Crkva sv. Marka",
+      "Markuskirche",
+      "圣马可教堂"
+    ],
+    "highlight": [
+      "Look for the coats of arms on the tiled roof and the sculpted figures of the south portal from permitted viewpoints.",
+      "S dopuštenih mjesta pogledajte grbove na krovu i klesane likove južnog portala.",
+      "Achten Sie von den zugänglichen Standorten auf die Wappen am Ziegeldach und die Figuren am Südportal.",
+      "在允许停留的位置看彩瓦屋顶上的徽章，以及南门入口的雕塑。"
+    ],
+    "kind": "church",
+    "operator": "Župa sv. Marka Evanđelista",
+    "area": "upper",
+    "website": "https://www.zg-nadbiskupija.hr/",
+    "context": [
+      "The medieval church has undergone several alterations. Its south portal and patterned roof provide two distinct views of the building’s history.",
+      "Srednjovjekovna crkva više je puta preuređivana. Južni portal i šareni krov prikazuju različita razdoblja povijesti zgrade.",
+      "Die mittelalterliche Kirche wurde mehrfach verändert. Südportal und buntes Ziegeldach stehen für unterschiedliche Bauphasen.",
+      "这座中世纪教堂经历多次改建。南门和图案鲜明的瓦顶分别反映了建筑的不同时期。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/St._Mark%27s_Church,_Zagreb"
+  },
+  "st-marks-square": {
+    "mapName": "Trg svetog Marka",
+    "address": "Trg svetog Marka",
+    "name": [
+      "St Mark’s Square",
+      "Trg svetog Marka",
+      "Markusplatz",
+      "圣马可广场"
+    ],
+    "highlight": [
+      "Look at the relationship between the church, Parliament and Banski dvori from the approaches to the square. Access around government buildings can change.",
+      "S prilaza trgu pogledajte raspored crkve, Sabora i Banskih dvora. Pristup oko državnih zgrada može se mijenjati.",
+      "Betrachten Sie Kirche, Parlament und Banski dvori von den Zugängen zum Platz. Der Zugang rund um die Regierungsgebäude kann sich ändern.",
+      "从广场入口观察教堂、议会和总督府三者的布局。政府建筑周围的通行范围可能调整。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "upper",
+    "context": [
+      "The square occupies the heart of the historic Gradec district. Its edges bring together religious and government buildings on a small plateau.",
+      "Trg se nalazi u središtu povijesnog Gradeca. Na rubovima malog platoa okupljene su crkvene i državne zgrade.",
+      "Der Platz liegt im Kern des historischen Gradec. Auf engem Raum stehen hier Kirche und Regierungsbauten beieinander.",
+      "广场位于历史街区格拉代茨的中心，小小的平台四周集中着宗教与政府建筑。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/St._Mark%27s_Square,_Zagreb"
+  },
+  "lotrscak-tower": {
+    "mapName": "Kula Lotrščak",
+    "address": "Strossmayerovo šetalište 9",
+    "name": [
+      "Lotrščak Tower",
+      "Kula Lotrščak",
+      "Lotrščak-Turm",
+      "洛特尔什恰克塔"
+    ],
+    "highlight": [
+      "The tower stands at the edge of the Upper Town above the funicular. Ask about current cannon and tower access before timing a visit for noon.",
+      "Kula stoji na rubu Gornjega grada iznad uspinjače. Prije dolaska u podne provjerite raspored topa i pristup kuli.",
+      "Der Turm steht am Rand der Oberstadt oberhalb der Standseilbahn. Prüfen Sie vor einem Mittagsbesuch den Kanonenschuss und den Turmzugang.",
+      "塔楼位于缆车上方的上城区边缘。若想赶正午炮声或登塔，先查当日安排。"
+    ],
+    "kind": "venue",
+    "operator": "Galerija Klovićevi dvori",
+    "area": "upper",
+    "website": "https://gkd.hr/",
+    "context": [
+      "The tower once defended the southern approach to Gradec. Its position above the Lower Town helps explain both its defensive role and the view from the terrace below.",
+      "Kula je nekada branila južni prilaz Gradecu. Položaj iznad Donjega grada objašnjava njezinu obrambenu ulogu i pogled s terase pod njom.",
+      "Der Turm schützte einst den südlichen Zugang nach Gradec. Seine Lage über der Unterstadt erklärt die Verteidigungsfunktion und die Aussicht von der Terrasse darunter.",
+      "塔楼原来守卫格拉代茨南侧入口。站在下方平台，可以同时理解这处高地的防御作用和视野。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Lotr%C5%A1%C4%8Dak_Tower"
+  },
+  "zagreb-funicular": {
+    "mapName": "Zagrebačka uspinjača",
+    "address": "Tomićeva ulica 1",
+    "name": [
+      "Zagreb Funicular",
+      "Zagrebačka uspinjača",
+      "Zagreber Standseilbahn",
+      "萨格勒布缆车"
+    ],
+    "highlight": [
+      "Find the lower station in Tomićeva and look uphill to Lotrščak Tower. Check ZET service notices and use the adjacent stairs if needed.",
+      "Donju postaju potražite u Tomićevoj i pogledajte prema kuli Lotrščak. Provjerite obavijesti ZET-a i po potrebi koristite susjedne stube.",
+      "Die Talstation liegt in der Tomićeva mit Blick hinauf zum Lotrščak-Turm. Prüfen Sie die ZET-Betriebsmeldungen und nehmen Sie bei Bedarf die benachbarte Treppe.",
+      "在托米奇街找下站，抬头可见洛特尔什恰克塔。先看 ZET 运营公告，必要时可改走旁侧台阶。"
+    ],
+    "kind": "transit",
+    "operator": "Zagrebački električni tramvaj (ZET)",
+    "area": "upper",
+    "website": "https://www.zet.hr/",
+    "context": [
+      "The short track climbs directly between Ilica’s side streets and the hilltop beside the tower. From the lower entrance, both levels fit into one view.",
+      "Kratka pruga spaja bočne ulice Ilice s vrhom brijega uz kulu. S donjeg ulaza oba se kraja vide u istom kadru.",
+      "Die kurze Strecke verbindet die Seitenstraßen der Ilica mit der Höhe neben dem Turm. Vom unteren Eingang sieht man beide Ebenen auf einmal.",
+      "短短的缆车轨道从伊利察街支路直达塔楼旁的高地。从下站入口可以把上下两层街区一起收入视野。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zagreb_Funicular"
+  },
+  "strossmayer-promenade": {
+    "mapName": "Strossmayerovo šetalište",
+    "address": "Strossmayerovo šetalište",
+    "name": [
+      "Strossmayer Promenade",
+      "Strossmayerovo šetalište",
+      "Strossmayer-Promenade",
+      "斯特罗斯迈尔步道"
+    ],
+    "highlight": [
+      "From the funicular’s upper station, follow the terrace along the hillside for views of Lower Town rooftops. Look for the seated Matoš sculpture.",
+      "Od gornje postaje uspinjače slijedite terasu uz padinu zbog pogleda na donjogradske krovove. Potražite Matošev kip na klupi.",
+      "Folgen Sie von der Bergstation der Terrasse am Hang mit Blick auf die Dächer der Unterstadt. Suchen Sie die sitzende Matoš-Figur.",
+      "从缆车上站沿山坡观景步道走，可俯瞰下城区屋顶。途中可找坐在长椅上的作家马托什雕像。"
+    ],
+    "kind": "public",
+    "operator": "Grad Zagreb",
+    "area": "upper",
+    "context": [
+      "The path follows the edge of the Upper Town where the hillside opens toward the Lower Town. The railings provide successive viewpoints along the walk.",
+      "Staza prati rub Gornjega grada na padini okrenutoj Donjem gradu. Duž ograde nižu se vidikovci.",
+      "Am Rand der Oberstadt öffnet sich der Hang zur Unterstadt. Entlang des Geländers bieten sich mehrere Ausblicke.",
+      "步道沿上城区边缘展开，山坡对着下城区。可沿栏杆走，在不同位置观察屋顶景观。"
+    ],
+    "source": "https://www.htz.hr/sites/default/files/2023-09/Korak%20po%20korak%20-%20ENG.pdf"
+  },
+  "museum-of-broken-relationships": {
+    "mapName": "Muzej prekinutih veza",
+    "address": "Ćirilometodska ulica 2",
+    "name": [
+      "Museum of Broken Relationships",
+      "Muzej prekinutih veza",
+      "Museum der zerbrochenen Beziehungen",
+      "失恋博物馆"
+    ],
+    "highlight": [
+      "Read the personal accounts alongside everyday objects donated from around the world. The museum is a short walk from Lotrščak Tower.",
+      "Čitajte osobne priče uz svakodnevne predmete darovane iz cijeloga svijeta. Muzej je blizu kule Lotrščak.",
+      "Lesen Sie die persönlichen Geschichten zu Alltagsobjekten aus aller Welt. Das Museum liegt nahe dem Lotrščak-Turm.",
+      "看世界各地捐赠者留下的日常物件，也读一读每件物品旁的个人故事。从洛特尔什恰克塔步行即可到馆。"
+    ],
+    "kind": "venue",
+    "operator": "Muzej prekinutih veza",
+    "area": "upper",
+    "website": "https://brokenships.com/",
+    "context": [
+      "The project grew from an exhibition into a permanent museum in Zagreb. Objects gain meaning through the short accounts written by their donors.",
+      "Projekt je od izložbe prerastao u stalni muzej u Zagrebu. Predmete objašnjavaju kratke priče njihovih darovatelja.",
+      "Aus einem Ausstellungsprojekt wurde ein dauerhaftes Museum in Zagreb. Kurze Texte der Schenkenden geben den Gegenständen ihre Bedeutung.",
+      "项目从展览发展为萨格勒布的常设博物馆。捐赠者写下的简短故事为普通物件补上了个人背景。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Broken_Relationships"
+  },
+  "zagreb-city-museum": {
+    "mapName": "Muzej grada Zagreba",
+    "address": "Opatička ulica 20",
+    "name": [
+      "Zagreb City Museum",
+      "Muzej grada Zagreba",
+      "Stadtmuseum Zagreb",
+      "萨格勒布城市博物馆"
+    ],
+    "highlight": [
+      "The museum traces Zagreb’s development in a former Poor Clares convent. Look for archaeological remains incorporated into the displays.",
+      "Muzej prati razvoj Zagreba u nekadašnjem samostanu klarisa. Obratite pozornost na arheološke ostatke uključene u postav.",
+      "Das Museum zeigt Zagrebs Entwicklung im ehemaligen Klarissenkloster. Achten Sie auf die in die Ausstellung einbezogenen archäologischen Reste.",
+      "博物馆在原贫穷修女会修道院内呈现城市变迁，展陈中还保留了可观察的考古遗迹。"
+    ],
+    "kind": "venue",
+    "operator": "Muzej grada Zagreba",
+    "area": "upper",
+    "website": "https://www.mgz.hr/",
+    "context": [
+      "Displays cover Zagreb across several periods, from the old settlements on the hill to later urban growth. The building and its courtyard are part of the visit.",
+      "Postav prati Zagreb od starih naselja na brijegu do kasnijeg razvoja grada. Sama zgrada i dvorište dio su doživljaja.",
+      "Die Ausstellung reicht von den alten Siedlungen auf dem Hügel bis zum späteren Stadtwachstum. Das Gebäude und sein Hof gehören zum Besuch.",
+      "展陈从山丘上的早期聚落讲到后来的城市扩张。馆舍及庭院本身也值得观察。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zagreb_City_Museum"
+  },
+  "croatian-museum-of-naive-art": {
+    "mapName": "Hrvatski muzej naivne umjetnosti",
+    "address": "Ćirilometodska ulica 3",
+    "name": [
+      "Croatian Museum of Naïve Art",
+      "Hrvatski muzej naivne umjetnosti",
+      "Kroatisches Museum für Naive Kunst",
+      "克罗地亚素朴艺术博物馆"
+    ],
+    "highlight": [
+      "Look for the Hlebine school’s reverse paintings on glass and compare their sharply defined details with the museum’s sculptures.",
+      "Potražite slike Hlebinske škole rađene na poleđini stakla i usporedite njihove oštre detalje sa skulpturama.",
+      "Suchen Sie die Hinterglasbilder der Schule von Hlebine und vergleichen Sie ihre klaren Konturen mit den Skulpturen.",
+      "留意赫莱比内画派在玻璃背面作画的作品，再比较画面的细致轮廓与馆内雕塑。"
+    ],
+    "kind": "venue",
+    "operator": "Hrvatski muzej naivne umjetnosti",
+    "area": "upper",
+    "website": "https://hmnu.hr/",
+    "context": [
+      "The collection traces Croatian naïve art in several media. Check the museum’s address before leaving, since exhibition arrangements may change.",
+      "Zbirka prati hrvatsku naivnu umjetnost u različitim medijima. Prije polaska provjerite adresu izložbe jer se raspored prostora može mijenjati.",
+      "Die Sammlung zeigt kroatische naive Kunst in verschiedenen Techniken. Prüfen Sie vorab die Ausstellungsadresse, da sich der Ort ändern kann.",
+      "馆藏呈现多种媒介的克罗地亚素朴艺术。展览地点可能调整，请出发前查馆方地址。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Croatian_Museum_of_Naive_Art"
+  },
+  "jesuit-square": {
+    "mapName": "Galerija Klovićevi dvori",
+    "address": "Jezuitski trg 4",
+    "name": [
+      "Klovićevi Dvori Gallery",
+      "Galerija Klovićevi dvori",
+      "Galerie Klovićevi dvori",
+      "克洛维切维艺术展馆"
+    ],
+    "highlight": [
+      "The exhibition venue sits in a former Jesuit monastery. Walk into Jesuit Square to see the complex and check the current exhibition before buying a ticket.",
+      "Galerija je u bivšem isusovačkom samostanu. Na Jezuitskom trgu pogledajte sklop i provjerite aktualnu izložbu prije kupnje ulaznice.",
+      "Die Galerie nutzt ein ehemaliges Jesuitenkloster. Sehen Sie sich den Bau am Jesuitenplatz an und prüfen Sie die aktuelle Ausstellung vor dem Ticketkauf.",
+      "展馆设于原耶稣会修道院。到耶稣会广场看建筑群，再核对当期展览后购票。"
+    ],
+    "kind": "venue",
+    "operator": "Galerija Klovićevi dvori",
+    "area": "upper",
+    "website": "https://gkd.hr/",
+    "context": [
+      "The gallery’s temporary exhibitions use a complex built for the Jesuits in the Upper Town. Look at the courtyard and surrounding buildings on your way in.",
+      "Privremene izložbe održavaju se u gornjogradskom kompleksu sagrađenom za isusovce. Na ulazu pogledajte dvorište i okolne zgrade.",
+      "Die Wechselausstellungen finden in einem ehemaligen Jesuitenkomplex statt. Schauen Sie sich beim Hineingehen den Hof und die umgebenden Bauten an.",
+      "上城区这片建筑群原供耶稣会使用，现用于举办专题展。入场途中可看庭院与周边建筑。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Klovi%C4%87evi_Dvori_Gallery"
+  },
+  "maksimir-park": {
+    "mapName": "Park Maksimir",
+    "address": "Maksimirski perivoj",
+    "name": [
+      "Maksimir Park",
+      "Park Maksimir",
+      "Maksimir-Park",
+      "马克西米尔公园"
+    ],
+    "highlight": [
+      "Enter from Maksimirska cesta and follow the main axis to the belvedere before choosing a lakeside path. The zoo has a separate entrance and ticket.",
+      "Uđite s Maksimirske ceste i slijedite glavnu os do Vidikovca, zatim izaberite stazu uz jezero. Zoološki vrt ima zaseban ulaz i ulaznicu.",
+      "Gehen Sie von der Maksimirska cesta auf der Hauptachse zum Aussichtspavillon und wählen Sie danach einen Seeweg. Für den Zoo gibt es einen separaten Eingang und Eintritt.",
+      "从马克西米尔街入口沿主轴走到观景亭，再选一条湖畔小径。动物园另有入口和门票。"
+    ],
+    "kind": "public",
+    "operator": "Javna ustanova Maksimir",
+    "area": "east",
+    "website": "https://park-maksimir.hr/",
+    "context": [
+      "The landscape blends broad approaches, wooded paths and lakes. The belvedere is a useful point to decide how far to continue into the park.",
+      "Krajolik spaja široke prilaze, šumske staze i jezera. Kod Vidikovca možete odlučiti koliko ćete duboko u park.",
+      "Breite Wege, Waldpfade und Seen prägen den Landschaftspark. Am Aussichtspavillon lässt sich entscheiden, wie weit der Spaziergang führen soll.",
+      "公园兼有宽阔入口步道、林间小径和湖泊。走到观景亭后，可以根据时间决定继续走多远。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Maksimir_Park"
+  },
+  "mirogoj": {
+    "mapName": "Groblje Mirogoj",
+    "address": "Aleja Hermanna Bollea 27",
+    "name": [
+      "Mirogoj Cemetery",
+      "Groblje Mirogoj",
+      "Mirogoj-Friedhof",
+      "米罗戈伊公墓"
+    ],
+    "highlight": [
+      "Pause at the main entrance to see Hermann Bollé’s domed arcades. Inside, leave space for mourners and respect cordoned areas.",
+      "Kod glavnog ulaza zastanite zbog arkada s kupolama Hermanna Bolléa. Unutra ostavite prostora ožalošćenima i poštujte zatvorene dijelove.",
+      "Am Haupteingang sind Hermann Bollés Arkaden mit ihren Kuppeln zu sehen. Nehmen Sie Rücksicht auf Trauernde und beachten Sie Absperrungen.",
+      "在正门观察赫尔曼·博莱设计的拱廊与圆顶。进入后礼让悼念者，并遵守现场围挡。"
+    ],
+    "kind": "public",
+    "operator": "Gradska groblja Zagreb",
+    "area": "north",
+    "website": "https://www.gradskagroblja.hr/",
+    "context": [
+      "The cemetery opened in 1876 and is known for its long perimeter arcades. The entrance provides a view of the architectural ensemble before you go farther in.",
+      "Groblje je otvoreno 1876. i poznato je po dugim rubnim arkadama. Glavni ulaz pruža pogled na cjelinu prije ulaska u dublji dio groblja.",
+      "Der 1876 eröffnete Friedhof ist für seine langen Randarkaden bekannt. Am Haupteingang lässt sich das Ensemble überblicken, bevor man weiter hineingeht.",
+      "公墓于 1876 年开放，以周边连绵的拱廊著称。正门附近即可先观察建筑整体，再决定是否向内参观。"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mirogoj_Cemetery"
+  }
+}

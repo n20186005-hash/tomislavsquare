@@ -69,7 +69,7 @@ export default async function HomePage({
         <HistorySection />
         <StoriesSection />
         <FacilitiesSection />
-        <NearbySection />
+        <NearbySection locale={locale} />
         <TopicHighlights />
         <RouteSection />
         <Gallery />

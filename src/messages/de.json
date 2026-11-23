@@ -4,6 +4,7 @@
     "description": "Besuchen Sie den König-Tomislav-Platz in Zagreb. Karte, Tomislav-Denkmal, Kunstpavillon, Anreise, Geschichte und Sehenswürdigkeiten in der Nähe."
   },
   "header": {
+    "nearby": "Sehenswertes in der Nähe",
     "home": "Start",
     "gallery": "Galerie",
     "reviews": "Bewertungen",
@@ -294,31 +295,37 @@
     "items": [
       {
         "name": "Park Zrinjevac",
+        "slug": "zrinjevac",
         "distance": "450 m · 6 Min. Fußweg",
         "text": "Das nächste grüne Glied des Lenuci-Hufeisens, bekannt für seine Platanen, Brunnen und die meteorologische Säule aus dem 19. Jahrhundert."
       },
       {
         "name": "Ban-Jelačić-Platz (Trg bana Jelačića)",
+        "slug": "ban-jelacic-square",
         "distance": "850 m · 11 Min. Fußweg",
         "text": "Zagrebs Hauptplatz und Treffpunkt mit der Statue des Ban Josip Jelačić und dem Beginn der Fußgängerzone Ilica."
       },
       {
         "name": "Kroatisches Nationaltheater (HNK)",
+        "slug": "croatian-national-theatre",
         "distance": "1,1 km · 14 Min. Fußweg",
         "text": "Ein prächtiges neobarockes Theatergebäude weiter entlang des Lenuci-Hufeisens, mit Führungen und einem reichen Spielplan."
       },
       {
         "name": "Zagreber Hauptbahnhof (Glavni kolodvor)",
+        "slug": "zagreb-main-station",
         "distance": "Gegenüber",
         "text": "Das historistische Bahnhofsgebäude von 1892 liegt direkt gegenüber dem Platz – ein bequemer An- und Abreisepunkt für Ihren Besuch."
       },
       {
         "name": "Botanischer Garten",
+        "slug": "botanical-garden",
         "distance": "700 m · 9 Min. Fußweg",
         "text": "Eine grüne Oase in der Unterstadt mit Tausenden von Pflanzenarten, Teichen und einem kleinen Gewächshaus (saisonal geöffnet)."
       },
       {
         "name": "Museum für Kunst und Gewerbe",
+        "slug": "museum-of-arts-and-crafts",
         "distance": "1 km · 13 Min. Fußweg",
         "text": "Eines der schönsten Zagreber Sezessionsgebäude mit Sammlungen angewandter Kunst und Design im historistischen Interieur."
       }

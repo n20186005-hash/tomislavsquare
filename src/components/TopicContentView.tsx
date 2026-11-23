@@ -1,6 +1,7 @@
-import { topicData, TOPIC_SLUGS } from '@/content/topics/loader';
+import { topicData, relatedTopics } from '@/content/topics/loader';
 
-const baseUrl = 'https://tomislavsquare.com';
+import TopicVisit, { TopicReviews } from './TopicVisit';
+import { labels, local } from '@/content/topics/visit';
 
 function Section({ s, index }: { s: any; index: number }) {
   const bg = index % 2 === 0 ? 'var(--bg-primary)' : 'var(--bg-secondary)';
@@ -103,15 +104,15 @@ function Section({ s, index }: { s: any; index: number }) {
 }
 
 export default function TopicContentView({ topic, locale, slug }: { topic: any; locale: string; slug: string }) {
-  const otherTopics = TOPIC_SLUGS.filter((s) => s !== slug)
+  const otherTopics = relatedTopics(slug)
     .map((s) => ({ slug: s, card: topicData[locale]?.[s]?.card }))
     .filter((t) => t.card);
 
   return (
     <article>
-      <header className="relative pt-28 pb-16 sm:pt-36 sm:pb-24 overflow-hidden">
+      <header className="relative pt-28 pb-16 sm:pt-36 sm:pb-24 overflow-hidden" style={{ background: '#20382e' }}>
         <div className="absolute inset-0">
-          <img src="/gallery/trg-kralja-tomislava-1.jpg" alt={topic.h1} className="w-full h-full object-cover" />
+          {(topic.photo || !topic.isPlace) && <img src={topic.photo?.src ?? '/gallery/trg-kralja-tomislava-1.jpg'} alt="" className="w-full h-full object-cover" />}
           <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
         </div>
         <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6">
@@ -124,9 +125,15 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
           </nav>
           <h1 className="font-display text-4xl sm:text-5xl font-bold text-white leading-tight mb-4">{topic.h1}</h1>
           <p className="text-lg text-white/80 font-light">{topic.intro}</p>
+          {topic.isPlace && (
+            <a href={topic.visit.map} className="inline-block mt-4 text-white underline" target="_blank" rel="noopener noreferrer">
+              {local(labels.map, locale)}
+            </a>
+          )}
         </div>
       </header>
 
+      <TopicVisit visit={topic.visit} locale={locale} />
       <div>
         {topic.sections.map((s: any, i: number) => (
           <Section key={i} s={s} index={i} />
@@ -159,6 +166,23 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
           </section>
         )}
 
+        {topic.photo && (
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 py-4 text-sm" style={{ color: 'var(--text-secondary)' }}>
+            <a className="underline" href={topic.photo.source} target="_blank" rel="noopener noreferrer">
+              {local(labels.photo, locale)}
+            </a>
+            {' · '}{topic.photo.credit}{' · '}{topic.photo.license}
+          </div>
+        )}
+
+        {topic.source && (
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 py-3 text-sm">
+            <a className="underline" href={topic.source} target="_blank" rel="noopener noreferrer">{local(labels.source, locale)}</a>
+          </div>
+        )}
+
+        <TopicReviews visit={topic.visit} locale={locale} />
+
         {otherTopics.length > 0 && (
           <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
             <div className="max-w-5xl mx-auto px-4 sm:px-6">
@@ -189,6 +213,9 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
 
         <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>
           <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
+            <a href={`/${locale}/#nearby`} className="block mb-4 underline" style={{ color: 'var(--accent)' }}>
+              {local(labels.explore, locale)}
+            </a>
             <a
               href={`/${locale}`}
               className="inline-flex items-center gap-2 text-sm font-medium"
