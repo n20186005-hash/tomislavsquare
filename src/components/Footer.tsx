@@ -5,8 +5,6 @@ export default function Footer() {
   const locale = useLocale();
   const prefix = `/${locale}`;
 
-  const officialLinks = t.raw('officialLinks') || {};
-
   return (
     <footer
       className="py-12 px-4 sm:px-6"
@@ -28,22 +26,22 @@ export default function Footer() {
             </h3>
             <div className="flex flex-col gap-2">
               <a href="https://crovisa.mvep.hr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.mvep || 'Ministry of Foreign and European Affairs (MVEP) - Visa Page'}
+                {t('officialLinks.mvep')}
               </a>
               <a href="https://mup.gov.hr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.mup || 'Ministry of the Interior (MUP)'}
+                {t('officialLinks.mup')}
               </a>
               <a href="https://croatia.hr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.htz || 'Croatian National Tourist Board (HTZ)'}
+                {t('officialLinks.htz')}
               </a>
               <a href="https://www.zagreb.hr/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.gradZagreb || 'City of Zagreb (Grad Zagreb)'}
+                {t('officialLinks.gradZagreb')}
               </a>
               <a href="https://www.infozagreb.hr/hr" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.tzgz || 'Zagreb Tourist Board (TZGZ)'}
+                {t('officialLinks.tzgz')}
               </a>
               <a href="https://registar.kulturnadobra.hr/#/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {officialLinks.culturalHeritage || 'Register of Cultural Goods of the Republic of Croatia'}
+                {t('officialLinks.culturalHeritage')}
               </a>
             </div>
           </div>

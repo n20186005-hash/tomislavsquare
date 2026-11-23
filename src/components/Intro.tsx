@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const ui = useTranslations('ui');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
@@ -15,7 +16,7 @@ export default function Intro() {
       <div className="max-w-4xl mx-auto">
         {/* Breadcrumb: entity hierarchy */}
         {breadcrumb.length > 0 && (
-          <nav aria-label="Breadcrumb" className="mb-6">
+          <nav aria-label={ui('breadcrumb')} className="mb-6">
             <ol className="flex flex-wrap items-center gap-1.5 text-sm">
               {breadcrumb.map((item, i) => (
                 <li key={i} className="flex items-center gap-1.5">

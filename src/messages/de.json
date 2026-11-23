@@ -1,4 +1,13 @@
 {
+  "ui": {
+    "language": "Sprache wechseln",
+    "theme": "Farbschema wechseln",
+    "breadcrumb": "Brotkrumennavigation",
+    "previousPhoto": "Vorheriges Foto",
+    "nextPhoto": "Nächstes Foto",
+    "closePhoto": "Fotoansicht schließen",
+    "photoAlt": "König-Tomislav-Platz, Foto {number}"
+  },
   "meta": {
     "title": "König-Tomislav-Platz Zagreb – Karte, Sehenswürdigkeiten & Tipps",
     "description": "Besuchen Sie den König-Tomislav-Platz in Zagreb. Karte, Tomislav-Denkmal, Kunstpavillon, Anreise, Geschichte und Sehenswürdigkeiten in der Nähe."
@@ -150,7 +159,7 @@
         "hint": "Gebührenpflichtige Straßen- und Garagenparkplätze in der Nähe"
       },
       {
-        "type": "Cafés & Restaurants",
+        "type": "Cafés und Restaurants",
         "hint": "Cafés, Bäckereien und Restaurants auf dem Platz und in der Unterstadt"
       },
       {
@@ -692,7 +701,7 @@
       },
       {
         "slug": "advent-king-tomislav-square",
-        "label": "Advent in Zagreb",
+        "label": "Zagreber Advent",
         "text": "Während des preisgekrönten Advents ist der Platz Schauplatz des Ice Parks."
       }
     ]

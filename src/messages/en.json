@@ -1,4 +1,13 @@
 {
+  "ui": {
+    "language": "Switch language",
+    "theme": "Toggle color theme",
+    "breadcrumb": "Breadcrumb",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "closePhoto": "Close photo viewer",
+    "photoAlt": "Tomislav Square photo {number}"
+  },
   "meta": {
     "title": "King Tomislav Square (Trg Kralja Tomislava), Zagreb – Free Park, Monument & Map",
     "description": "Visit King Tomislav Square (Trg Kralja Tomislava) in Zagreb, also called Tomislavov trg. See the free city park, the King Tomislav monument, how to get there and nearby Green Horseshoe attractions."

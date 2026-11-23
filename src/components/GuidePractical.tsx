@@ -39,22 +39,24 @@ export function GuideFacts({ visit, details, locale }: { visit: Visit; details: 
   return (
     <>
       <GuideBlock title={local(labels.details, locale)} alternate>
-        <table className="w-full text-left">
-          <tbody>
-            {[
-              [local(practicalLabels.localName, locale), details.localName],
-              [local(practicalLabels.type, locale), details.type],
-              [local(practicalLabels.area, locale), details.area],
-              [local(labels.address, locale), visit.address],
-              [local(labels.manager, locale), visit.operator],
-            ].map(([name, value]) => (
-              <tr key={name} className="border-b" style={{ borderColor: 'var(--border-color)' }}>
-                <th scope="row" className="font-semibold pr-4 py-3 align-top">{name}</th>
-                <td className="py-3">{value}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        <div className="rounded-2xl border px-4 sm:px-6" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
+          <table className="w-full text-left [overflow-wrap:anywhere]">
+            <tbody>
+              {[
+                [local(practicalLabels.localName, locale), details.localName],
+                [local(practicalLabels.type, locale), details.type],
+                [local(practicalLabels.area, locale), details.area],
+                [local(labels.address, locale), visit.address],
+                [local(labels.manager, locale), visit.operator],
+              ].map(([name, value]) => (
+                <tr key={name} className="border-b" style={{ borderColor: 'var(--border-color)' }}>
+                  <th scope="row" className="font-semibold pr-4 py-3 align-top">{name}</th>
+                  <td className="py-3">{value}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </GuideBlock>
       <GuideBlock title={local(practicalLabels.hours, locale)}>
         <p>{details.hours}</p>

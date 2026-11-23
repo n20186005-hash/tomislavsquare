@@ -54,8 +54,8 @@ export const topicData: Record<string, Record<string, any>> = Object.fromEntries
       return [slug, {
         card: { label: name, text: highlight },
         h1: name,
-        title: `${name} · Zagreb`,
-        intro: place.mapName === name ? 'Zagreb' : `${place.mapName} · Zagreb`,
+        title: `${name} · ${locale === 'zh' ? '萨格勒布' : 'Zagreb'}`,
+        intro: place.mapName === name ? practical.area : `${place.mapName} · ${practical.area}`,
         description: highlight,
         photo: photosBySlug[slug],
         source: place.source,

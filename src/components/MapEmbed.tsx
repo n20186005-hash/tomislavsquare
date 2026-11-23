@@ -1,8 +1,10 @@
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { useMessages } from 'next-intl';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const locale = useLocale();
+  const mapLanguage = locale === 'zh' ? 'zh-CN' : locale;
   const messages = useMessages() as any;
   const mapsLink = messages?.hero?.mapsLink || 'https://maps.app.goo.gl/6kLmtVRx9kFHrjND7';
 
@@ -24,14 +26,14 @@ export default function MapEmbed() {
           style={{ border: '1px solid var(--map-border)' }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4946.832390391059!2d15.9786702!3d45.8065479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f850400275%3A0x7300798311973397!2sTrg%20Kralja%20Tomislava!5e1!3m2!1szh-CN!2s!4v1788313187886!5m2!1szh-CN!2s"
+            src={`https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4946.832390391059!2d15.9786702!3d45.8065479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f850400275%3A0x7300798311973397!2sTrg%20Kralja%20Tomislava!5e1!3m2!1s${mapLanguage}!2s!4v1788313187886!5m2!1s${mapLanguage}!2s&hl=${mapLanguage}`}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Trg Kralja Tomislava, Zagreb"
+            title={t('title')}
           />
         </div>
 

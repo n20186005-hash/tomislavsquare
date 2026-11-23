@@ -1,4 +1,13 @@
 {
+  "ui": {
+    "language": "Promijeni jezik",
+    "theme": "Promijeni temu boja",
+    "breadcrumb": "Putanja stranice",
+    "previousPhoto": "Prethodna fotografija",
+    "nextPhoto": "Sljedeća fotografija",
+    "closePhoto": "Zatvori prikaz fotografije",
+    "photoAlt": "Trg kralja Tomislava, fotografija {number}"
+  },
   "meta": {
     "title": "Trg kralja Tomislava Zagreb – Park, Spomenik i Karta",
     "description": "Posjetite Trg kralja Tomislava (Tomislavov trg) u Zagrebu. Saznajte kako doći, gdje se nalazi spomenik kralju Tomislavu i što vidjeti u blizini – besplatan gradski park preko puta Glavnog kolodvora."

@@ -2,6 +2,7 @@ import { topicData, relatedTopics } from '@/content/topics/loader';
 
 import TopicVisit, { TopicReviews } from './TopicVisit';
 import { labels, local } from '@/content/topics/visit';
+import GuideHero from './GuideHero';
 import { GuideBlock, GuideFacts, GuideMap, practicalLabels } from './GuidePractical';
 import { guideLabels } from '@/content/topics/field-notes';
 
@@ -129,30 +130,28 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
 
   return (
     <article>
-      <header className="relative pt-28 pb-16 sm:pt-36 sm:pb-24 overflow-hidden" style={{ background: '#20382e' }}>
-        <div className="absolute inset-0">
-          {(topic.photo || !topic.isPlace) && <img src={topic.photo?.src ?? '/gallery/trg-kralja-tomislava-1.jpg'} alt="" className="w-full h-full object-cover" />}
-          <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
-        </div>
-        <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6">
-          <nav className="mb-4 text-sm" style={{ color: 'rgba(255,255,255,0.8)' }}>
-            <a href={`/${locale}`} className="hover:underline">
-              Trg Kralja Tomislava
-            </a>
-            <span className="mx-2">/</span>
-            <span>{topic.h1}</span>
-          </nav>
-          <h1 className="font-display text-4xl sm:text-5xl font-bold text-white leading-tight mb-4">{topic.h1}</h1>
-          <p className="text-lg text-white/90 font-light">{topic.practical?.tagline ?? topic.intro}</p>
-          {topic.practical && (
-            <div className="mt-5 flex flex-wrap gap-x-6 gap-y-3 text-white">
-              <span className="basis-full">{local(practicalLabels.hours, locale)} · {topic.practical.hours}</span>
-              <a className="underline" href={topic.visit.map} target="_blank" rel="noopener noreferrer">{local(practicalLabels.rating, locale)}</a>
-              <a className="underline" href={topic.visit.map} target="_blank" rel="noopener noreferrer">{local(labels.map, locale)}</a>
-            </div>
-          )}
-        </div>
-      </header>
+      {topic.practical && topic.photo ? (
+        <GuideHero name={topic.h1} homeLabel={local(labels.related, locale)} image={topic.photo.src}
+          visit={topic.visit} details={topic.practical} locale={locale} />
+      ) : (
+        <header className="relative pt-28 pb-16 sm:pt-36 sm:pb-24 overflow-hidden" style={{ background: '#20382e' }}>
+          <div className="absolute inset-0">
+            {(topic.photo || !topic.isPlace) && <img src={topic.photo?.src ?? '/gallery/trg-kralja-tomislava-1.jpg'} alt="" className="w-full h-full object-cover" />}
+            <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
+          </div>
+          <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6">
+            <nav className="mb-4 text-sm" style={{ color: 'rgba(255,255,255,0.8)' }}>
+              <a href={`/${locale}`} className="hover:underline">
+                Trg Kralja Tomislava
+              </a>
+              <span className="mx-2">/</span>
+              <span>{topic.h1}</span>
+            </nav>
+            <h1 className="font-display text-4xl sm:text-5xl font-bold text-white leading-tight mb-4">{topic.h1}</h1>
+            <p className="text-lg text-white/90 font-light">{topic.intro}</p>
+          </div>
+        </header>
+      )}
 
       {topic.practical && (
         <>
@@ -216,7 +215,7 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
           <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>
             <div className="max-w-3xl mx-auto px-4 sm:px-6">
               <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>
-                {topic.faqTitle || 'FAQ'}
+                {topic.faqTitle || local(guideLabels.faq, locale)}
               </h2>
               <div className="w-12 h-0.5 mb-6" style={{ background: 'var(--accent)' }} />
               <div className="space-y-3">
@@ -240,9 +239,11 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
         )}
 
         {topic.photo && (
-          <figure className="max-w-3xl mx-auto px-4 sm:px-6 py-8" style={{ color: 'var(--text-secondary)' }}>
+          <figure className="max-w-5xl mx-auto px-4 sm:px-6 py-8" style={{ color: 'var(--text-secondary)' }}>
             <h2 className="font-display text-2xl font-semibold mb-4">{local(guideLabels.gallery, locale)}</h2>
-            <img className="mx-auto max-h-[32rem] w-auto max-w-full rounded-xl" src={topic.photo.src} alt={topic.h1} loading="lazy" />
+            <div className="rounded-2xl overflow-hidden border p-3 sm:p-5" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)' }}>
+              <img className="mx-auto max-h-[32rem] w-auto max-w-full rounded-xl" src={topic.photo.src} alt={topic.h1} loading="lazy" />
+            </div>
             <figcaption className="text-sm mt-3">
               <a className="underline" href={topic.photo.source} target="_blank" rel="noopener noreferrer">
                 {local(labels.photo, locale)}
@@ -265,7 +266,7 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
           <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
             <div className="max-w-5xl mx-auto px-4 sm:px-6">
               <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-2 text-center" style={{ color: 'var(--text-primary)' }}>
-                {topic.exploreTitle || 'Explore more'}
+                {topic.exploreTitle || local(labels.related, locale)}
               </h2>
               <div className="w-12 h-0.5 mb-10 mx-auto" style={{ background: 'var(--accent)' }} />
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -299,7 +300,7 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
               className="inline-flex items-center gap-2 text-sm font-medium"
               style={{ color: 'var(--accent)' }}
             >
-              ← {topic.backLabel || 'Back to Trg Kralja Tomislava'}
+              ← {topic.backLabel || local(labels.back, locale)}
             </a>
           </div>
         </section>

@@ -1,3 +1,4 @@
+import { operatorNames } from './operator-names';
 import places from './places.json';
 import photos from './photos.json';
 
@@ -68,14 +69,11 @@ const transport = {
 } satisfies Record<Place['area'], Copy>;
 
 export function placeVisit(place: Place, locale: string) {
+  const operator = place.managementNote ?? operatorNames[place.operator];
   const query = encodeURIComponent(`${place.mapName}, ${place.address}, Zagreb, Croatia`);
   return {
-    address: `${place.address}, Zagreb`,
-    operator: place.managementNote
-      ? local(place.managementNote, locale)
-      : place.operator === 'Grad Zagreb'
-        ? local(['City of Zagreb', 'Grad Zagreb', 'Stadt Zagreb', '萨格勒布市政府'], locale)
-        : place.operator,
+    address: `${place.address}, ${locale === 'zh' ? '萨格勒布' : 'Zagreb'}`,
+    operator: operator ? local(operator, locale) : place.operator,
     managementSource: place.managementSource,
     website: place.website,
     map: `https://www.google.com/maps/search/?api=1&query=${query}`,

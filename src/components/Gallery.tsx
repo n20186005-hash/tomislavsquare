@@ -4,23 +4,24 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/trg-kralja-tomislava-1.jpg', alt: 'Trg Kralja Tomislava Photo 1' },
-  { src: '/gallery/trg-kralja-tomislava-2.jpg', alt: 'Trg Kralja Tomislava Photo 2' },
-  { src: '/gallery/trg-kralja-tomislava-3.jpg', alt: 'Trg Kralja Tomislava Photo 3' },
-  { src: '/gallery/trg-kralja-tomislava-4.jpg', alt: 'Trg Kralja Tomislava Photo 4' },
-  { src: '/gallery/trg-kralja-tomislava-5.jpg', alt: 'Trg Kralja Tomislava Photo 5' },
-  { src: '/gallery/trg-kralja-tomislava-6.jpg', alt: 'Trg Kralja Tomislava Photo 6' },
-  { src: '/gallery/trg-kralja-tomislava-7.jpg', alt: 'Trg Kralja Tomislava Photo 7' },
-  { src: '/gallery/trg-kralja-tomislava-8.jpg', alt: 'Trg Kralja Tomislava Photo 8' },
-  { src: '/gallery/trg-kralja-tomislava-9.jpg', alt: 'Trg Kralja Tomislava Photo 9' },
-  { src: '/gallery/trg-kralja-tomislava-10.jpg', alt: 'Trg Kralja Tomislava Photo 10' },
-  { src: '/gallery/trg-kralja-tomislava-11.jpg', alt: 'Trg Kralja Tomislava Photo 11' },
-  { src: '/gallery/trg-kralja-tomislava-12.jpg', alt: 'Trg Kralja Tomislava Photo 12' },
-  { src: '/gallery/trg-kralja-tomislava-13.jpg', alt: 'Trg Kralja Tomislava Photo 13' },
+  { src: '/gallery/trg-kralja-tomislava-1.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-2.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-3.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-4.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-5.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-6.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-7.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-8.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-9.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-10.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-11.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-12.jpg' },
+  { src: '/gallery/trg-kralja-tomislava-13.jpg' },
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const ui = useTranslations('ui');
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
@@ -29,7 +30,7 @@ export default function Gallery() {
 
   const galleryPhotos = photos.map((photo, i) => ({
     ...photo,
-    alt: captions[i] || photo.alt,
+    alt: captions[i] || ui('photoAlt', { number: i + 1 }),
   }));
 
   const goToPrevious = useCallback(() => {
@@ -90,7 +91,7 @@ export default function Gallery() {
                 <button
                   onClick={goToPrevious}
                   className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Previous photo"
+                  aria-label={ui('previousPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="15 18 9 12 15 6" />
@@ -99,7 +100,7 @@ export default function Gallery() {
                 <button
                   onClick={goToNext}
                   className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
-                  aria-label="Next photo"
+                  aria-label={ui('nextPhoto')}
                 >
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <polyline points="9 18 15 12 9 6" />
@@ -115,7 +116,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showAll') || `View All ${galleryPhotos.length} Photos`}
+                  {t('showAll')}
                 </button>
               )}
               {showAll && (
@@ -124,7 +125,7 @@ export default function Gallery() {
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showLess') || 'Show Less'}
+                  {t('showLess')}
                 </button>
               )}
               <a
@@ -149,7 +150,7 @@ export default function Gallery() {
           <button
             onClick={closeLightbox}
             className="absolute top-4 right-4 w-10 h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Close lightbox"
+            aria-label={ui('closePhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -160,7 +161,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Previous photo"
+            aria-label={ui('previousPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="15 18 9 12 15 6" />
@@ -177,7 +178,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Next photo"
+            aria-label={ui('nextPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="9 18 15 12 9 6" />

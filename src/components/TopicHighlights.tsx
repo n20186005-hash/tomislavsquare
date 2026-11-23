@@ -37,7 +37,7 @@ export default function TopicHighlights() {
                 {it.text}
               </p>
               <span className="inline-flex items-center gap-1 mt-4 text-sm font-medium" style={{ color: 'var(--accent)' }}>
-                {data.cta || 'Read guide'} →
+                {data.cta} →
               </span>
             </a>
           ))}
