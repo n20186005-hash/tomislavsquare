@@ -157,7 +157,7 @@ export default async function LocaleLayout({
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: '4.8',
-          reviewCount: '7561',
+          reviewCount: '7576',
           bestRating: '5',
         },
         touristType: ['City Park', 'Landmark', 'Public Square'],
