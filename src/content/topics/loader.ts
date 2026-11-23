@@ -2,6 +2,7 @@ import hr from './hr.json';
 import en from './en.json';
 import zh from './zh.json';
 import de from './de.json';
+import { guideDetails, guideLabels } from './field-notes';
 import { labels, local, PLACE_SLUGS, photosBySlug, placesBySlug, placeVisit } from './visit';
 
 export const LEGACY_SLUGS = [
@@ -45,6 +46,8 @@ export const topicData: Record<string, Record<string, any>> = Object.fromEntries
       const place = placesBySlug[slug];
       const name = local(place.name, locale);
       const highlight = local(place.highlight, locale);
+      const visit = placeVisit(place, locale);
+      const guide = guideDetails(slug, locale, visit.access);
 
       return [slug, {
         card: { label: name, text: highlight },
@@ -55,8 +58,16 @@ export const topicData: Record<string, Record<string, any>> = Object.fromEntries
         photo: photosBySlug[slug],
         source: place.source,
         isPlace: true,
-        visit: placeVisit(place, locale),
-        sections: [{ type: 'text', heading: local(labels.highlight, locale), paragraphs: [local(place.context, locale), highlight] }],
+        visit,
+        guide,
+        sections: [
+          { type: 'text', heading: local(guideLabels.background, locale), paragraphs: [local(place.context, locale), guide.architecture] },
+          { type: 'text', heading: local(guideLabels.advice, locale), paragraphs: [highlight] },
+          { type: 'route', heading: local(guideLabels.route, locale), items: guide.route, links: guide.links },
+          { type: 'text', heading: local(guideLabels.photoSpot, locale), paragraphs: [guide.photoSpot] },
+        ],
+        faqTitle: local(guideLabels.faq, locale),
+        faq: guide.faq,
         exploreTitle: local(labels.related, locale),
         backLabel: local(labels.back, locale),
       }];

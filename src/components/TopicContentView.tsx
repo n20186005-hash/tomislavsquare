@@ -2,8 +2,9 @@ import { topicData, relatedTopics } from '@/content/topics/loader';
 
 import TopicVisit, { TopicReviews } from './TopicVisit';
 import { labels, local } from '@/content/topics/visit';
+import { guideLabels } from '@/content/topics/field-notes';
 
-function Section({ s, index }: { s: any; index: number }) {
+function Section({ s, index, locale }: { s: any; index: number; locale: string }) {
   const bg = index % 2 === 0 ? 'var(--bg-primary)' : 'var(--bg-secondary)';
 
   if (s.type === 'text') {
@@ -19,6 +20,23 @@ function Section({ s, index }: { s: any; index: number }) {
               {p}
             </p>
           ))}
+        </div>
+      </section>
+    );
+  }
+
+  if (s.type === 'route') {
+    return (
+      <section className="section-padding" style={{ background: bg }}>
+        <div className="max-w-3xl mx-auto px-4 sm:px-6">
+          <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-6">{s.heading}</h2>
+          <ol className="list-decimal pl-6 space-y-4">
+            {s.items.map((item: string, i: number) => (
+              <li key={item} className="pl-1 leading-relaxed">
+                {s.links[i] ? <a className="underline" href={`/${locale}/${s.links[i]}`}>{item}</a> : item}
+              </li>
+            ))}
+          </ol>
         </div>
       </section>
     );
@@ -133,10 +151,26 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
         </div>
       </header>
 
-      <TopicVisit visit={topic.visit} locale={locale} />
+      {topic.guide && (
+        <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+          <div className="max-w-3xl mx-auto px-4 sm:px-6">
+            <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-4">{topic.guide.aboutTitle}</h2>
+            <div className="w-12 h-0.5 mb-5" style={{ background: 'var(--accent)' }} />
+            <p className="leading-relaxed">
+              <strong>{local(labels.manager, locale)}</strong>
+              {' · '}
+              {topic.visit.managementSource
+                ? <a className="underline" href={topic.visit.managementSource}>{topic.visit.operator}</a>
+                : topic.visit.operator}
+            </p>
+            <p className="mt-3 leading-relaxed">{topic.visit.access}</p>
+          </div>
+        </section>
+      )}
+      <TopicVisit visit={topic.visit} locale={locale} showManager={!topic.guide} />
       <div>
         {topic.sections.map((s: any, i: number) => (
-          <Section key={i} s={s} index={i} />
+          <Section key={i} s={s} index={i} locale={locale} />
         ))}
 
         {topic.faq && topic.faq.length > 0 && (
@@ -167,12 +201,16 @@ export default function TopicContentView({ topic, locale, slug }: { topic: any; 
         )}
 
         {topic.photo && (
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 py-4 text-sm" style={{ color: 'var(--text-secondary)' }}>
-            <a className="underline" href={topic.photo.source} target="_blank" rel="noopener noreferrer">
-              {local(labels.photo, locale)}
-            </a>
-            {' · '}{topic.photo.credit}{' · '}{topic.photo.license}
-          </div>
+          <figure className="max-w-3xl mx-auto px-4 sm:px-6 py-8" style={{ color: 'var(--text-secondary)' }}>
+            <h2 className="font-display text-2xl font-semibold mb-4">{local(guideLabels.gallery, locale)}</h2>
+            <img className="mx-auto max-h-[32rem] w-auto max-w-full rounded-xl" src={topic.photo.src} alt={topic.h1} loading="lazy" />
+            <figcaption className="text-sm mt-3">
+              <a className="underline" href={topic.photo.source} target="_blank" rel="noopener noreferrer">
+                {local(labels.photo, locale)}
+              </a>
+              {' · '}{topic.photo.credit}{' · '}{topic.photo.license}
+            </figcaption>
+          </figure>
         )}
 
         {topic.source && (

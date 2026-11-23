@@ -1,0 +1,546 @@
+{
+  "zrinjevac": {
+    "before": "art-pavilion",
+    "after": "archaeological-museum",
+    "photoSpot": [
+      "From the main path, frame the music pavilion between the plane trees.",
+      "S glavne staze uokvirite glazbeni paviljon između platana.",
+      "Rahmen Sie den Musikpavillon vom Hauptweg aus mit den Platanen ein.",
+      "在主步道上以两侧悬铃木为取景框，拍摄音乐亭。"
+    ],
+    "architecture": [
+      "The central pavilion anchors the formal paths, while the perimeter trees define the park’s boundary against surrounding streets.",
+      "Središnji paviljon okuplja pravilne staze, a rubni drvoredi odvajaju park od okolnih ulica.",
+      "Der zentrale Pavillon bildet den Bezugspunkt der Wege, während Baumreihen den Park gegen die Straßen abgrenzen.",
+      "中央音乐亭是规整步道的视觉中心，外围树列则把公园与车流分开。"
+    ]
+  },
+  "ban-jelacic-square": {
+    "before": "zrinjevac",
+    "after": "dolac-market",
+    "photoSpot": [
+      "From the pedestrian side near Manduševac, frame the statue and avoid the tram tracks.",
+      "Sa pješačke strane kod Manduševca snimite kip i ostanite izvan tramvajskih tračnica.",
+      "Fotografieren Sie das Denkmal von der Fußgängerzone am Manduševac aus und bleiben Sie abseits der Gleise.",
+      "在曼杜舍瓦茨喷泉旁的步行区取景，把骑马像收入画面，避开电车轨道。"
+    ],
+    "architecture": [
+      "The uneven building heights around the square reflect different phases of development. Compare the street-facing frontages before heading uphill.",
+      "Različite visine zgrada svjedoče o razvoju trga u više razdoblja. Usporedite pročelja prije uspona.",
+      "Die unterschiedlichen Gebäudehöhen spiegeln mehrere Entwicklungsphasen. Vergleichen Sie die Fassaden vor dem Aufstieg.",
+      "周边建筑高低不一，反映了广场分阶段发展的痕迹。上坡前可先观察各侧立面。"
+    ]
+  },
+  "croatian-national-theatre": {
+    "before": "republic-of-croatia-square",
+    "after": "museum-of-arts-and-crafts",
+    "photoSpot": [
+      "Photograph the Well of Life low in the frame with the yellow theatre behind it.",
+      "Snimite Zdenac života pri dnu kadra sa žutim kazalištem u pozadini.",
+      "Setzen Sie den Lebensbrunnen unten ins Bild und das gelbe Theater dahinter.",
+      "把《生命之泉》放在画面下缘，以黄色剧院为背景。"
+    ],
+    "architecture": [
+      "The projecting entrance and the domed roofline emphasize the middle of the main façade. The square leaves room to take in the building from all sides.",
+      "Istaknuti ulaz i kupole naglašavaju sredinu glavnog pročelja. Otvoreni trg omogućuje pogled sa svih strana.",
+      "Der vorgezogene Eingang und die Kuppeln betonen die Fassadenmitte. Der freie Platz gibt den Blick von mehreren Seiten frei.",
+      "突出的入口和圆顶强调正立面的中央。广场四面开阔，适合绕建筑观察。"
+    ]
+  },
+  "zagreb-main-station": {
+    "before": "king-tomislav-monument",
+    "after": "art-pavilion",
+    "photoSpot": [
+      "Use the square-side pavement to frame the station’s central entrance across the tracks.",
+      "S nogostupa uz trg snimite središnji ulaz kolodvora preko tračnica.",
+      "Fotografieren Sie den mittleren Bahnhofseingang vom Gehweg am Platz aus über die Gleise hinweg.",
+      "站在广场一侧的人行道，隔着轨道拍摄车站中央入口。"
+    ],
+    "architecture": [
+      "The central entrance and long wings make the railway building read as a single symmetrical frontage from the square.",
+      "Središnji ulaz i duga krila s trga se čitaju kao jedinstveno simetrično pročelje.",
+      "Vom Platz aus bilden Mitteleingang und lange Flügel eine symmetrische Front.",
+      "从广场看，中央入口与向两侧延伸的长翼组成一整面连续对称的站房立面。"
+    ]
+  },
+  "botanical-garden": {
+    "before": "zagreb-main-station",
+    "after": "croatian-state-archives",
+    "photoSpot": [
+      "From a designated path by the ponds, use the water to frame the trees and garden structures.",
+      "S označene staze uz jezerca uokvirite drveće i vrtne građevine vodenom površinom.",
+      "Nutzen Sie vom ausgewiesenen Teichweg aus das Wasser als Vordergrund für Bäume und Gartenbauten.",
+      "沿池塘边的指定小径，用水面作前景拍树木与园内建筑。"
+    ],
+    "architecture": [
+      "The paved approaches, rock garden and planted beds make the collection legible at different scales, from landscape to individual specimens.",
+      "Prilazne staze, kamenjar i gredice omogućuju promatranje zbirke od krajolika do pojedinih biljaka.",
+      "Wege, Steingarten und Beete erschließen die Sammlung vom Landschaftsbild bis zur einzelnen Pflanze.",
+      "园路、岩石园与栽培花床提供不同观察尺度，既可看整体造景，也可辨认单株植物。"
+    ]
+  },
+  "museum-of-arts-and-crafts": {
+    "before": "croatian-national-theatre",
+    "after": "ethnographic-museum",
+    "photoSpot": [
+      "Stand on the square-side pavement for a broad view of the decorative frontage.",
+      "Stanite na nogostup uz trg za širok kadar ukrašenog pročelja.",
+      "Vom Gehweg am Platz passt die verzierte Fassade weitgehend ins Bild.",
+      "从广场侧人行道拉开距离，拍下博物馆装饰立面的全景。"
+    ],
+    "architecture": [
+      "The street façade features repeated arched window groups and decorative accents, best compared with the theatre across the square.",
+      "Uličnim pročeljem ponavljaju se skupine lučnih prozora i ukrasi koje možete usporediti s kazalištem preko trga.",
+      "Bogenfenstergruppen und Schmuck wiederholen sich an der Straßenfassade. Das Theater gegenüber bietet einen Vergleich.",
+      "临街立面反复出现成组的拱窗与装饰，可和广场对面的剧院一并比较。"
+    ]
+  },
+  "art-pavilion": {
+    "before": "king-tomislav-monument",
+    "after": "strossmayer-square",
+    "photoSpot": [
+      "Frame the pavilion on the axis from the south end of the square, using the lawn as foreground.",
+      "S južnog kraja trga snimite paviljon u osi, s travnjakom u prvom planu.",
+      "Fotografieren Sie den Pavillon vom Südende auf der Platzachse mit dem Rasen im Vordergrund.",
+      "从广场南端沿中轴取景，以草坪作前景拍摄艺术馆。"
+    ],
+    "architecture": [
+      "The raised central volume and dome mark the end of the square’s long view, with lower wings framing the center.",
+      "Povišeni središnji dio i kupola završavaju dugu vizuru trga, dok niža krila uokviruju sredinu.",
+      "Der erhöhte Mittelbau mit Kuppel schließt die lange Sichtachse ab. Niedrigere Flügel rahmen die Mitte.",
+      "抬高的中央体量与圆顶收住广场长轴，两侧较低的翼楼衬托中心。"
+    ]
+  },
+  "strossmayer-square": {
+    "before": "art-pavilion",
+    "after": "zrinjevac",
+    "photoSpot": [
+      "Use the park path to align the seated statue with the Academy palace behind it.",
+      "Sa staze poravnajte sjedeći kip s palačom Akademije u pozadini.",
+      "Richten Sie vom Parkweg die sitzende Statue auf den Akademiepalast im Hintergrund aus.",
+      "在公园小径上调整位置，让坐姿雕像与后方科学院宫同框。"
+    ],
+    "architecture": [
+      "The greenspace forms an open foreground to the Academy building. Its paths link two other squares along the same north–south corridor.",
+      "Zelena površina tvori otvoren predprostor palače Akademije. Staze povezuju dva susjedna trga u smjeru sjever–jug.",
+      "Die Grünfläche bildet einen offenen Vorraum der Akademie. Ihre Wege verbinden zwei weitere Plätze auf derselben Nord-Süd-Achse.",
+      "绿地给科学院宫留出开阔的前景，小径同时连接南北轴线上的两座相邻广场。"
+    ]
+  },
+  "croatian-state-archives": {
+    "before": "botanical-garden",
+    "after": "ethnographic-museum",
+    "photoSpot": [
+      "Step back on Marulić Square to include the roofline, then use a tighter frame for the owls.",
+      "Na Marulićevu trgu odmaknite se za cijeli krov, a zatim približite kadar sovama.",
+      "Treten Sie am Marulić-Platz zurück, um die Dachlinie aufzunehmen, und wählen Sie für die Eulen einen engeren Ausschnitt.",
+      "在马鲁利奇广场后退几步拍屋顶轮廓，再用较窄的画幅单独拍猫头鹰。"
+    ],
+    "architecture": [
+      "Compare the building’s formal symmetry with the more playful animal ornament above the roofline.",
+      "Usporedite pravilnu simetriju zgrade s razigranim životinjskim ukrasima na krovu.",
+      "Vergleichen Sie die strenge Symmetrie des Baus mit den lebhaften Tiermotiven auf dem Dach.",
+      "先看楼体严整的对称构图，再抬头对照屋顶更活泼的动物装饰。"
+    ]
+  },
+  "ethnographic-museum": {
+    "before": "croatian-state-archives",
+    "after": "mimara-museum",
+    "photoSpot": [
+      "From Mažuranić Square, look diagonally along the frontage to capture its ornament and depth.",
+      "S Mažuranićeva trga snimite pročelje ukoso kako biste zabilježili ukrase i dubinu.",
+      "Fotografieren Sie die Fassade vom Mažuranić-Platz schräg, damit Schmuck und Tiefe sichtbar werden.",
+      "从马茹拉尼奇广场斜拍立面，同时保留装饰细节和纵深。"
+    ],
+    "architecture": [
+      "The building’s decorative exterior predates its museum use. Treat the façade and the collections as two parts of the visit.",
+      "Ukrašeno pročelje starije je od muzejske namjene zgrade. Promotrite pročelje i zbirke kao dva dijela posjeta.",
+      "Der Fassadenschmuck stammt aus der Zeit vor der Museumsnutzung. Planen Sie Zeit für Bau und Sammlung ein.",
+      "装饰立面早于博物馆入驻。游览时可先看馆舍外观，再看展陈中的器物。"
+    ]
+  },
+  "mimara-museum": {
+    "before": "ethnographic-museum",
+    "after": "republic-of-croatia-square",
+    "photoSpot": [
+      "On Roosevelt Square, line up with the central bay for a balanced view of the former school building.",
+      "Na Rooseveltovu trgu poravnajte se sa središtem pročelja za simetričan kadar bivše škole.",
+      "Richten Sie sich am Roosevelt-Platz auf die Fassadenmitte aus, um das ehemalige Schulgebäude symmetrisch aufzunehmen.",
+      "在罗斯福广场对准外立面中央，拍出旧校舍的对称结构。"
+    ],
+    "architecture": [
+      "The broad wings and repeated window bays reveal the scale of the former school building before its conversion into a museum.",
+      "Široka krila i nizovi prozora pokazuju mjerilo nekadašnje škole prije preuređenja u muzej.",
+      "Breite Seitenflügel und regelmäßige Fensterachsen zeigen die Größe des früheren Schulbaus.",
+      "宽大的侧翼与规则排列的窗间格，仍能看出这座建筑改为博物馆前的校舍尺度。"
+    ]
+  },
+  "republic-of-croatia-square": {
+    "before": "museum-of-arts-and-crafts",
+    "after": "croatian-national-theatre",
+    "photoSpot": [
+      "From the square’s edge, use a wide frame to show the theatre in relation to the surrounding buildings.",
+      "S ruba trga širokim kadrom obuhvatite kazalište i okolne zgrade.",
+      "Nehmen Sie vom Platzrand das Theater samt seiner Umgebung im Weitwinkel auf.",
+      "从广场边沿用广角拍摄，交代剧院与周围建筑的空间关系。"
+    ],
+    "architecture": [
+      "The theatre occupies the middle of the ensemble. From the perimeter, note how pedestrian crossings connect the cultural buildings around it.",
+      "Kazalište zauzima sredinu cjeline. S ruba pogledajte kako prijelazi povezuju okolne kulturne zgrade.",
+      "Das Theater steht in der Mitte des Ensembles. Achten Sie am Rand darauf, wie Übergänge die Kulturbauten verbinden.",
+      "剧院位于建筑群中央。从外围观察各条人行过街通道如何把周围文化机构连起来。"
+    ]
+  },
+  "flower-square": {
+    "before": "octagon",
+    "after": "ban-jelacic-square",
+    "photoSpot": [
+      "Use flowers in the foreground and frame the Orthodox cathedral from a clear edge of the square.",
+      "S prohodnog ruba trga snimite cvijeće u prvom planu i pravoslavnu crkvu iza njega.",
+      "Nehmen Sie vom freien Platzrand Blumen im Vordergrund und die orthodoxe Kathedrale dahinter auf.",
+      "在广场边不挡路的位置，以花摊作前景拍东正教座堂。"
+    ],
+    "architecture": [
+      "The church fronts a broad pedestrian space where stalls and café terraces change the scale of the square throughout the day.",
+      "Crkva gleda na širok pješački prostor čije mjerilo tijekom dana mijenjaju štandovi i terase.",
+      "Die Kirche blickt auf eine breite Fußgängerfläche, deren Wirkung sich mit Ständen und Terrassen im Tagesverlauf verändert.",
+      "教堂面向开阔的步行区。花摊与咖啡露台让广场在不同时段呈现出不同的使用尺度。"
+    ]
+  },
+  "octagon": {
+    "before": "ilica",
+    "after": "flower-square",
+    "photoSpot": [
+      "Stand aside near the central hall and point upward at the eight-sided glazed ceiling.",
+      "Stanite sa strane kod središnje dvorane i usmjerite fotoaparat prema osmerokutnom staklenom svodu.",
+      "Treten Sie in der Mittelhalle zur Seite und richten Sie die Kamera auf die achteckige Glasdecke.",
+      "在中央厅靠边站，向上拍八角玻璃顶。"
+    ],
+    "architecture": [
+      "The octagonal hall is the hinge between the passage’s two arms. The glazed roof brings daylight into the middle of the block.",
+      "Osmerokutna dvorana spaja dva kraka prolaza. Stakleni krov dovodi danje svjetlo u sredinu bloka.",
+      "Die achteckige Halle verbindet die beiden Passagenarme. Das Glasdach bringt Tageslicht in die Blockmitte.",
+      "八角大厅是两段拱廊的转接点，玻璃屋顶把日光引到街区内部。"
+    ]
+  },
+  "ilica": {
+    "before": "ban-jelacic-square",
+    "after": "zagreb-funicular",
+    "photoSpot": [
+      "From the pavement around the Tomićeva junction, frame the street’s façades and passing trams.",
+      "S nogostupa kod Tomićeve snimite ulična pročelja i tramvaje u prolazu.",
+      "Nehmen Sie an der Einmündung der Tomićeva vom Gehweg aus Fassaden und vorbeifahrende Bahnen auf.",
+      "在托米奇街路口附近的人行道，拍沿街立面与经过的电车。"
+    ],
+    "architecture": [
+      "Look above the shopfronts for changes in window spacing and façade heights. They show how separate plots built up along the same corridor.",
+      "Iznad izloga pogledajte razlike u rasporedu prozora i visini pročelja. One pokazuju kako su se zasebne parcele razvijale uz istu ulicu.",
+      "Über den Ladenfronten zeigen wechselnde Fensterabstände und Gebäudehöhen die Entwicklung einzelner Parzellen.",
+      "把目光移到店招上方，留意窗距与楼高的变化，可看出同一街廊内不同地块的建造痕迹。"
+    ]
+  },
+  "british-square": {
+    "before": "ilica",
+    "after": "museum-of-arts-and-crafts",
+    "photoSpot": [
+      "Take a broad view from the market perimeter with stalls in front and the square’s buildings behind.",
+      "S ruba tržnice širokim kadrom obuhvatite štandove i zgrade iza njih.",
+      "Fotografieren Sie vom Marktrand die Stände und die Platzbauten dahinter.",
+      "从市集外围拍宽幅，把摊位与后方广场建筑同框。"
+    ],
+    "architecture": [
+      "The market sits where the street widens at the foot of Pantovčak. The perimeter buildings outline the opening in the otherwise linear street.",
+      "Tržnica je na proširenju ulice pod Pantovčakom. Rubne zgrade jasno ocrtavaju prekid u linearnom potezu.",
+      "Der Markt liegt an der Straßenaufweitung unterhalb des Pantovčak. Die Randbebauung fasst diesen offenen Abschnitt ein.",
+      "市场位于潘托夫恰克山坡脚下、街道拓宽之处。周边建筑界定了这段线性街道中的开敞空间。"
+    ]
+  },
+  "mestrovic-pavilion": {
+    "before": "art-pavilion",
+    "after": "ban-jelacic-square",
+    "photoSpot": [
+      "From the public pavement, frame the columns on a diagonal to show the building’s circular form.",
+      "S nogostupa snimite stupove ukoso kako bi se vidio kružni oblik zgrade.",
+      "Fotografieren Sie vom Gehweg die Säulen schräg, damit der Rundbau erkennbar wird.",
+      "从公共人行道斜拍石柱，交代展亭的圆形轮廓。"
+    ],
+    "architecture": [
+      "The colonnade repeats around the entire drum, so walking around it reveals how the same forms change with the angle of view.",
+      "Kolonada se ponavlja oko cijelog valjka. Obilazak pokazuje kako se isti oblici mijenjaju s kutom gledanja.",
+      "Die Säulenfolge umschließt den gesamten Rundbau. Beim Umrunden ändert sich ihre Wirkung mit dem Blickwinkel.",
+      "石柱环绕整圈圆形主体。绕行观察时，同一组构件会随视角变化呈现不同的节奏。"
+    ]
+  },
+  "technical-museum": {
+    "before": "botanical-garden",
+    "after": "mimara-museum",
+    "photoSpot": [
+      "Photograph the street frontage from the entrance area, and check signage before taking exhibit photos.",
+      "S prostora uz ulaz snimite ulično pročelje, a za fotografiranje izložaka provjerite oznake.",
+      "Fotografieren Sie die Straßenfassade vom Eingangsbereich und prüfen Sie die Hinweise zu Fotos der Exponate.",
+      "在入口附近拍临街外观，拍展品前先查看馆内标示。"
+    ],
+    "architecture": [
+      "The spacious halls suit large machines and vehicles. The layout is easiest to understand by following the route between the bigger exhibits.",
+      "Prostrane dvorane primaju velike strojeve i vozila. Raspored se najbolje razumije prateći put između većih izložaka.",
+      "Die weiten Hallen bieten Platz für Fahrzeuge und Maschinen. Die großen Exponate helfen bei der Orientierung.",
+      "宽大的展厅适合陈列车辆与机械。参观时可按几件大型展品的位置来判断馆内动线。"
+    ]
+  },
+  "archaeological-museum": {
+    "before": "zrinjevac",
+    "after": "ban-jelacic-square",
+    "photoSpot": [
+      "From the west side of the park, use the trees to frame the museum’s historic façade.",
+      "Sa zapadne strane parka stablima uokvirite povijesno pročelje muzeja.",
+      "Rahmen Sie die historische Museumsfassade von der Westseite des Parks mit Bäumen ein.",
+      "从公园西侧借树木取景，把历史立面框入画面。"
+    ],
+    "architecture": [
+      "The museum occupies the former Vranyczany-Hafner palace, part of the nineteenth-century frontage around Zrinjevac.",
+      "Muzej je u bivšoj palači Vranyczany-Hafner, dijelu pročelja iz 19. stoljeća oko Zrinjevca.",
+      "Das Museum belegt den ehemaligen Vranyczany-Hafner-Palast aus der Bebauung des 19. Jahrhunderts am Zrinjevac.",
+      "馆舍原是弗拉尼察尼—哈夫纳宫，属于兹里涅瓦茨公园周边的十九世纪建筑群。"
+    ]
+  },
+  "zagreb-cathedral": {
+    "before": "dolac-market",
+    "after": "tkalciceva-street",
+    "photoSpot": [
+      "From the open area on Kaptol, use a vertical frame for the towers and stay outside restoration fences.",
+      "S otvorenog prostora na Kaptolu snimite tornjeve okomitim kadrom i ostanite izvan gradilišta.",
+      "Nehmen Sie die Türme vom offenen Kaptol im Hochformat auf und bleiben Sie außerhalb der Baustellenzäune.",
+      "在卡普托尔广场开阔处用竖幅拍双塔，并留在施工围栏外。"
+    ],
+    "architecture": [
+      "The pointed arches and twin-tower silhouette are easiest to read from Kaptol. A closer exterior view brings out the stone detailing where visible.",
+      "Šiljasti lukovi i obris dvaju tornjeva najbolje se vide s Kaptola. Izbliza se mogu razaznati dostupni kameni detalji.",
+      "Spitzbögen und Doppelturmfront sind vom Kaptol gut erkennbar. Aus der Nähe treten sichtbare Steinmetzdetails hervor.",
+      "从卡普托尔广场最容易辨认尖拱和双塔。允许靠近时，还可观察露出的石雕细节。"
+    ]
+  },
+  "dolac-market": {
+    "before": "ban-jelacic-square",
+    "after": "zagreb-cathedral",
+    "photoSpot": [
+      "At the terrace edge, frame the rows of red umbrellas without blocking the stairs or shopping aisles.",
+      "S ruba platoa snimite redove crvenih suncobrana bez zaklanjanja stuba ili prolaza.",
+      "Fotografieren Sie am Terrassenrand die roten Schirme, ohne Treppen oder Gänge zu versperren.",
+      "从平台边缘拍成排红伞，避开台阶和买菜通道。"
+    ],
+    "architecture": [
+      "The steps and upper terrace are part of the market’s daily circulation. Pause at the edge to see how the upper and lower levels connect.",
+      "Stube i gornji plato dio su svakodnevnog kretanja tržnicom. S ruba pogledajte kako se povezuju dvije razine.",
+      "Treppe und obere Terrasse gehören zu den täglichen Marktwegen. Vom Rand sieht man die Verbindung der Ebenen.",
+      "台阶和上层平台是市集日常人流的一部分。可在边缘停留，观察上下两层如何相连。"
+    ]
+  },
+  "tkalciceva-street": {
+    "before": "dolac-market",
+    "after": "stone-gate",
+    "photoSpot": [
+      "Look along the street just north of Dolac for narrow fronts receding toward the hillside.",
+      "Pogledajte ulicu sjeverno od Dolca, gdje se uska pročelja nižu prema padini.",
+      "Blicken Sie nördlich des Dolac entlang der schmalen Fassaden zum Hang.",
+      "在多拉茨市场以北沿街取景，拍窄立面随街巷向山坡延伸的层次。"
+    ],
+    "architecture": [
+      "The narrow frontages and bends change the view every few steps. Read them together with the slope leading up toward Gradec.",
+      "Uska pročelja i zavoji mijenjaju pogled svakih nekoliko koraka. Promotrite ih zajedno s usponom prema Gradecu.",
+      "Schmale Fassaden und Kurven wechseln das Straßenbild. Beachten Sie auch den Anstieg in Richtung Gradec.",
+      "狭窄立面与街道转弯让视野随步伐变化，也能借此看出街道向格拉代茨抬升的坡势。"
+    ]
+  },
+  "stone-gate": {
+    "before": "tkalciceva-street",
+    "after": "st-marks-square",
+    "photoSpot": [
+      "Photograph the masonry arch from outside the passage and keep the worship area clear.",
+      "Snimite kameni luk izvan prolaza i ostavite slobodan prostor za molitvu.",
+      "Fotografieren Sie den Steinbogen von außerhalb des Durchgangs und halten Sie den Andachtsbereich frei.",
+      "在门洞外拍石拱，不占用门内祈祷空间。"
+    ],
+    "architecture": [
+      "The thick masonry narrows the passage and makes the transition into Gradec apparent on foot.",
+      "Debeli zidovi sužavaju prolaz pa se ulazak u Gradec jasno osjeti pri hodu.",
+      "Das dicke Mauerwerk verengt den Durchgang und macht den Übergang nach Gradec zu Fuß spürbar.",
+      "厚石墙收窄门洞，步行穿过时能直观感受到进入格拉代茨的空间转换。"
+    ]
+  },
+  "st-marks-church": {
+    "before": "lotrscak-tower",
+    "after": "st-marks-square",
+    "photoSpot": [
+      "Use the permitted south approach for a view of the patterned roof and portal.",
+      "S dopuštenog južnog prilaza snimite šareni krov i portal.",
+      "Nutzen Sie den zugänglichen südlichen Zugang für Dachmuster und Portal.",
+      "从允许通行的南侧入口取景，兼顾彩瓦屋顶与南门雕塑。"
+    ],
+    "architecture": [
+      "The south portal rewards a closer look at the individual figures, while the roof pattern is easier to read from farther back.",
+      "Južni portal vrijedi pogledati izbliza zbog pojedinih likova, a uzorak krova bolje se čita s odmaka.",
+      "Am Südportal lohnt der Blick auf einzelne Figuren, während das Dachmuster aus größerem Abstand deutlicher wird.",
+      "南门适合近看各尊雕像，彩瓦图案则要退远些才容易看清整体。"
+    ]
+  },
+  "st-marks-square": {
+    "before": "stone-gate",
+    "after": "zagreb-city-museum",
+    "photoSpot": [
+      "Frame the church between the buildings at the edge of the square, respecting any cordons.",
+      "S ruba trga uokvirite crkvu okolnim zgradama i poštujte ograde.",
+      "Rahmen Sie die Kirche vom Platzrand mit den Nachbargebäuden ein und beachten Sie Absperrungen.",
+      "从广场外围用两侧建筑框住教堂，遵循现场围挡。"
+    ],
+    "architecture": [
+      "The church stands in the middle of the plateau, with the parliamentary and government buildings establishing distinct edges.",
+      "Crkva je u sredini platoa, a zgrade Sabora i Vlade oblikuju njegove rubove.",
+      "Die Kirche besetzt die Mitte des Plateaus, Parlament und Regierungssitz prägen seine Ränder.",
+      "教堂居于平台中央，议会和政府办公建筑分别构成广场边界。"
+    ]
+  },
+  "lotrscak-tower": {
+    "before": "zagreb-funicular",
+    "after": "strossmayer-promenade",
+    "photoSpot": [
+      "From the promenade below the tower, try a vertical frame that includes the base and upper openings.",
+      "Sa šetališta pod kulom snimite okomiti kadar s podnožjem i gornjim otvorima.",
+      "Wählen Sie von der Promenade aus ein Hochformat mit Sockel und oberen Öffnungen.",
+      "在塔下步道用竖幅拍摄，把底座和上层开口一并收入画面。"
+    ],
+    "architecture": [
+      "The masonry mass and small openings read differently from below than from the level of the promenade.",
+      "Kamena masa i mali otvori drukčije se vide iz podnožja nego s razine šetališta.",
+      "Mauerwerk und kleine Öffnungen wirken vom Fuß des Hangs anders als auf Höhe der Promenade.",
+      "从山脚仰望与在步道平视，塔楼厚实的石墙和较小的开口呈现不同的比例。"
+    ]
+  },
+  "zagreb-funicular": {
+    "before": "ilica",
+    "after": "lotrscak-tower",
+    "photoSpot": [
+      "From the public approach on Tomićeva, photograph uphill along the track without entering the operating area.",
+      "S javnog prilaza u Tomićevoj snimite uspon pruge bez ulaska u prostor pogona.",
+      "Fotografieren Sie von der öffentlichen Tomićeva bergauf entlang der Strecke und betreten Sie den Betriebsbereich nicht.",
+      "从托米奇街公共入口沿轨道向上拍摄，留在运营区外。"
+    ],
+    "architecture": [
+      "The lower station fits between street buildings, and the steep track makes the height difference between the two districts visible.",
+      "Donja postaja smještena je među uličnim zgradama, a strma pruga pokazuje visinsku razliku između dviju četvrti.",
+      "Die Talstation liegt zwischen Straßenbauten. Die steile Strecke macht den Höhenunterschied der Viertel sichtbar.",
+      "下站夹在街巷建筑之间，陡峭轨道清楚展示了上下城区的高度差。"
+    ]
+  },
+  "strossmayer-promenade": {
+    "before": "lotrscak-tower",
+    "after": "museum-of-broken-relationships",
+    "photoSpot": [
+      "At a clear section of the terrace railing, frame the Lower Town rooftops or the Matoš bench sculpture.",
+      "Kod prohodnog dijela ograde snimite donjogradske krovove ili Matošev kip na klupi.",
+      "Fotografieren Sie an einem freien Abschnitt des Terrassengeländers die Dächer der Unterstadt oder die Matoš-Figur.",
+      "在不挡路的栏杆旁拍下城区屋顶，或另取一张马托什长椅雕像。"
+    ],
+    "architecture": [
+      "The terrace follows the break in the slope. Its views open intermittently between trees, benches and railings.",
+      "Terasa prati prijelom padine. Pogledi se otvaraju između stabala, klupa i ograde.",
+      "Die Terrasse folgt der Hangkante. Zwischen Bäumen, Bänken und Geländer öffnen sich wechselnde Ausblicke.",
+      "观景平台沿坡缘布置，视野在树木、长椅与栏杆之间交替打开。"
+    ]
+  },
+  "museum-of-broken-relationships": {
+    "before": "lotrscak-tower",
+    "after": "croatian-museum-of-naive-art",
+    "photoSpot": [
+      "Use the street corner to show the museum’s entrance in its Upper Town setting.",
+      "S ugla ulice snimite ulaz muzeja u gornjogradskom okruženju.",
+      "Zeigen Sie vom Straßeneck den Museumseingang in seiner Oberstadtumgebung.",
+      "在街角拍馆门，把周围上城区街景也收入画面。"
+    ],
+    "architecture": [
+      "The corner entrance sits within a historic street block, so the outside approach is an opportunity to see the scale of residential Upper Town streets.",
+      "Ugaoni ulaz dio je povijesnog bloka pa prilaz pokazuje mjerilo stambenih ulica Gornjega grada.",
+      "Der Eckzugang liegt in einem historischen Block und zeigt den Maßstab der Wohnstraßen der Oberstadt.",
+      "转角入口位于历史街区中，进馆前可顺便观察上城区住宅街道的尺度。"
+    ]
+  },
+  "zagreb-city-museum": {
+    "before": "st-marks-square",
+    "after": "stone-gate",
+    "photoSpot": [
+      "From Opatička Street, frame the former convent entrance and the adjoining wall.",
+      "Iz Opatičke snimite ulaz nekadašnjeg samostana i susjedni zid.",
+      "Fotografieren Sie von der Opatička den ehemaligen Klostereingang samt angrenzender Mauer.",
+      "从奥帕蒂奇卡街拍旧修道院入口和相邻墙面。"
+    ],
+    "architecture": [
+      "The street wall and former convent entrance show how the site was set apart from the surrounding blocks. Continue into the courtyard where access permits.",
+      "Ulični zid i ulaz bivšeg samostana pokazuju odvojenost sklopa od okolnih blokova. Ako je dopušteno, nastavite u dvorište.",
+      "Straßenmauer und ehemaliger Klostereingang zeigen die Abgrenzung zum Viertel. Gehen Sie bei freiem Zugang in den Hof weiter.",
+      "临街围墙与旧修道院入口显示出建筑群原本与街区的区隔，若开放可继续进入庭院观察。"
+    ]
+  },
+  "croatian-museum-of-naive-art": {
+    "before": "museum-of-broken-relationships",
+    "after": "st-marks-square",
+    "photoSpot": [
+      "From the opposite pavement, show the entrance in context. Ask before photographing glass paintings.",
+      "Sa suprotnog nogostupa snimite ulaz u kontekstu ulice. Za slike na staklu prvo pitajte osoblje.",
+      "Zeigen Sie den Eingang vom gegenüberliegenden Gehweg. Fragen Sie vor Fotos der Hinterglasbilder nach.",
+      "从街道对面拍入口和街景，拍摄玻璃画前先询问馆方。"
+    ],
+    "architecture": [
+      "The street-level entrance is set in a compact historic frontage. Inside, look at the differences in scale between framed works and freestanding pieces.",
+      "Ulaz je dio zbijenog povijesnog pročelja. U muzeju usporedite mjerilo uokvirenih djela i samostojećih skulptura.",
+      "Der Eingang liegt in einer kompakten historischen Front. Innen lässt sich der Maßstab gerahmter Arbeiten mit freistehenden Werken vergleichen.",
+      "入口嵌在紧凑的历史立面中。进入展厅后，可对比装框作品和独立雕塑的尺度。"
+    ]
+  },
+  "jesuit-square": {
+    "before": "st-marks-square",
+    "after": "lotrscak-tower",
+    "photoSpot": [
+      "Use a diagonal from the square to show how the former monastery buildings enclose the space.",
+      "S trga snimite dijagonalno kako bi se vidjelo kako samostanske zgrade zatvaraju prostor.",
+      "Fotografieren Sie diagonal über den Platz, um die räumliche Wirkung der Klosterbauten zu zeigen.",
+      "从广场斜角取景，拍出原修道院建筑围合广场的关系。"
+    ],
+    "architecture": [
+      "The square and courtyard are useful for understanding how the former monastery grouped several buildings around shared open space.",
+      "Trg i dvorište pokazuju kako je bivši samostan okupio zgrade oko zajedničkog otvorenog prostora.",
+      "Platz und Hof zeigen, wie das ehemalige Kloster mehrere Bauten um gemeinsame Freiräume gruppierte.",
+      "广场和庭院可帮助理解旧修道院如何围绕共用的露天空间布局多座建筑。"
+    ]
+  },
+  "maksimir-park": {
+    "before": "",
+    "after": "",
+    "photoSpot": [
+      "From the main axis, use the tree-lined path as a leading line toward the belvedere.",
+      "Na glavnoj osi iskoristite drvored kao liniju pogleda prema Vidikovcu.",
+      "Nutzen Sie auf der Hauptachse die Baumallee als Blickführung zum Aussichtspavillon.",
+      "在主轴步道上用两侧树列引导视线，指向远处的观景亭。"
+    ],
+    "architecture": [
+      "The straight approach and the more winding routes beyond it offer two ways to read the designed landscape.",
+      "Ravni prilaz i vijugavije staze iza njega daju dva pogleda na oblikovani krajolik.",
+      "Der geradlinige Zugang und die gewundenen Wege dahinter zeigen zwei Seiten der gestalteten Landschaft.",
+      "入口主轴笔直，深入后的步道更曲折。两种路线展示了园林不同的设计手法。"
+    ]
+  },
+  "mirogoj": {
+    "before": "",
+    "after": "",
+    "photoSpot": [
+      "From the main gate, photograph the sweep of the arcades without including mourners.",
+      "S glavnog ulaza snimite niz arkada bez uključivanja ožalošćenih u kadar.",
+      "Fotografieren Sie vom Haupteingang die Arkadenreihe, ohne Trauernde ins Bild zu nehmen.",
+      "从正门拍绵延的拱廊，避免将悼念者拍入画面。"
+    ],
+    "architecture": [
+      "The repeating arches bring order to the long perimeter. The domed sections serve as landmarks along the enclosure.",
+      "Ponavljanje lukova daje ritam dugom obodu. Dijelovi s kupolama služe kao orijentiri.",
+      "Die wiederkehrenden Bögen gliedern die lange Einfassung. Die Kuppelabschnitte dienen als Orientierungspunkte.",
+      "重复的拱券为长长的外围建筑建立节奏，带圆顶的段落则是沿边行走时的辨识点。"
+    ]
+  }
+}

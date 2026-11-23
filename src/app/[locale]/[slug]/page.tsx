@@ -94,6 +94,14 @@ export default async function TopicRoute({
     url: `${baseUrl}/${locale}/${slug}`,
     name: topic.title,
     description: topic.description,
+    ...(topic.isPlace && {
+      mainEntity: {
+        '@type': 'Place',
+        name: topic.h1,
+        address: topic.visit.address,
+        hasMap: topic.visit.map,
+      },
+    }),
     inLanguage: langMap[locale] || 'hr',
     isPartOf: { '@id': `${baseUrl}/#website` },
     breadcrumb: { '@id': `${baseUrl}/${locale}/${slug}#breadcrumb` },
